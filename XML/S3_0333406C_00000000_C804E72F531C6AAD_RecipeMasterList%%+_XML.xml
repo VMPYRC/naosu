@@ -281,6 +281,8 @@
   <Can_Be_Favorite>x</Can_Be_Favorite>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Breakfast>x</Breakfast>
+  <Brunch>x</Brunch>  
   <Lunch>x</Lunch>
   <Dinner>x</Dinner>
   <Ingredient_1>Cheese</Ingredient_1>
@@ -318,7 +320,8 @@
   <Can_Be_Favorite>x</Can_Be_Favorite>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
-  <Brunch>x</Brunch>
+  <Breakfast>x</Breakfast>
+  <Brunch>x</Brunch>  
   <Lunch>x</Lunch>
   <Dinner>x</Dinner>
   <Ingredient_1>Lettuce</Ingredient_1>
@@ -350,8 +353,11 @@
   <Can_Be_Favorite>x</Can_Be_Favorite>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Dessert>x</Dessert>
   <Breakfast>x</Breakfast>
-  <Brunch>x</Brunch>
+  <Brunch>x</Brunch>  
+  <Lunch>x</Lunch>
+  <Dinner>x</Dinner>
   <Ingredient_1>Egg</Ingredient_1>
   <Allows_Food_Processor>x</Allows_Food_Processor>
   <Is_Vegetarian>x</Is_Vegetarian>
@@ -388,8 +394,11 @@
   <Can_Be_Favorite>x</Can_Be_Favorite>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
-  <Brunch>x</Brunch>
+  <Dessert>x</Dessert>
+  <Breakfast>x</Breakfast>
+  <Brunch>x</Brunch>  
   <Lunch>x</Lunch>
+  <Dinner>x</Dinner>
   <Ingredient_1>Fruit</Ingredient_1>
   <Is_Vegetarian>x</Is_Vegetarian>
   <Create_In_Fridge>FoodTray</Create_In_Fridge>
@@ -416,8 +425,11 @@
   <Can_Be_Favorite>x</Can_Be_Favorite>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Dessert>x</Dessert>
   <Breakfast>x</Breakfast>
-  <Brunch>x</Brunch>
+  <Brunch>x</Brunch>  
+  <Lunch>x</Lunch>
+  <Dinner>x</Dinner>
   <Ingredient_1>Fruit</Ingredient_1>
   <Allows_Food_Processor>x</Allows_Food_Processor>
   <Is_Vegetarian>x</Is_Vegetarian>
@@ -452,6 +464,8 @@
   <Can_Be_Favorite>x</Can_Be_Favorite>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Breakfast>x</Breakfast>
+  <Brunch>x</Brunch>  
   <Lunch>x</Lunch>
   <Dinner>x</Dinner>
   <Ingredient_1>Tomato</Ingredient_1>
@@ -489,6 +503,8 @@
   <Can_Be_Favorite>x</Can_Be_Favorite>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Breakfast>x</Breakfast>
+  <Brunch>x</Brunch>  
   <Lunch>x</Lunch>
   <Dinner>x</Dinner>
   <Ingredient_1>Hot Dogs</Ingredient_1>
@@ -523,6 +539,8 @@
   <Can_Be_Favorite>x</Can_Be_Favorite>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Breakfast>x</Breakfast>
+  <Brunch>x</Brunch>  
   <Lunch>x</Lunch>
   <Dinner>x</Dinner>
   <Ingredient_1>Tofu</Ingredient_1>
@@ -558,7 +576,10 @@
   <Can_Be_Favorite>x</Can_Be_Favorite>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Breakfast>x</Breakfast>
+  <Brunch>x</Brunch>  
   <Lunch>x</Lunch>
+  <Dinner>x</Dinner>
   <Ingredient_1>Cheese</Ingredient_1>
   <Is_Vegetarian>x</Is_Vegetarian>
   <Create_In_Fridge>FoodTray</Create_In_Fridge>
@@ -591,8 +612,11 @@
   <Can_Be_Favorite>x</Can_Be_Favorite>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
-  <Brunch>x</Brunch>
+  <Dessert>x</Dessert>
+  <Breakfast>x</Breakfast>
+  <Brunch>x</Brunch>  
   <Lunch>x</Lunch>
+  <Dinner>x</Dinner>
   <Ingredient_1>Banana</Ingredient_1>
   <Is_Vegetarian>x</Is_Vegetarian>
   <Create_In_Fridge>FoodTray</Create_In_Fridge>
@@ -626,6 +650,8 @@
   <Can_Be_Favorite>x</Can_Be_Favorite>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Breakfast>x</Breakfast>
+  <Brunch>x</Brunch>  
   <Lunch>x</Lunch>
   <Dinner>x</Dinner>
   <Ingredient_1>Onion</Ingredient_1>
@@ -662,6 +688,9 @@
   <Can_Be_Favorite>x</Can_Be_Favorite>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Breakfast>x</Breakfast>
+  <Brunch>x</Brunch>  
+  <Lunch>x</Lunch>
   <Dinner>x</Dinner>
   <Ingredient_1>Fish</Ingredient_1>
   <Create_In_Fridge>FoodTray</Create_In_Fridge>
@@ -694,6 +723,9 @@
   <Can_Be_Favorite>x</Can_Be_Favorite>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Breakfast>x</Breakfast>
+  <Brunch>x</Brunch>  
+  <Lunch>x</Lunch>
   <Dinner>x</Dinner>
   <Ingredient_1>Tofu</Ingredient_1>
   <Is_Vegetarian>x</Is_Vegetarian>
@@ -763,6 +795,9 @@
   <Can_Be_Favorite>x</Can_Be_Favorite>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Breakfast>x</Breakfast>
+  <Brunch>x</Brunch>  
+  <Lunch>x</Lunch>
   <Dinner>x</Dinner>
   <Ingredient_1>Tomato</Ingredient_1>
   <Allows_Food_Processor>x</Allows_Food_Processor>
@@ -798,6 +833,9 @@
   <Can_Be_Favorite>x</Can_Be_Favorite>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Breakfast>x</Breakfast>
+  <Brunch>x</Brunch>  
+  <Lunch>x</Lunch>
   <Dinner>x</Dinner>
   <Ingredient_1>Tomato</Ingredient_1>
   <Allows_Food_Processor>x</Allows_Food_Processor>
@@ -834,6 +872,9 @@
   <Can_Be_Favorite>x</Can_Be_Favorite>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Breakfast>x</Breakfast>
+  <Brunch>x</Brunch>  
+  <Lunch>x</Lunch>
   <Dinner>x</Dinner>
   <Ingredient_1>Fish</Ingredient_1>
   <Generic_Recipe_Name>Sushi</Generic_Recipe_Name>
@@ -863,6 +904,9 @@
   <Can_Be_Favorite>x</Can_Be_Favorite>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Breakfast>x</Breakfast>
+  <Brunch>x</Brunch>  
+  <Lunch>x</Lunch>
   <Dinner>x</Dinner>
   <Ingredient_1>Tofu</Ingredient_1>
   <Is_Vegetarian>x</Is_Vegetarian>
@@ -891,8 +935,11 @@
   <Can_Be_Favorite>x</Can_Be_Favorite>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Dessert>x</Dessert>
   <Breakfast>x</Breakfast>
-  <Brunch>x</Brunch>
+  <Brunch>x</Brunch>  
+  <Lunch>x</Lunch>
+  <Dinner>x</Dinner>
   <Ingredient_1>Apple</Ingredient_1>
   <Ingredient_2>Grapes</Ingredient_2>
   <Allows_Food_Processor>x</Allows_Food_Processor>
@@ -922,6 +969,8 @@
   <Can_Be_Favorite>x</Can_Be_Favorite>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Breakfast>x</Breakfast>
+  <Brunch>x</Brunch>  
   <Lunch>x</Lunch>
   <Dinner>x</Dinner>
   <Ingredient_1>Steak</Ingredient_1>
@@ -956,6 +1005,8 @@
   <Can_Be_Favorite>x</Can_Be_Favorite>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Breakfast>x</Breakfast>
+  <Brunch>x</Brunch>  
   <Lunch>x</Lunch>
   <Dinner>x</Dinner>
   <Ingredient_1>Tofu</Ingredient_1>
@@ -992,6 +1043,9 @@
   <Can_Be_Favorite>x</Can_Be_Favorite>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Breakfast>x</Breakfast>
+  <Brunch>x</Brunch>  
+  <Lunch>x</Lunch>
   <Dinner>x</Dinner>
   <Ingredient_1>Ingredient</Ingredient_1>
   <Ingredient_2>Ingredient</Ingredient_2>
@@ -1028,6 +1082,8 @@
   <Can_Be_Favorite>x</Can_Be_Favorite>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Breakfast>x</Breakfast>
+  <Brunch>x</Brunch>  
   <Lunch>x</Lunch>
   <Dinner>x</Dinner>
   <Ingredient_1>Burger Patty</Ingredient_1>
@@ -1063,6 +1119,8 @@
   <Can_Be_Favorite>x</Can_Be_Favorite>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Breakfast>x</Breakfast>
+  <Brunch>x</Brunch>  
   <Lunch>x</Lunch>
   <Dinner>x</Dinner>
   <Ingredient_1>Tofu</Ingredient_1>
@@ -1171,7 +1229,9 @@
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
   <Breakfast>x</Breakfast>
-  <Brunch>x</Brunch>
+  <Brunch>x</Brunch>  
+  <Lunch>x</Lunch>
+  <Dinner>x</Dinner>
   <Ingredient_1>Egg</Ingredient_1>
   <Ingredient_2>Watermelon</Ingredient_2>
   <Is_Vegetarian>x</Is_Vegetarian>
@@ -1205,6 +1265,9 @@
   <Can_Be_Favorite>x</Can_Be_Favorite>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Breakfast>x</Breakfast>
+  <Brunch>x</Brunch>  
+  <Lunch>x</Lunch>
   <Dinner>x</Dinner>
   <Ingredient_1>Steak</Ingredient_1>
   <Ingredient_2>Vegetable</Ingredient_2>
@@ -1239,6 +1302,9 @@
   <Can_Be_Favorite>x</Can_Be_Favorite>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Breakfast>x</Breakfast>
+  <Brunch>x</Brunch>  
+  <Lunch>x</Lunch>
   <Dinner>x</Dinner>
   <Ingredient_1>Tofu</Ingredient_1>
   <Ingredient_2>Vegetable</Ingredient_2>
@@ -1275,6 +1341,9 @@
   <Can_Be_Favorite>x</Can_Be_Favorite>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Breakfast>x</Breakfast>
+  <Brunch>x</Brunch>  
+  <Lunch>x</Lunch>
   <Dinner>x</Dinner>
   <Ingredient_1>Salmon</Ingredient_1>
   <Ingredient_2>Potato</Ingredient_2>
@@ -1311,6 +1380,9 @@
   <Can_Be_Favorite>x</Can_Be_Favorite>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Breakfast>x</Breakfast>
+  <Brunch>x</Brunch>  
+  <Lunch>x</Lunch>
   <Dinner>x</Dinner>
   <Ingredient_1>Tofu</Ingredient_1>
   <Ingredient_2>Potato</Ingredient_2>
@@ -1348,8 +1420,11 @@
   <Can_Be_Favorite>x</Can_Be_Favorite>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Dessert>x</Dessert>
   <Breakfast>x</Breakfast>
-  <Brunch>x</Brunch>
+  <Brunch>x</Brunch>  
+  <Lunch>x</Lunch>
+  <Dinner>x</Dinner>
   <Ingredient_1>Egg</Ingredient_1>
   <Ingredient_2>Apple</Ingredient_2>
   <Ingredient_3>Apple</Ingredient_3>
@@ -1386,8 +1461,10 @@
   <Can_Be_Favorite>x</Can_Be_Favorite>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
-  <Brunch>x</Brunch>
+  <Breakfast>x</Breakfast>
+  <Brunch>x</Brunch>  
   <Lunch>x</Lunch>
+  <Dinner>x</Dinner>
   <Ingredient_1>Fish</Ingredient_1>
   <Ingredient_2>Fish</Ingredient_2>
   <Ingredient_3>Fish</Ingredient_3>
@@ -1423,8 +1500,10 @@
   <Can_Be_Favorite>x</Can_Be_Favorite>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
-  <Brunch>x</Brunch>
+  <Breakfast>x</Breakfast>
+  <Brunch>x</Brunch>  
   <Lunch>x</Lunch>
+  <Dinner>x</Dinner>
   <Ingredient_1>Tofu</Ingredient_1>
   <Ingredient_2>Tofu</Ingredient_2>
   <Ingredient_3>Tofu</Ingredient_3>
@@ -1459,6 +1538,9 @@
   <Skill_Chunk>800</Skill_Chunk>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Breakfast>x</Breakfast>
+  <Brunch>x</Brunch>  
+  <Lunch>x</Lunch>
   <Dinner>x</Dinner>
   <Ingredient_1>Turkey</Ingredient_1>
   <Ingredient_2>Vegetable</Ingredient_2>
@@ -1490,6 +1572,9 @@
   <Skill_Chunk>800</Skill_Chunk>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Breakfast>x</Breakfast>
+  <Brunch>x</Brunch>  
+  <Lunch>x</Lunch>
   <Dinner>x</Dinner>
   <Ingredient_1>Tofu</Ingredient_1>
   <Ingredient_2>Vegetable</Ingredient_2>
@@ -1559,6 +1644,9 @@
   <Can_Be_Favorite>x</Can_Be_Favorite>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Breakfast>x</Breakfast>
+  <Brunch>x</Brunch>  
+  <Lunch>x</Lunch>
   <Dinner>x</Dinner>
   <Ingredient_1>Bell Pepper</Ingredient_1>
   <Ingredient_2>Lobster</Ingredient_2>
@@ -1593,6 +1681,9 @@
   <Can_Be_Favorite>x</Can_Be_Favorite>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Breakfast>x</Breakfast>
+  <Brunch>x</Brunch>  
+  <Lunch>x</Lunch>
   <Dinner>x</Dinner>
   <Ingredient_1>Bell Pepper</Ingredient_1>
   <Ingredient_2>Tofu</Ingredient_2>
@@ -1671,9 +1762,13 @@
   <Create_In_Fridge>FoodTray</Create_In_Fridge>
   <Container_Type>Plate</Container_Type>
   <Can_Make_Single>x</Can_Make_Single>
+  <Can_Make_Group>x</Can_Make_Group>
   <Single_Full>foodEatAmbrosia#foodFull:Default</Single_Full>
   <Single_Half>foodEatAmbrosia#foodHalf:FoodHalfFull</Single_Half>
   <Single_Empty>foodEatAmbrosia#foodUsed:Default</Single_Empty>
+  <Group_Full>foodEatAmbrosia#foodFull:Default</Group_Full>
+  <Group_Half>foodEatAmbrosia#foodHalf:FoodHalfFull</Group_Half>
+  <Group_Empty>foodEatAmbrosia#foodUsed:Default</Group_Empty>
   <Utensil>fork</Utensil>
   <VFXName_Full>ambrosiaPlate</VFXName_Full>
   <VenueCost>500</VenueCost>
@@ -1686,6 +1781,7 @@
   <Learnable>False</Learnable>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Dessert>x</Dessert>
   <Is_Vegetarian>x</Is_Vegetarian>
   <Create_In_Fridge>FoodTray</Create_In_Fridge>
   <Container_Type>PlateChild</Container_Type>
@@ -1708,6 +1804,7 @@
   <Learnable>False</Learnable>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Dessert>x</Dessert>
   <Is_Vegetarian>x</Is_Vegetarian>
   <Create_In_Fridge>FoodTray</Create_In_Fridge>
   <Container_Type>PlateChild</Container_Type>
@@ -1736,6 +1833,7 @@
   <Learnable>False</Learnable>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Dessert>x</Dessert>
   <Is_Vegetarian>x</Is_Vegetarian>
   <Create_In_Fridge>FoodTray</Create_In_Fridge>
   <Container_Type>PlateChild</Container_Type>
@@ -1762,6 +1860,7 @@
   <Learnable>False</Learnable>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Dessert>x</Dessert>
   <Is_Vegetarian>x</Is_Vegetarian>
   <Create_In_Fridge>FoodTray</Create_In_Fridge>
   <Container_Type>PlateChild</Container_Type>
@@ -1782,6 +1881,7 @@
   <Learnable>False</Learnable>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Dessert>x</Dessert>
   <Is_Vegetarian>x</Is_Vegetarian>
   <Create_In_Fridge>FoodTray</Create_In_Fridge>
   <Container_Type>PlateChild</Container_Type>
@@ -1803,6 +1903,7 @@
   <Learnable>False</Learnable>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Dessert>x</Dessert>
   <Is_Vegetarian>x</Is_Vegetarian>
   <Create_In_Fridge>FoodTray</Create_In_Fridge>
   <Container_Type>PlateChild</Container_Type>
@@ -1825,6 +1926,7 @@
   <Learnable>False</Learnable>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Dessert>x</Dessert>
   <Is_Vegetarian>x</Is_Vegetarian>
   <Create_In_Fridge>FoodTray</Create_In_Fridge>
   <Container_Type>PlateChild</Container_Type>
@@ -1847,6 +1949,7 @@
   <Learnable>False</Learnable>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Dessert>x</Dessert>
   <Is_Vegetarian>x</Is_Vegetarian>
   <Create_In_Fridge>FoodTray</Create_In_Fridge>
   <Container_Type>PlateChild</Container_Type>
@@ -1869,6 +1972,7 @@
   <Learnable>False</Learnable>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Dessert>x</Dessert>
   <Is_Vegetarian>x</Is_Vegetarian>
   <Create_In_Fridge>FoodTray</Create_In_Fridge>
   <Container_Type>PlateChild</Container_Type>
@@ -1897,6 +2001,7 @@
   <Learnable>False</Learnable>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Dessert>x</Dessert>
   <Is_Vegetarian>x</Is_Vegetarian>
   <Create_In_Fridge>FoodTray</Create_In_Fridge>
   <Container_Type>PlateChild</Container_Type>
@@ -1925,6 +2030,7 @@
   <Learnable>False</Learnable>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Dessert>x</Dessert>
   <Is_Vegetarian>x</Is_Vegetarian>
   <Create_In_Fridge>FoodTray</Create_In_Fridge>
   <Container_Type>PlateChild</Container_Type>
@@ -1953,6 +2059,7 @@
   <Learnable>False</Learnable>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Dessert>x</Dessert>
   <Is_Vegetarian>x</Is_Vegetarian>
   <Create_In_Fridge>FoodTray</Create_In_Fridge>
   <Container_Type>PlateChild</Container_Type>
@@ -1981,6 +2088,7 @@
   <Learnable>False</Learnable>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Dessert>x</Dessert>
   <Is_Vegetarian>x</Is_Vegetarian>
   <Create_In_Fridge>FoodTray</Create_In_Fridge>
   <Container_Type>PlateChild</Container_Type>
@@ -2009,6 +2117,7 @@
   <Learnable>False</Learnable>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Dessert>x</Dessert>
   <Is_Vegetarian>x</Is_Vegetarian>
   <Create_In_Fridge>FoodTray</Create_In_Fridge>
   <Container_Type>PlateChild</Container_Type>
@@ -2038,8 +2147,11 @@
   <Can_Be_Favorite>x</Can_Be_Favorite>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Dessert>x</Dessert>
   <Breakfast>x</Breakfast>
   <Brunch>x</Brunch>
+  <Lunch>x</Lunch>
+  <Dinner>x</Dinner>
   <Ingredient_1>Fruit</Ingredient_1>
   <Ingredient_2>Fruit</Ingredient_2>
   <Is_Vegetarian>x</Is_Vegetarian>
@@ -2075,6 +2187,8 @@
   <Can_Be_Favorite>x</Can_Be_Favorite>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Breakfast>x</Breakfast>
+  <Brunch>x</Brunch>
   <Lunch>x</Lunch>
   <Dinner>x</Dinner>
   <Ingredient_1>Egg</Ingredient_1>
@@ -2112,6 +2226,8 @@
   <Can_Be_Favorite>x</Can_Be_Favorite>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Breakfast>x</Breakfast>
+  <Brunch>x</Brunch>
   <Lunch>x</Lunch>
   <Dinner>x</Dinner>
   <Ingredient_1>Lettuce</Ingredient_1>
@@ -2149,6 +2265,9 @@
   <Can_Be_Favorite>x</Can_Be_Favorite>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Breakfast>x</Breakfast>
+  <Brunch>x</Brunch>
+  <Lunch>x</Lunch>
   <Dinner>x</Dinner>
   <Ingredient_1>Frogs</Ingredient_1>
   <Ingredient_2>Garlic</Ingredient_2>
@@ -2185,6 +2304,8 @@
   <Can_Be_Favorite>x</Can_Be_Favorite>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Breakfast>x</Breakfast>
+  <Brunch>x</Brunch>
   <Lunch>x</Lunch>
   <Dinner>x</Dinner>
   <Ingredient_1>Steak</Ingredient_1>
@@ -2221,6 +2342,8 @@
   <Can_Be_Favorite>x</Can_Be_Favorite>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Breakfast>x</Breakfast>
+  <Brunch>x</Brunch>
   <Lunch>x</Lunch>
   <Dinner>x</Dinner>
   <Ingredient_1>Garlic</Ingredient_1>
@@ -2285,6 +2408,9 @@
   <Skill_Chunk>375</Skill_Chunk>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Breakfast>x</Breakfast>
+  <Brunch>x</Brunch>
+  <Lunch>x</Lunch>
   <Dinner>x</Dinner>
   <Ingredient_1>Fish</Ingredient_1>
   <Ingredient_2>Vegetable</Ingredient_2>
@@ -2370,6 +2496,8 @@
   <Skill_Chunk>0</Skill_Chunk>
   <Learnable>False</Learnable>
   <Can_Spoil>x</Can_Spoil>
+  <Breakfast>x</Breakfast>
+  <Brunch>x</Brunch>
   <Lunch>x</Lunch>
   <Dinner>x</Dinner>
   <Create_In_Fridge>FoodTray</Create_In_Fridge>
@@ -2394,6 +2522,8 @@
   <Skill_Chunk>0</Skill_Chunk>
   <Learnable>False</Learnable>
   <Can_Spoil>x</Can_Spoil>
+  <Breakfast>x</Breakfast>
+  <Brunch>x</Brunch>
   <Lunch>x</Lunch>
   <Dinner>x</Dinner>
   <Is_Vegetarian>x</Is_Vegetarian>
@@ -2419,6 +2549,8 @@
   <Skill_Chunk>0</Skill_Chunk>
   <Learnable>False</Learnable>
   <Can_Spoil>x</Can_Spoil>
+  <Breakfast>x</Breakfast>
+  <Brunch>x</Brunch>
   <Lunch>x</Lunch>
   <Dinner>x</Dinner>
   <Is_Vegetarian>x</Is_Vegetarian>
@@ -2444,6 +2576,8 @@
   <Skill_Chunk>0</Skill_Chunk>
   <Learnable>False</Learnable>
   <Can_Spoil>x</Can_Spoil>
+  <Breakfast>x</Breakfast>
+  <Brunch>x</Brunch>
   <Lunch>x</Lunch>
   <Dinner>x</Dinner>
   <Is_Vegetarian>x</Is_Vegetarian>
@@ -2469,6 +2603,8 @@
   <Skill_Chunk>0</Skill_Chunk>
   <Learnable>False</Learnable>
   <Can_Spoil>x</Can_Spoil>
+  <Breakfast>x</Breakfast>
+  <Brunch>x</Brunch>
   <Lunch>x</Lunch>
   <Dinner>x</Dinner>
   <Create_In_Fridge>Plate</Create_In_Fridge>
@@ -2635,6 +2771,8 @@
   <Can_Spoil>x</Can_Spoil>
   <Breakfast>x</Breakfast>
   <Brunch>x</Brunch>
+  <Lunch>x</Lunch>
+  <Dinner>x</Dinner>
   <Ingredient_1>White Caps</Ingredient_1>
   <Ingredient_2>Bell Pepper</Ingredient_2>
   <Ingredient_3>Egg</Ingredient_3>
@@ -2672,6 +2810,8 @@
   <Can_Be_Favorite>x</Can_Be_Favorite>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Breakfast>x</Breakfast>
+  <Brunch>x</Brunch>
   <Lunch>x</Lunch>
   <Dinner>x</Dinner>
   <Ingredient_1>Porcinis</Ingredient_1>
@@ -2710,6 +2850,8 @@
   <Can_Be_Favorite>x</Can_Be_Favorite>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Breakfast>x</Breakfast>
+  <Brunch>x</Brunch>
   <Lunch>x</Lunch>
   <Dinner>x</Dinner>
   <Ingredient_1>Truffles</Ingredient_1>
@@ -2749,6 +2891,7 @@
   <Can_Be_Favorite>x</Can_Be_Favorite>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Breakfast>x</Breakfast>
   <Brunch>x</Brunch>
   <Lunch>x</Lunch>
   <Dinner>x</Dinner>
@@ -2789,6 +2932,8 @@
   <Learnable>True</Learnable>
   <Can_Be_Favorite>x</Can_Be_Favorite>
   <Can_Spoil>x</Can_Spoil>
+  <Breakfast>x</Breakfast>
+  <Brunch>x</Brunch>
   <Lunch>x</Lunch>
   <Dinner>x</Dinner>
   <Ingredient_1>Fish</Ingredient_1>
@@ -2827,6 +2972,8 @@
   <Can_Be_Favorite>x</Can_Be_Favorite>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Breakfast>x</Breakfast>
+  <Brunch>x</Brunch>
   <Lunch>x</Lunch>
   <Dinner>x</Dinner>
   <Ingredient_1>Steak</Ingredient_1>
@@ -2865,6 +3012,8 @@
   <Can_Be_Favorite>x</Can_Be_Favorite>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Breakfast>x</Breakfast>
+  <Brunch>x</Brunch>
   <Lunch>x</Lunch>
   <Dinner>x</Dinner>
   <Ingredient_1>Tofu</Ingredient_1>
@@ -2904,6 +3053,7 @@
   <Can_Be_Favorite>x</Can_Be_Favorite>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Breakfast>x</Breakfast>
   <Brunch>x</Brunch>
   <Lunch>x</Lunch>
   <Dinner>x</Dinner>
@@ -2942,6 +3092,7 @@
   <Can_Be_Favorite>x</Can_Be_Favorite>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Breakfast>x</Breakfast>
   <Brunch>x</Brunch>
   <Lunch>x</Lunch>
   <Dinner>x</Dinner>
@@ -2980,6 +3131,7 @@
   <Learnable>True</Learnable>
   <Can_Burn>x</Can_Burn>
   <Can_Spoil>x</Can_Spoil>
+  <Breakfast>x</Breakfast>
   <Brunch>x</Brunch>
   <Lunch>x</Lunch>
   <Dinner>x</Dinner>
@@ -3757,6 +3909,9 @@
   <Learnable>False</Learnable>
   <Can_Spoil>x</Can_Spoil>
   <Breakfast>x</Breakfast>
+  <Brunch>x</Brunch>
+  <Lunch>x</Lunch>
+  <Dinner>x</Dinner>
   <Is_Vegetarian>x</Is_Vegetarian>
   <Create_In_Fridge>Bowl</Create_In_Fridge>
   <Container_Type>Bowl</Container_Type>
@@ -3845,6 +4000,7 @@
   <Skill_Chunk>0</Skill_Chunk>
   <Learnable>False</Learnable>
   <Can_Spoil>x</Can_Spoil>
+  <Breakfast>x</Breakfast>
   <Brunch>x</Brunch>
   <Lunch>x</Lunch>
   <Dinner>x</Dinner>
@@ -3879,6 +4035,8 @@
   <Skill_Chunk>0</Skill_Chunk>
   <Learnable>False</Learnable>
   <Can_Spoil>x</Can_Spoil>
+  <Breakfast>x</Breakfast>
+  <Brunch>x</Brunch>
   <Lunch>x</Lunch>
   <Dinner>x</Dinner>
   <Is_Vegetarian>x</Is_Vegetarian>
