@@ -25,7 +25,7 @@
   <CompletionEvent></CompletionEvent>
   <AllowPhoneCompletion>False</AllowPhoneCompletion>
   <CompletionProceduralTestFunction></CompletionProceduralTestFunction>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Source></Source>
@@ -39,7 +39,7 @@
   <TargetInteractionIgnoreTarget>False</TargetInteractionIgnoreTarget>
   <TargetWorldRequired>Undefined</TargetWorldRequired>
   <TargetInteractionCommodity></TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
@@ -175,9 +175,9 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>AthleticCareer_DeliveringFormsInteractionName</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
-  <TargetInteractionStartTime>9:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>5:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <Object>OpportunityObject</Object>
   <ObjectData>AthleticDossier,opp_dossier_r2</ObjectData>
   <RequiredOnCompletion>True</RequiredOnCompletion>
@@ -208,10 +208,10 @@
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>AthleticCareer_InformalEventInteractionName</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>NonWorkDays</TargetInteractionDays>
-  <TargetInteractionStartTime>12:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>7:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>AthleticCareer_PlayGame</GUID>
@@ -232,10 +232,10 @@
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>AthleticCareer_ResearchInteraction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>NonWorkDays</TargetInteractionDays>
-  <TargetInteractionStartTime>9:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>5:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>AthleticCareer_SportsSeminar1</GUID>
@@ -249,10 +249,10 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>AthleticCareer_SportsSeminar1InteractionName</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>NonWorkDays</TargetInteractionDays>
-  <TargetInteractionStartTime>7:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>AthleticCareer_SportsSeminar2</GUID>
@@ -266,10 +266,10 @@
   <Target>RabbitHole</Target>
   <TargetData>Hospital</TargetData>
   <TargetInteractionName>AthleticCareer_SportsSeminar2Interaction</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>NonWorkDays</TargetInteractionDays>
-  <TargetInteractionStartTime>7:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>AthleticCareer_StayLate1</GUID>
@@ -312,14 +312,14 @@
   <Icon>opp_athletic_skill</Icon>
   <EventListenerInfo1>kAchievedMaximumFitness,IgnoreTarget</EventListenerInfo1>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>AthleticSkill_AdonisInteraction</TargetInteractionName>
-  <TargetInteractionLength>30</TargetInteractionLength>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>AthleticSkill_AdvTraining</GUID>
@@ -347,7 +347,7 @@
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>AthleticSkill_BouncerInteractionName</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>AthleticSkill_DoItAll</GUID>
@@ -356,14 +356,14 @@
   <EventListenerInfo1>kSwimming,IgnoreTarget</EventListenerInfo1>
   <EventListenerInfo2>kJogged,IgnoreTarget</EventListenerInfo2>
   <EventListenerInfo3>kWorkedOut,IgnoreTarget</EventListenerInfo3>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>AthleticSkill_DoItAllInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>AthleticSkill_Experiment</GUID>
@@ -373,7 +373,7 @@
   <LossData>150</LossData>
   <EventListenerInfo1>kJogged,Totaled,1,IgnoreTarget</EventListenerInfo1>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>AcquaintanceOrHigher</TargetData>
@@ -388,18 +388,18 @@
   <Icon>opp_athletic_skill</Icon>
   <EventListenerInfo1>kSkillLevelUp,Athletic</EventListenerInfo1>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>AthleticSkill_GoodInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>AthleticSkill_GotWhatItTakes</GUID>
   <Icon>opp_athletic_skill</Icon>
   <EventListenerInfo1>kEventCareerHired,ProfessionalSports</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -427,15 +427,15 @@
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>AthleticSkill_LimitInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>AthleticSkill_Pumped</GUID>
   <Icon>opp_athletic_skill</Icon>
   <EventListenerInfo1>kGotBuff,Pumped</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -443,7 +443,7 @@
   <Icon>opp_athletic_skill</Icon>
   <IsTotaled>True</IsTotaled>
   <EventListenerInfo1>kUsedQuickBurstTone,Totaled,3,IgnoreTarget</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -459,9 +459,9 @@
   <Target>RabbitHole</Target>
   <TargetData>Hospital</TargetData>
   <TargetInteractionName>AthleticSkill_SeminarInteractionName</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
-  <TargetInteractionStartTime>6:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>AthleticSkill_ShowStuff</GUID>
@@ -475,14 +475,14 @@
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>AthleticSkill_ShowOffInteractionName</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>AthleticSkill_Sore</GUID>
   <Icon>opp_athletic_skill</Icon>
   <IsTotaled>TRUE</IsTotaled>
   <EventListenerInfo1>kUsedPushSelfTone,Totaled,3,IgnoreTarget</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>AcquaintanceOrHigher</TargetData>
@@ -493,7 +493,7 @@
   <Icon>opp_athletic_skill</Icon>
   <IsTotaled>TRUE</IsTotaled>
   <EventListenerInfo1>kUsedDontBreakASweatTone,Totaled,3,IgnoreTarget</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -577,9 +577,9 @@
   <TargetData>BusinessAndJournalism</TargetData>
   <TargetInteractionName>Business_BigMergerInteraction</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>240</TargetInteractionLength>
-  <TargetInteractionStartTime>5:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>BusinessCareer_Book1</GUID>
@@ -678,9 +678,9 @@
   <Target>RabbitHole</Target>
   <TargetData>Hospital</TargetData>
   <TargetInteractionName>DeliverDossierInteractionName</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
-  <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <Object>OpportunityObject</Object>
   <ObjectData>EditorsArticles, opp_dossierOfPapers_r2</ObjectData>
   <RequiredOnCompletion>True</RequiredOnCompletion>
@@ -695,9 +695,9 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>DeliverDossierInteractionName</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
-  <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <Object>OpportunityObject</Object>
   <ObjectData>BusinessBriefing, opp_dossierOfPapers_r2</ObjectData>
   <RequiredOnCompletion>True</RequiredOnCompletion>
@@ -712,9 +712,9 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>DeliverDossierInteractionName</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
-  <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <Object>OpportunityObject</Object>
   <ObjectData>CityHallDossier,opp_dossierOfPapers_r2</ObjectData>
   <RequiredOnCompletion>True</RequiredOnCompletion>
@@ -729,9 +729,9 @@
   <Target>RabbitHole</Target>
   <TargetData>MilitaryBase</TargetData>
   <TargetInteractionName>DeliverDossierInteractionName</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
-  <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <Object>OpportunityObject</Object>
   <ObjectData>TopSecretMilitaryDossier,opp_dossierOfPapers_r2</ObjectData>
   <RequiredOnCompletion>True</RequiredOnCompletion>
@@ -749,9 +749,9 @@
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>Business_HoldMeeting1InteractionName</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
-  <TargetInteractionStartTime>2:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>BusinessCareer_HoldMeeting2</GUID>
@@ -765,9 +765,9 @@
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>Business_HoldMeeting2InteractionName</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
-  <TargetInteractionStartTime>2:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>BusinessCareer_HoldMeeting3</GUID>
@@ -781,9 +781,9 @@
   <TargetData>Hospital</TargetData>
   <TargetInteractionName>Business_HoldMeeting3InteractionName</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
-  <TargetInteractionStartTime>2:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>BusinessCareer_HoldMeeting4</GUID>
@@ -797,9 +797,9 @@
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>Business_HoldMeeting4InteractionName</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
-  <TargetInteractionStartTime>2:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>BusinessCareer_HoldMeeting5</GUID>
@@ -813,9 +813,9 @@
   <TargetData>MilitaryBase</TargetData>
   <TargetInteractionName>Business_HoldMeeting5InteractionName</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
-  <TargetInteractionStartTime>2:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>BusinessCareer_LobbyCityHall</GUID>
@@ -827,7 +827,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>Business_LobbyCityHallInteractionName</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>BusinessCareer_Networking1</GUID>
@@ -867,7 +867,7 @@
   <GUID>CharismaSkill_BestFriends</GUID>
   <Icon>opp_Charisma</Icon>
   <EventListenerInfo1>kRelationshipLTRChanged,Best Friend</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>AcquaintanceOrHigher</TargetData>
@@ -876,22 +876,22 @@
   <GUID>CharismaSkill_BusinessClass</GUID>
   <Icon>opp_Charisma</Icon>
   <EventListenerInfo1>kVisitedRabbitHole</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>BusinessAndJournalism</TargetData>
   <TargetInteractionName>Charisma_BusinessClassInteraction</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>CharismaSkill_Charming</GUID>
   <Icon>opp_Charisma</Icon>
   <EventListenerInfo1>kDidCharmingIntroduction,IgnoreTarget</EventListenerInfo1>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>Stranger</TargetData>
@@ -901,21 +901,21 @@
   <GUID>CharismaSkill_Experiment</GUID>
   <Icon>opp_Charisma</Icon>
   <EventListenerInfo1>kVisitedRabbitHole</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>Charisma_ExperimentInteraction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>CharismaSkill_GetToKnow</GUID>
   <Icon>opp_Charisma</Icon>
   <EventListenerInfo1>kDidGetToKnow,IgnoreTarget</EventListenerInfo1>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>AcquaintanceOrHigher</TargetData>
@@ -935,9 +935,9 @@
   <TargetData>Grocery</TargetData>
   <TargetInteractionName>Charisma_CrisisInteraction</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>240</TargetInteractionLength>
-  <TargetInteractionStartTime>1:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>CharismaSkill_MakingFriends</GUID>
@@ -960,54 +960,54 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>CharismaSkill_MoreSkillInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>CharismaSkill_ProperNegotiation</GUID>
   <Icon>opp_Charisma</Icon>
   <EventListenerInfo1>kVisitedRabbitHole</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>PoliceStation</TargetData>
   <TargetInteractionName>Charisma_NegotiationInteraction</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
-  <TargetInteractionStartTime>12:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>CharismaSkill_PublicSpeaking</GUID>
   <Icon>opp_Charisma</Icon>
   <EventListenerInfo1>kVisitedRabbitHole</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>Charisma_PublicSpeakInteraction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>CharismaSkill_SmoothRecovery</GUID>
   <Icon>opp_Charisma</Icon>
   <EventListenerInfo1>kDidSmoothRecovery,IgnoreTarget</EventListenerInfo1>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>CharismaSkill_SmoothRecoveryInteractionName</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>CookingSkill_Advise</GUID>
   <Icon>opp_cooking_skill</Icon>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>InCareer,Culinary</TargetData>
@@ -1017,14 +1017,14 @@
   <GUID>CookingSkill_BakeSale</GUID>
   <Icon>opp_cooking_skill</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
   <TargetInteractionName>Cooking_DeliverCookiesInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>7:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>FoodGroup,Cookies,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>2</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -1036,7 +1036,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>2</TimeoutData>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>AcquaintanceOrHigher</TargetData>
@@ -1052,7 +1052,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>2</TimeoutData>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>AcquaintanceOrHigher</TargetData>
@@ -1066,7 +1066,7 @@
   <GUID>CookingSkill_GrillBurgers</GUID>
   <Icon>opp_cooking_skill</Icon>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>AcquaintanceOrHigher</TargetData>
@@ -1080,7 +1080,7 @@
   <GUID>CookingSkill_GrillCheesesteaks</GUID>
   <Icon>opp_cooking_skill</Icon>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>AcquaintanceOrHigher</TargetData>
@@ -1096,7 +1096,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>3</TimeoutData>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>AcquaintanceOrHigher</TargetData>
@@ -1110,7 +1110,7 @@
   <GUID>CookingSkill_GrillSalmon</GUID>
   <Icon>opp_cooking_skill</Icon>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>AcquaintanceOrHigher</TargetData>
@@ -1124,7 +1124,7 @@
   <GUID>CookingSkill_GrillTriTip</GUID>
   <Icon>opp_cooking_skill</Icon>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>AcquaintanceOrHigher</TargetData>
@@ -1140,7 +1140,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>2</TimeoutData>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>AcquaintanceOrHigher</TargetData>
@@ -1156,7 +1156,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>2</TimeoutData>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>AcquaintanceOrHigher</TargetData>
@@ -1172,7 +1172,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>2</TimeoutData>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>AcquaintanceOrHigher</TargetData>
@@ -1188,12 +1188,12 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>2</TimeoutData>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Hospital</TargetData>
   <TargetInteractionName>CookingSkill_SaveALifeInteractionName</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>FoodSingle,Ambrosia,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>1</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -1227,9 +1227,9 @@
   <Target>RabbitHole</Target>
   <TargetData>PoliceStation</TargetData>
   <TargetInteractionName>Cooking_SupportInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>7:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>FoodGroup,Hamburger,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>1</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -1248,9 +1248,9 @@
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>CookingTalentInteraction</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>7:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>FoodAny,Any,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>1</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -1262,7 +1262,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>2</TimeoutData>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>AcquaintanceOrHigher</TargetData>
@@ -1282,9 +1282,9 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>Criminal_BigHeistInteraction</TargetInteractionName>
-  <TargetInteractionLength>240</TargetInteractionLength>
-  <TargetInteractionStartTime>11:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>3:00AM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>CriminalCareer_Bodyguard</GUID>
@@ -1294,7 +1294,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>Criminal_Bodyguard1InteractionName</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>CriminalCareer_Book1</GUID>
@@ -1397,9 +1397,9 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>Criminal_DeliverBribeInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
-  <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <Object>OpportunityObject</Object>
   <ObjectData>BribeMoney, opp_bribe_r2</ObjectData>
   <RequiredOnCompletion>True</RequiredOnCompletion>
@@ -1417,9 +1417,9 @@
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>Criminal_CaseJointInteraction</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>180</TargetInteractionLength>
-  <TargetInteractionStartTime>10:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>12:00AM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>CriminalCareer_Deliver</GUID>
@@ -1431,9 +1431,9 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>DeliverPackageInteractionName</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
-  <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <Object>OpportunityObject</Object>
   <ObjectData>AHeavyPackage, opp_package_r2</ObjectData>
   <RequiredOnCompletion>True</RequiredOnCompletion>
@@ -1447,7 +1447,7 @@
   <Target>RabbitHole</Target>
   <TargetData>MilitaryBase</TargetData>
   <TargetInteractionName>Criminal_GreatRaceInteractionName</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>CriminalCareer_Intel</GUID>
@@ -1467,7 +1467,7 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>Criminal_DoJob1InteractionName</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>CriminalCareer_Mates</GUID>
@@ -1505,9 +1505,9 @@
   <Target>RabbitHole</Target>
   <TargetData>MilitaryBase</TargetData>
   <TargetInteractionName>Criminal_WorldDominateInteraction</TargetInteractionName>
-  <TargetInteractionLength>240</TargetInteractionLength>
-  <TargetInteractionStartTime>7:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>12:00AM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>CulinaryCareer_Ambrosia</GUID>
@@ -1556,9 +1556,9 @@
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>Culinary_BigFeastInteraction</TargetInteractionName>
   <TargetInteractionCommodity>Hunger,50</TargetInteractionCommodity>
-  <TargetInteractionLength>240</TargetInteractionLength>
-  <TargetInteractionStartTime>5:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>CulinaryCareer_Blowfish</GUID>
@@ -1606,10 +1606,10 @@
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>Culinary_CaterFoodInteraction</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>NonWorkDays</TargetInteractionDays>
-  <TargetInteractionStartTime>6:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>FoodGroup,Any,Nice</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>3</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -1660,9 +1660,9 @@
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>CulinaryCareer_MakeBestQualityMealInteractionName</TargetInteractionName>
-  <TargetInteractionLength>30</TargetInteractionLength>
-  <TargetInteractionStartTime>9:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>12:00AM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>FoodAny,Any,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>1</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -1694,10 +1694,10 @@
   <TargetData>BusinessAndJournalism</TargetData>
   <TargetInteractionName>Culinary_CaterFracasInteraction</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>NonWorkDays</TargetInteractionDays>
-  <TargetInteractionStartTime>4:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>CulinaryCareer_PartyHelp</GUID>
@@ -1711,9 +1711,9 @@
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>Culinary_HelpCaterInteraction</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
-  <TargetInteractionStartTime>5:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>CulinaryCareer_PlayGig</GUID>
@@ -1724,9 +1724,9 @@
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>PlayGig</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
-  <TargetInteractionStartTime>8:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>12:00AM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>CulinaryCareer_ReadBook</GUID>
@@ -1799,22 +1799,22 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>Fishing_BehemothInteraction</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
-  <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>FishingSkill_BlackGoldfish</GUID>
   <Icon>opp_fishing_skill</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>PoliceStation</TargetData>
   <TargetInteractionName>Fishing_GoldFishInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
-  <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Fish,BlackGoldfish,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>1</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -1824,14 +1824,14 @@
   <GUID>FishingSkill_Clownfish</GUID>
   <Icon>opp_fishing_skill</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>Fishing_ClownFishInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
-  <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Fish,TragicClownfish,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>1</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -1847,10 +1847,10 @@
   <Target>RabbitHole</Target>
   <TargetData>Grocery</TargetData>
   <TargetInteractionName>Fishing_CompetitionInteraction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>WeekendDays</TargetInteractionDays>
-  <TargetInteractionStartTime>4:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>FishingSkill_FishingPrep</GUID>
@@ -1859,14 +1859,14 @@
   <TimeoutData>5</TimeoutData>
   <TimeoutEnd>6:00PM</TimeoutEnd>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>BusinessAndJournalism</TargetData>
   <TargetInteractionName>Fishing_PrepInteraction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
-  <TargetInteractionStartTime>12:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>6:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>FishingSkill_LargeCatch</GUID>
@@ -1878,9 +1878,9 @@
   <Target>RabbitHole</Target>
   <TargetData>Grocery</TargetData>
   <TargetInteractionName>Fishing_DeliverFishInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
-  <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Fish,Any,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>15</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -1890,14 +1890,14 @@
   <GUID>FishingSkill_Lobster</GUID>
   <Icon>opp_fishing_skill</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Grocery</TargetData>
   <TargetInteractionName>Fishing_LobsterInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
-  <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Fish,Lobster,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>1</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -1913,9 +1913,9 @@
   <Target>RabbitHole</Target>
   <TargetData>Grocery</TargetData>
   <TargetInteractionName>Fishing_DeliverFishInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
-  <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Fish,Any,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>6</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -1931,9 +1931,9 @@
   <Target>RabbitHole</Target>
   <TargetData>Grocery</TargetData>
   <TargetInteractionName>Fishing_DeliverFishInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
-  <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Fish,Any,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>3</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -1943,15 +1943,15 @@
   <GUID>FishingSkill_SomethingStuck</GUID>
   <Icon>opp_fishing_skill</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>Fishing_StuckInteraction</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
-  <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>FishingSkill_ToCatchADeathFish</GUID>
@@ -1963,9 +1963,9 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>Fishing_DeathFishInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
-  <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Fish,Deathfish,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>1</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -1981,9 +1981,9 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>Fishing_RobotfishInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
-  <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Fish,RobotFish,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>1</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -2002,7 +2002,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>GardeningSkill_AppleInteractionName</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Harvestable,Apple,VeryNice,EqualOrBetter</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>3</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -2021,9 +2021,9 @@
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>Gardening_BagDeliverInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
-  <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Harvestable,Any,VeryNice,EqualOrBetter</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>10</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -2036,14 +2036,14 @@
   <TimeoutData>5</TimeoutData>
   <TimeoutEnd>10:00PM</TimeoutEnd>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Grocery</TargetData>
   <TargetInteractionName>Gardening_BountifulInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
-  <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Harvestable,Any,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>15</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -2053,7 +2053,7 @@
   <GUID>GardeningSkill_ExcellentHarvest</GUID>
   <Icon>opp_gardening_skill</Icon>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>AcquaintanceOrHigher</TargetData>
@@ -2076,9 +2076,9 @@
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>Gardening_DeliverGarlicInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
-  <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Harvestable,Garlic,VeryNice,EqualOrBetter</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>3</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -2097,9 +2097,9 @@
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>Gardening_DeliverGrapesInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
-  <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Harvestable,Grapes,VeryNice,EqualOrBetter</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>3</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -2109,7 +2109,7 @@
   <GUID>GardeningSkill_GreatHarvest</GUID>
   <Icon>opp_gardening_skill</Icon>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>AcquaintanceOrHigher</TargetData>
@@ -2149,9 +2149,9 @@
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>Gardening_DeliverLettuceInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
-  <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Harvestable,Lettuce,VeryNice,EqualOrBetter</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>3</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -2163,7 +2163,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>5</TimeoutData>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>AcquaintanceOrHigher</TargetData>
@@ -2186,9 +2186,9 @@
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>Gardening_DeliverLimeInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
-  <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Harvestable,Lime,VeryNice,EqualOrBetter</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>3</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -2198,7 +2198,7 @@
   <GUID>GardeningSkill_NiceHarvest</GUID>
   <Icon>opp_gardening_skill</Icon>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>AcquaintanceOrHigher</TargetData>
@@ -2221,9 +2221,9 @@
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>Gardening_DeliverOnionInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
-  <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Harvestable,Onion,VeryNice,EqualOrBetter</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>3</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -2233,7 +2233,7 @@
   <GUID>GardeningSkill_OutstandingHarvest</GUID>
   <Icon>opp_gardening_skill</Icon>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>AcquaintanceOrHigher</TargetData>
@@ -2256,9 +2256,9 @@
   <Target>RabbitHole</Target>
   <TargetData>BusinessAndJournalism</TargetData>
   <TargetInteractionName>Gardening_PartyInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
-  <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Harvestable,Flame Fruit,VeryNice,EqualOrBetter</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>6</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -2277,9 +2277,9 @@
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>Gardening_DeliverPepperInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
-  <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Harvestable,Bell Pepper,VeryNice,EqualOrBetter</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>3</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -2289,7 +2289,7 @@
   <GUID>GardeningSkill_PerfectHarvest</GUID>
   <Icon>opp_gardening_skill</Icon>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>AcquaintanceOrHigher</TargetData>
@@ -2312,9 +2312,9 @@
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>Gardening_DeliverPotatoInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
-  <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Harvestable,Potato,VeryNice,EqualOrBetter</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>3</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -2324,14 +2324,14 @@
   <GUID>GardeningSkill_SpecialPlants1</GUID>
   <Icon>opp_gardening_skill</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>120</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>Gardening_BagDeliverInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
-  <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Harvestable,Any,Excellent,EqualOrBetter</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>20</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -2341,14 +2341,14 @@
   <GUID>GardeningSkill_SpecialPlants2</GUID>
   <Icon>opp_gardening_skill</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>120</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>Gardening_BagDeliverInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
-  <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Harvestable,Cheese,Excellent,EqualOrBetter</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>10</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -2358,14 +2358,14 @@
   <GUID>GardeningSkill_SpecialPlants3</GUID>
   <Icon>opp_gardening_skill</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>120</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>Gardening_BagDeliverInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
-  <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Harvestable,Steak,Outstanding,EqualOrBetter</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>10</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -2384,9 +2384,9 @@
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>Gardening_DeliverTomatoInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
-  <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Harvestable,Tomato,Nice,EqualOrBetter</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>3</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -2396,7 +2396,7 @@
   <GUID>GardeningSkill_VeryNiceHarvest</GUID>
   <Icon>opp_gardening_skill</Icon>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>AcquaintanceOrHigher</TargetData>
@@ -2419,9 +2419,9 @@
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>Gardening_DeliverWatermelonInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
-  <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Harvestable,Watermelon,VeryNice,EqualOrBetter</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>3</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -2440,9 +2440,9 @@
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>Guitar_Contest_Interaction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
-  <TargetInteractionStartTime>5:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>GuitarSkill_Backup</GUID>
@@ -2451,14 +2451,14 @@
   <TimeoutData>3</TimeoutData>
   <TimeoutEnd>11:00PM</TimeoutEnd>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>Guitar_BackupInteraction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
-  <TargetInteractionStartTime>5:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>GuitarSkill_BusinessParty</GUID>
@@ -2473,9 +2473,9 @@
   <Target>RabbitHole</Target>
   <TargetData>BusinessAndJournalism</TargetData>
   <TargetInteractionName>Guitar_BusinessPartyInteraction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
-  <TargetInteractionStartTime>6:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>GuitarSkill_FundraiserParty</GUID>
@@ -2489,23 +2489,23 @@
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>Guitar_FundraiserPartyInteraction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
-  <TargetInteractionStartTime>7:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>12:00AM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>GuitarSkill_GainSkill</GUID>
   <Icon>opp_guitar_skill</Icon>
   <EventListenerInfo1>kSkillLevelUp,Guitar</EventListenerInfo1>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>Guitar_GainSkillInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>7:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>GuitarSkill_LotsOfTips</GUID>
@@ -2513,7 +2513,7 @@
   <IsTotaled>True</IsTotaled>
   <EventListenerInfo1>kGotTips,Totaled,500,IgnoreTarget</EventListenerInfo1>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>AcquaintanceOrHigher</TargetData>
@@ -2525,7 +2525,7 @@
   <IsTotaled>TRUE</IsTotaled>
   <EventListenerInfo1>kGotTips,Totaled,50,IgnoreTarget</EventListenerInfo1>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>AcquaintanceOrHigher</TargetData>
@@ -2544,9 +2544,9 @@
   <Target>RabbitHole</Target>
   <TargetData>Bookstore</TargetData>
   <TargetInteractionName>GuitarSkill_OrganizeMusicInteraction</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>5:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>GuitarSkill_ProGuitar</GUID>
@@ -2555,35 +2555,35 @@
   <TimeoutData>5</TimeoutData>
   <TimeoutEnd>5:00PM</TimeoutEnd>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Bookstore</TargetData>
   <TargetInteractionName>Guitar_ProGuitarInteraction</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>Monday,Tuesday,Wednesday,Thursday,Friday</TargetInteractionDays>
-  <TargetInteractionStartTime>3:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>5:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>GuitarSkill_SchoolShow</GUID>
   <Icon>opp_guitar_skill</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
   <TargetInteractionName>Guitar_SchoolInteraction</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>Monday,Tuesday,Wednesday,Thursday,Friday</TargetInteractionDays>
-  <TargetInteractionStartTime>12:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>4:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>HandinessSkill_ConvinceSim</GUID>
   <Icon>opp_handiness_skill</Icon>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>Stranger</TargetData>
@@ -2603,9 +2603,9 @@
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>Handiness_FixCityHallInteraction</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
-  <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>HandinessSkill_FixPolice</GUID>
@@ -2621,9 +2621,9 @@
   <TargetData>PoliceStation</TargetData>
   <TargetInteractionName>Handiness_FixPoliceInteraction</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
-  <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>HandinessSkill_FixRestaurant</GUID>
@@ -2636,9 +2636,9 @@
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>Handiness_FixRestaurantInteraction</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
-  <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>HandinessSkill_LabCrisis</GUID>
@@ -2653,7 +2653,7 @@
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>Handiness_LabCrisisInteraction</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>HandinessSkill_MilitaryInstruction</GUID>
@@ -2669,10 +2669,10 @@
   <TargetData>MilitaryBase</TargetData>
   <TargetInteractionName>Handiness_MilitaryInstructionInteraction</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>Monday,Tuesday,Wednesday,Thursday,Friday</TargetInteractionDays>
-  <TargetInteractionStartTime>3:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>HandinessSkill_RepairMyThing</GUID>
@@ -2738,16 +2738,16 @@
   <GUID>HandinessSkill_TeachClass</GUID>
   <Icon>opp_handiness_skill</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
   <TargetInteractionName>Handiness_TeachInteraction</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>Monday,Tuesday,Wednesday,Thursday,Friday</TargetInteractionDays>
-  <TargetInteractionStartTime>10:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>2:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>HandinessSkill_Upgrade</GUID>
@@ -2756,7 +2756,7 @@
   <LossData>200</LossData>
   <EventListenerInfo1>kSoupedUpSpeakers,SetupObject</EventListenerInfo1>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>AcquaintanceOrHigher</TargetData>
@@ -2775,7 +2775,7 @@
   <LossData>500</LossData>
   <EventListenerInfo1>kUpgradedObject,SetupObject</EventListenerInfo1>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>AcquaintanceOrHigher</TargetData>
@@ -2798,9 +2798,9 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>Journalism_BigCrisisInteraction</TargetInteractionName>
-  <TargetInteractionLength>240</TargetInteractionLength>
-  <TargetInteractionStartTime>6:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>JournalismCareer_Book1</GUID>
@@ -2900,7 +2900,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>Journalism_CheckOutLeadInteractionName</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>JournalismCareer_Concept</GUID>
@@ -2961,7 +2961,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Bookstore</TargetData>
   <TargetInteractionName>Journalism_HelpCompetitionInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>BookWritten,Article,Normal</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>1</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -3001,7 +3001,7 @@
   <TargetData>MilitaryBase</TargetData>
   <TargetInteractionName>Journalism_InterviewInteractionName</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>JournalismCareer_InterviewSource2</GUID>
@@ -3015,9 +3015,9 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>Journalism_InterviewInteractionName</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
-  <TargetInteractionStartTime>7:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>JournalismCareer_SaveCompany</GUID>
@@ -3041,9 +3041,9 @@
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>Journalism_SeminarInteractionName</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
-  <TargetInteractionStartTime>5:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>JournalismCareer_Social1</GUID>
@@ -3101,9 +3101,9 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>LawEnforcement_BigCaseInteraction</TargetInteractionName>
-  <TargetInteractionLength>240</TargetInteractionLength>
-  <TargetInteractionStartTime>6:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>LawEnforcement_Book1</GUID>
@@ -3198,9 +3198,9 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>Law_ConventionInteractionName</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
-  <TargetInteractionStartTime>5:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>LawEnforcement_ForTheChildren</GUID>
@@ -3214,9 +3214,9 @@
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
   <TargetInteractionName>Law_ChildrenInteractionName</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
-  <TargetInteractionStartTime>4:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>6:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>LawEnforcement_Intel</GUID>
@@ -3230,7 +3230,7 @@
   <TargetData>BusinessAndJournalism</TargetData>
   <TargetInteractionName>Law_IntelInteractionName</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>LawEnforcement_Networking</GUID>
@@ -3253,7 +3253,7 @@
   <TargetData>MilitaryBase</TargetData>
   <TargetInteractionName>Law_ReadBetweenInteractionName</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>LawEnforcement_SpruceUp</GUID>
@@ -3287,9 +3287,9 @@
   <Target>RabbitHole</Target>
   <TargetData>Hideout</TargetData>
   <TargetInteractionName>LawEnforcement_SuperWeaponInteraction</TargetInteractionName>
-  <TargetInteractionLength>240</TargetInteractionLength>
-  <TargetInteractionStartTime>7:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>LawEnforcement_Undercover</GUID>
@@ -3302,9 +3302,9 @@
   <Target>RabbitHole</Target>
   <TargetData>Hideout</TargetData>
   <TargetInteractionName>LawEnforcement_UndercoverInteraction</TargetInteractionName>
-  <TargetInteractionLength>240</TargetInteractionLength>
-  <TargetInteractionStartTime>10:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>12:00AM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>Location_AmateurOlympics</GUID>
@@ -3318,10 +3318,10 @@
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>Location_AmateurOlympicsInteractionName</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>WeekendDays</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>5:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <EventDay>Saturday</EventDay>
   <EventStartTime>8:00AM</EventStartTime>
   <EventEndTime>5:00PM</EventEndTime>
@@ -3370,10 +3370,10 @@
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>Location_EatingContestInteractionName</TargetInteractionName>
   <TargetInteractionCommodity>Hunger,100</TargetInteractionCommodity>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>Monday,Tuesday,Wednesday,Thursday,Friday</TargetInteractionDays>
-  <TargetInteractionStartTime>3:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <EventDay>Wednesday</EventDay>
   <EventStartTime>3:00PM</EventStartTime>
   <EventEndTime>9:00PM</EventEndTime>
@@ -3421,27 +3421,27 @@
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>LogicSkill_BeatMasterInteraction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>LogicSkill_BookBalancing</GUID>
   <Icon>opp_logic_skill</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>BusinessAndJournalism</TargetData>
   <TargetInteractionName>LogicSkill_BookBalanceInteraction</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
-  <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>5:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>LogicSkill_ConvinceSim</GUID>
   <Icon>opp_logic_skill</Icon>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>Stranger</TargetData>
@@ -3460,10 +3460,10 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>LogicSkill_ExperimentsInteraction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>Monday,Tuesday,Wednesday,Thursday,Friday</TargetInteractionDays>
-  <TargetInteractionStartTime>12:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>6:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>LogicSkill_GetBetter</GUID>
@@ -3476,37 +3476,37 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>LogicSkill_GetBetterInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
-  <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>5:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>LogicSkill_LogicClass</GUID>
   <Icon>opp_logic_skill</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
   <TargetInteractionName>LogicSkill_LogicClassInteraction</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>Monday,Tuesday,Wednesday,Thursday,Friday</TargetInteractionDays>
-  <TargetInteractionStartTime>10:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>2:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>LogicSkill_PuzzlePanic</GUID>
   <Icon>opp_logic_skill</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Grocery</TargetData>
   <TargetInteractionName>LogicSkill_PuzzlePanicInteraction</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
-  <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>LogicSkill_RiddleMatch</GUID>
@@ -3521,21 +3521,21 @@
   <Target>RabbitHole</Target>
   <TargetData>Bookstore</TargetData>
   <TargetInteractionName>LogicSkill_RiddleMatchInteraction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
-  <TargetInteractionStartTime>12:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>5:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>LogicSkill_SearchGalaxy</GUID>
   <Icon>opp_logic_skill</Icon>
   <EventListenerInfo1>kSearchedGalaxy,IgnoreTarget</EventListenerInfo1>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>LogicSkill_SearchGalaxyInteractionName</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>LogicSkill_SkillTutoring</GUID>
@@ -3548,7 +3548,7 @@
   <Target>RabbitHole</Target>
   <TargetData>BusinessAndJournalism</TargetData>
   <TargetInteractionName>LogicSkill_SkillTutoringInteractionName</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <Object>Sim</Object>
   <ObjectData>InCareer,Business</ObjectData>
 </OpportunitiesSetup>
@@ -3557,7 +3557,7 @@
   <Icon>opp_logic_skill</Icon>
   <EventListenerInfo1>kTutoredSim</EventListenerInfo1>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>ChildOrTeenAcquaintanceOrHigher</TargetData>
@@ -3573,9 +3573,9 @@
   <Target>RabbitHole</Target>
   <TargetData>Bookstore</TargetData>
   <TargetInteractionName>LogicSkill_WatchChessInteraction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
-  <TargetInteractionStartTime>12:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>4:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>MedicalCareer_AdviseMilitary</GUID>
@@ -3588,10 +3588,10 @@
   <Target>RabbitHole</Target>
   <TargetData>MilitaryBase</TargetData>
   <TargetInteractionName>Medical_AdviseMilitaryInteraction</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>NonWorkDays</TargetInteractionDays>
-  <TargetInteractionStartTime>2:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>4:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>MedicalCareer_BloodDrive</GUID>
@@ -3604,9 +3604,9 @@
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
   <TargetInteractionName>MedicalBloodDriveInteraction</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
-  <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>5:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>MedicalCareer_Book1</GUID>
@@ -3729,10 +3729,10 @@
   <Target>RabbitHole</Target>
   <TargetData>BusinessAndJournalism</TargetData>
   <TargetInteractionName>Medical_ConferenceInteraction</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>WeekendDays</TargetInteractionDays>
-  <TargetInteractionStartTime>10:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>2:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>MedicalCareer_DonateBrain</GUID>
@@ -3745,7 +3745,7 @@
   <TargetData>Hospital</TargetData>
   <TargetInteractionName>Medical_DonateBrainInteractionName</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>240</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>MedicalCareer_DonateHeart</GUID>
@@ -3758,7 +3758,7 @@
   <TargetData>Hospital</TargetData>
   <TargetInteractionName>Medical_DonateHeartInteractionName</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>240</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>MedicalCareer_DonateKidney</GUID>
@@ -3771,7 +3771,7 @@
   <TargetData>Hospital</TargetData>
   <TargetInteractionName>Medical_DonateKidneyInteractionName</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>MedicalCareer_DonateMembrane</GUID>
@@ -3784,7 +3784,7 @@
   <TargetData>Hospital</TargetData>
   <TargetInteractionName>Medical_DonateMembraneInteractionName</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>30</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>MedicalCareer_DonatePancreas</GUID>
@@ -3797,7 +3797,7 @@
   <TargetData>Hospital</TargetData>
   <TargetInteractionName>Medical_DonatePancreasInteractionName</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>MedicalCareer_FriendUp</GUID>
@@ -3847,10 +3847,10 @@
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
   <TargetInteractionName>MedicalCheckLiceInteraction</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>Monday,Tuesday,Wednesday,Thursday,Friday</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>4:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>MedicalCareer_SaveLife</GUID>
@@ -3862,9 +3862,9 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>Medical_SaveLifeInteraction</TargetInteractionName>
-  <TargetInteractionLength>240</TargetInteractionLength>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>MedicalCareer_StayLate1</GUID>
@@ -3896,10 +3896,10 @@
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>Medical_VaccinateInteraction</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>NonWorkDays</TargetInteractionDays>
-  <TargetInteractionStartTime>3:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>5:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>MilitaryCareer_BigEvent</GUID>
@@ -3911,9 +3911,9 @@
   <Target>RabbitHole</Target>
   <TargetData>BusinessAndJournalism</TargetData>
   <TargetInteractionName>Military_AttendEventnteraction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
-  <TargetInteractionStartTime>5:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>MilitaryCareer_Book1</GUID>
@@ -4009,9 +4009,9 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>Military_DeliverPackageInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <Object>OpportunityObject</Object>
   <ObjectData>TopSecretMilitaryDossier, opp_topSecretDossier_r2</ObjectData>
   <RequiredOnCompletion>True</RequiredOnCompletion>
@@ -4029,9 +4029,9 @@
   <TargetData>MilitaryBase</TargetData>
   <TargetInteractionName>Military_EDHTInteractionName</TargetInteractionName>
   <TargetInteractionCommodity>Hygiene,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>180</TargetInteractionLength>
-  <TargetInteractionStartTime>3:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>6:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>MilitaryCareer_FlightShow</GUID>
@@ -4046,9 +4046,9 @@
   <TargetData>MilitaryBase</TargetData>
   <TargetInteractionName>Military_FlightShowInteractionName</TargetInteractionName>
   <TargetInteractionCommodity>Fun,25</TargetInteractionCommodity>
-  <TargetInteractionLength>240</TargetInteractionLength>
-  <TargetInteractionStartTime>3:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>6:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>MilitaryCareer_Maintenance</GUID>
@@ -4072,9 +4072,9 @@
   <TargetData>MilitaryBase</TargetData>
   <TargetInteractionName>Military_DoOlympicsInteractionName</TargetInteractionName>
   <TargetInteractionCommodity>Hygiene,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>240</TargetInteractionLength>
-  <TargetInteractionStartTime>12:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>4:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>MilitaryCareer_Party1</GUID>
@@ -4118,9 +4118,9 @@
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
   <TargetInteractionName>Military_RecruitmentInteractionName</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
-  <TargetInteractionStartTime>5:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>MilitaryCareer_RHAT</GUID>
@@ -4133,9 +4133,9 @@
   <Target>RabbitHole</Target>
   <TargetData>MilitaryBase</TargetData>
   <TargetInteractionName>Military_RHATInteractionName</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
-  <TargetInteractionStartTime>3:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>6:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>MilitaryCareer_Seminar</GUID>
@@ -4149,9 +4149,9 @@
   <Target>RabbitHole</Target>
   <TargetData>MilitaryBase</TargetData>
   <TargetInteractionName>Military_SeminarInteractionName</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
-  <TargetInteractionStartTime>5:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>MilitaryCareer_SpaceCrisis</GUID>
@@ -4299,9 +4299,9 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>Music_DeliverApplicationInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <Object>OpportunityObject</Object>
   <ObjectData>MusicApplication,opp_dossier_r2</ObjectData>
   <RequiredOnCompletion>True</RequiredOnCompletion>
@@ -4326,7 +4326,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>Music_HelpSetUpInteractionName</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>MusicCareer_ImproveGuitar</GUID>
@@ -4346,10 +4346,10 @@
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>Music_LegendaryRockInteraction</TargetInteractionName>
-  <TargetInteractionLength>240</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>WeekendDays</TargetInteractionDays>
-  <TargetInteractionStartTime>5:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>MusicCareer_LegendarySymphony</GUID>
@@ -4363,10 +4363,10 @@
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>Music_LegendarySymphonyInteraction</TargetInteractionName>
-  <TargetInteractionLength>240</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>WeekendDays</TargetInteractionDays>
-  <TargetInteractionStartTime>6:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>MusicCareer_StereoLessons</GUID>
@@ -4385,9 +4385,9 @@
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
   <TargetInteractionName>Music_TeachMusicClassInteractionName</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
-  <TargetInteractionStartTime>4:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>6:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>MusicCareer_WorkLate</GUID>
@@ -4403,12 +4403,12 @@
   <Icon>opp_painting_skill</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
   <CompletionProceduralTestFunction>CheckPaintingsTotalValue</CompletionProceduralTestFunction>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>PaintingSkill_BusProp1InteractionName</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>PaintingAny,450</TargetInteractionItemRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
   <TargetProceduralDeletionFunction>DeletePaintingsOfTotalValue</TargetProceduralDeletionFunction>
@@ -4417,14 +4417,14 @@
   <GUID>PaintingSkill_BusProp2</GUID>
   <Icon>opp_painting_skill</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>BusinessAndJournalism</TargetData>
   <TargetInteractionName>PaintingSkill_BusProp2Interaction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
-  <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>PaintingAny</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>10</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -4434,14 +4434,14 @@
   <GUID>PaintingSkill_BusProp3</GUID>
   <Icon>opp_painting_skill</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>PaintingSkill_BusProp3Interaction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
-  <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>PaintingAny</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>15</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -4451,14 +4451,14 @@
   <GUID>PaintingSkill_BusProp4</GUID>
   <Icon>opp_painting_skill</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>PaintingSkill_BusProp4Interaction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
-  <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>PaintingAny,1000</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>1</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -4516,14 +4516,14 @@
   <TimeoutData>5</TimeoutData>
   <TimeoutEnd>4:00PM</TimeoutEnd>
   <EventListenerInfo1>kVisitedRabbitHole</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
   <TargetInteractionName>PaintingSkill_ForChildrenInteraction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
-  <TargetInteractionStartTime>9:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>4:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>PaintingSkill_InspirationRetreat</GUID>
@@ -4539,9 +4539,9 @@
   <TargetData>Bookstore</TargetData>
   <TargetInteractionName>PaintingSkill_InspirationRetreatInteractionName</TargetInteractionName>
   <TargetInteractionCommodity>Fun,25</TargetInteractionCommodity>
-  <TargetInteractionLength>90</TargetInteractionLength>
-  <TargetInteractionStartTime>3:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>PaintingSkill_Session</GUID>
@@ -4549,12 +4549,12 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>3</TimeoutData>
   <EventListenerInfo1>kVisitedRabbitHole</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>PaintingSkill_SessionInteraction</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>PaintingSkill_Summit</GUID>
@@ -4569,9 +4569,9 @@
   <Target>RabbitHole</Target>
   <TargetData>BusinessAndJournalism</TargetData>
   <TargetInteractionName>PaintingSkill_SummitInteraction</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
-  <TargetInteractionStartTime>12:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>5:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>PoliticalCareer_AskDonations</GUID>
@@ -4590,9 +4590,9 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>PoliticalCareer_AttendPoliticalRallyInteractionName</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
-  <TargetInteractionStartTime>6:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>12:00AM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>PoliticalCareer_BadTies</GUID>
@@ -4613,9 +4613,9 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>Political_BarExamInteractionName</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
-  <TargetInteractionStartTime>5:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>PoliticalCareer_BigwigParty</GUID>
@@ -4628,9 +4628,9 @@
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>Political_AttendBigParty</TargetInteractionName>
   <TargetInteractionCommodity>Hunger,100</TargetInteractionCommodity>
-  <TargetInteractionLength>180</TargetInteractionLength>
-  <TargetInteractionStartTime>5:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>PoliticalCareer_Book1</GUID>
@@ -4723,9 +4723,9 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>Political_CrisisInteraction</TargetInteractionName>
-  <TargetInteractionLength>240</TargetInteractionLength>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>PoliticalCareer_Donations</GUID>
@@ -4749,9 +4749,9 @@
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
   <TargetInteractionName>Political_ElectionHelpInteractionName</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
-  <TargetInteractionStartTime>4:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>PoliticalCareer_Foreign</GUID>
@@ -4765,9 +4765,9 @@
   <TargetData>MilitaryBase</TargetData>
   <TargetInteractionName>Political_ForeignInteractionName</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>180</TargetInteractionLength>
-  <TargetInteractionStartTime>6:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>PoliticalCareer_Fundraiser</GUID>
@@ -4838,9 +4838,9 @@
   <TargetData>BusinessAndJournalism</TargetData>
   <TargetInteractionName>Political_NewsSpotInteractionName</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
-  <TargetInteractionStartTime>4:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>6:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>PoliticalCareer_PhotoOp</GUID>
@@ -4853,9 +4853,9 @@
   <Target>RabbitHole</Target>
   <TargetData>Hospital</TargetData>
   <TargetInteractionName>Political_PhotoOpInteractionName</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
-  <TargetInteractionStartTime>4:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>5:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>PoliticalCareer_School</GUID>
@@ -4868,9 +4868,9 @@
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
   <TargetInteractionName>Political_SchoolInteractionName</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
-  <TargetInteractionStartTime>1:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>4:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>PoliticalCareer_Schooze</GUID>
@@ -4906,9 +4906,9 @@
   <Target>RabbitHole</Target>
   <TargetData>PoliceStation</TargetData>
   <TargetInteractionName>Political_DeliverPolice</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <Object>OpportunityObject</Object>
   <ObjectData>PoliceDossier,opp_dossierOfPapers_r2</ObjectData>
   <RequiredOnCompletion>True</RequiredOnCompletion>
@@ -4924,9 +4924,9 @@
   <Target>RabbitHole</Target>
   <TargetData>BusinessAndJournalism</TargetData>
   <TargetInteractionName>Political_DeliverBusiness</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <Object>OpportunityObject</Object>
   <ObjectData>FinancialReports,opp_dossierOfPapers_r2</ObjectData>
   <RequiredOnCompletion>True</RequiredOnCompletion>
@@ -4942,9 +4942,9 @@
   <Target>RabbitHole</Target>
   <TargetData>Hideout</TargetData>
   <TargetInteractionName>Political_DeliverHideout</TargetInteractionName>
-  <TargetInteractionLength>30</TargetInteractionLength>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <Object>OpportunityObject</Object>
   <ObjectData>SpecialPapers,opp_dossierOfPapers_r2</ObjectData>
   <RequiredOnCompletion>True</RequiredOnCompletion>
@@ -4960,9 +4960,9 @@
   <Target>RabbitHole</Target>
   <TargetData>MilitaryBase</TargetData>
   <TargetInteractionName>Political_DeliverMilitary</TargetInteractionName>
-  <TargetInteractionLength>30</TargetInteractionLength>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <Object>OpportunityObject</Object>
   <ObjectData>ClassifiedDocuments,opp_dossierOfPapers_r2</ObjectData>
   <RequiredOnCompletion>True</RequiredOnCompletion>
@@ -4989,9 +4989,9 @@
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>Political_GiveConcertInteraction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>PoliticalCareer_WorkParty</GUID>
@@ -5012,9 +5012,9 @@
   <Target>RabbitHole</Target>
   <TargetData>Workplace</TargetData>
   <TargetInteractionName>SchoolGrade_FailingInteractionName</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
-  <TargetInteractionStartTime>6:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>6:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>SchoolGrade_FreeGame</GUID>
@@ -5029,10 +5029,10 @@
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>SchoolGrade_FreeGameInteraction</TargetInteractionName>
   <TargetInteractionCommodity>Fun,40</TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>WeekendDays</TargetInteractionDays>
-  <TargetInteractionStartTime>11:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>3:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>SchoolGrade_HonorRoll</GUID>
@@ -5058,9 +5058,9 @@
   <Target>RabbitHole</Target>
   <TargetData>Grocery</TargetData>
   <TargetInteractionName>SchoolGrade_ResearchInteraction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
-  <TargetInteractionStartTime>2:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>6:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>SchoolGrade_StayLate</GUID>
@@ -5090,9 +5090,9 @@
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
   <TargetInteractionName>SchoolGrade_TeacherCleanCageInteraction</TargetInteractionName>
-  <TargetInteractionLength>60</TargetInteractionLength>
-  <TargetInteractionStartTime>2:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>7:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>SchoolGrade_TeacherPetDeliver</GUID>
@@ -5104,7 +5104,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>SchoolGrade_TeacherDeliverInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <Object>OpportunityObject</Object>
   <ObjectData>PermissionSlips,opp_stuffedEnvelope_r2</ObjectData>
   <RequiredOnCompletion>True</RequiredOnCompletion>
@@ -5133,9 +5133,9 @@
   <TargetData>School</TargetData>
   <TargetInteractionName>SchoolHigh_FixBoilerInteraction</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
-  <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>SchoolHigh_GetAJob</GUID>
@@ -5173,9 +5173,9 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>SchoolHigh_ResearchInteraction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>6:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>SchoolHigh_RestockAquarium</GUID>
@@ -5185,9 +5185,9 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>SchoolHigh_RestockAquariumInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
-  <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Fish,Any,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>1</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -5215,10 +5215,10 @@
   <TargetData>BusinessAndJournalism</TargetData>
   <TargetInteractionName>SchoolHigh_WorkForDayInteraction</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>240</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>NonWorkDays</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>6:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>ScienceCareer_AttendScienceCompetition</GUID>
@@ -5232,10 +5232,10 @@
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
   <TargetInteractionName>Science_ScienceCompetitionInteraction</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>WeekendDays</TargetInteractionDays>
-  <TargetInteractionStartTime>11:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>5:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>ScienceCareer_Book1</GUID>
@@ -5327,9 +5327,9 @@
   <Target>RabbitHole</Target>
   <TargetData>Hideout</TargetData>
   <TargetInteractionName>Science_FightDrEvilInteraction</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
-  <TargetInteractionStartTime>8:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>2:00AM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>ScienceCareer_CleanSomeBeakers</GUID>
@@ -5349,7 +5349,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>Science_DeliverReportInteractionName</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <Object>OpportunityObject</Object>
   <ObjectData>ScienceDossier, opp_report_r2</ObjectData>
   <RequiredOnCompletion>True</RequiredOnCompletion>
@@ -5368,9 +5368,9 @@
   <TargetData>Workplace</TargetData>
   <TargetInteractionName>Science_FixMachineInteraction</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
-  <TargetInteractionStartTime>10:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>3:00AM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>ScienceCareer_GiveSeminar</GUID>
@@ -5384,9 +5384,9 @@
   <Target>RabbitHole</Target>
   <TargetData>BusinessAndJournalism</TargetData>
   <TargetInteractionName>Science_GiveSeminarInteraction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
-  <TargetInteractionStartTime>3:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>ScienceCareer_GiveStatusUpdate</GUID>
@@ -5400,10 +5400,10 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>Science_GiveUpdateInteraction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>NonWorkDays</TargetInteractionDays>
-  <TargetInteractionStartTime>3:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>6:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>ScienceCareer_MoreResearchRequired</GUID>
@@ -5415,7 +5415,7 @@
   <Target>ObjectOnHomeLot</Target>
   <TargetData>Sims3.Gameplay.Objects.Electronics.Computer,Sims3GameplayObjects</TargetData>
   <TargetInteractionName>DoResearch</TargetInteractionName>
-  <TargetInteractionLength>240</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>ScienceCareer_NeedMoreFoodForAnimals</GUID>
@@ -5454,7 +5454,7 @@
   <GUID>Special_RestoreGhost</GUID>
   <Icon>opp_ghost_r2</Icon>
   <CompletionEvent>kRestoredGhost</CompletionEvent>
-  <ChanceToGetOnPhone>75</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
@@ -5463,7 +5463,7 @@
   <GUID>WritingSkill_Autobiography</GUID>
   <Icon>opp_writing_skill</Icon>
   <EventListenerInfo1>kWroteBookOfGenre,Autobiography</EventListenerInfo1>
-  <ChanceToGetOnPhone>15</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>AcquaintanceOrHigher</TargetData>
@@ -5473,7 +5473,7 @@
   <Icon>opp_writing_skill</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <EventListenerInfo1>kWroteBookOfGenre,Biography</EventListenerInfo1>
-  <ChanceToGetOnPhone>20</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>AcquaintanceOrHigher</TargetData>
@@ -5490,9 +5490,9 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>Writing_DonateBooksInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>6:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>BookWritten,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>3</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -5502,7 +5502,7 @@
   <GUID>WritingSkill_Drama</GUID>
   <Icon>opp_writing_skill</Icon>
   <EventListenerInfo1>kWroteBookOfGenre,Drama</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>AcquaintanceOrHigher</TargetData>
@@ -5511,7 +5511,7 @@
   <GUID>WritingSkill_Fantasy</GUID>
   <Icon>opp_writing_skill</Icon>
   <EventListenerInfo1>kWroteBookOfGenre,Fantasy</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>AcquaintanceOrHigher</TargetData>
@@ -5522,7 +5522,7 @@
   <Icon>opp_writing_skill</Icon>
   <IsTotaled>True</IsTotaled>
   <EventListenerInfo1>kGotWeeklyRoyaltyRate,Totaled,1500,IgnoreTarget</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>AcquaintanceOrHigher</TargetData>
@@ -5532,7 +5532,7 @@
   <Icon>opp_writing_skill</Icon>
   <IsTotaled>TRUE</IsTotaled>
   <EventListenerInfo1>kWroteBookWithRoyaltyAmount,TotaledOneShot,100,IgnoreTarget</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>AcquaintanceOrHigher</TargetData>
@@ -5554,7 +5554,7 @@
   <Icon>opp_writing_skill</Icon>
   <IsTotaled>TRUE</IsTotaled>
   <EventListenerInfo1>kGotWeeklyRoyaltyRate,Totaled,500,IgnoreTarget</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>AcquaintanceOrHigher</TargetData>
@@ -5563,7 +5563,7 @@
   <GUID>WritingSkill_Masterpiece</GUID>
   <Icon>opp_writing_skill</Icon>
   <EventListenerInfo1>kWroteBookOfGenre,Masterpiece</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>AcquaintanceOrHigher</TargetData>
@@ -5574,7 +5574,7 @@
   <Icon>opp_writing_skill</Icon>
   <IsTotaled>True</IsTotaled>
   <EventListenerInfo1>kGotWeeklyRoyaltyRate,Totaled,1000,IgnoreTarget</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>AcquaintanceOrHigher</TargetData>
@@ -5583,7 +5583,7 @@
   <GUID>WritingSkill_Satire</GUID>
   <Icon>opp_writing_skill</Icon>
   <EventListenerInfo1>kWroteBookOfGenre,Satire</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>AcquaintanceOrHigher</TargetData>
@@ -5592,7 +5592,7 @@
   <GUID>WritingSkill_SciFi</GUID>
   <Icon>opp_writing_skill</Icon>
   <EventListenerInfo1>kWroteBookOfGenre,SciFi</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>AcquaintanceOrHigher</TargetData>
@@ -5601,7 +5601,7 @@
   <GUID>WritingSkill_Vaudeville</GUID>
   <Icon>opp_writing_skill</Icon>
   <EventListenerInfo1>kWroteBookOfGenre,Vaudeville</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>AcquaintanceOrHigher</TargetData>
@@ -10113,7 +10113,7 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>AthleticCareer_ImproveAthleticSkill</GUID>
-  <Requirement1>Skill,Athletic,5,9</Requirement1>
+  <Requirement1>Skill,Athletic,1,9</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>AthleticCareer_InformalEvent</GUID>
@@ -10137,17 +10137,17 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>AthleticSkill_Experiment</GUID>
-  <Requirement1>Skill,Athletic,3,10</Requirement1>
+  <Requirement1>Skill,Athletic,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>AthleticSkill_Help</GUID>
-  <Requirement1>Skill,Athletic,6,8</Requirement1>
+  <Requirement1>Skill,Athletic,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>AthleticSkill_Sore</GUID>
-  <Requirement1>Skill,Athletic,5,10</Requirement1>
+  <Requirement1>Skill,Athletic,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
@@ -10163,7 +10163,7 @@
 <OpportunitiesRequirements>
   <GUID>AthleticCareer_AthleticsForAll</GUID>
   <Requirement1>HasNonHouseholdAdultSims,1</Requirement1>
-  <Requirement2>Skill,Athletic,5,5</Requirement2>
+  <Requirement2>Skill,Athletic,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>AthleticCareer_ImproveLeadership</GUID>
@@ -10171,28 +10171,28 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CharismaSkill_Charming</GUID>
-  <Requirement1>Skill,Charisma,1,4</Requirement1>
+  <Requirement1>Skill,Charisma,1,10</Requirement1>
   <Requirement2>HasStrangers,1</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CharismaSkill_GetToKnow</GUID>
-  <Requirement1>Skill,Charisma,3,6</Requirement1>
+  <Requirement1>Skill,Charisma,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CharismaSkill_SmoothRecovery</GUID>
-  <Requirement1>Skill,Charisma,5,9</Requirement1>
+  <Requirement1>Skill,Charisma,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,CityHall</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CookingSkill_GrillMasterHotDogs</GUID>
-  <Requirement1>Skill,Cooking,3,4</Requirement1>
+  <Requirement1>Skill,Cooking,1,10</Requirement1>
   <Requirement2>KnowsRecipe,HotDog</Requirement2>
   <Requirement3>HasAcquaintanceOrHigher</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CookingSkill_SaveALife</GUID>
-  <Requirement1>Skill,Cooking,10,10</Requirement1>
+  <Requirement1>Skill,Cooking,1,10</Requirement1>
   <Requirement2>KnowsRecipe,Ambrosia</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,Hospital</Requirement3>
 </OpportunitiesRequirements>
@@ -10233,71 +10233,71 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GardeningSkill_Apple</GUID>
-  <Requirement1>Skill,Gardening,2,4</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Restaurant</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GardeningSkill_LifeFruit</GUID>
-  <Requirement1>Skill,Gardening,9,10</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
   <Requirement2>HasPlanted,Life Plant</Requirement2>
   <Requirement3>HasAcquaintanceOrHigher</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GuitarSkill_AmateurContest</GUID>
-  <Requirement1>Skill,Guitar,10,10</Requirement1>
+  <Requirement1>Skill,Guitar,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Theatre</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GuitarSkill_Backup</GUID>
-  <Requirement1>Skill,Guitar,5,9</Requirement1>
+  <Requirement1>Skill,Guitar,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Theatre</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GuitarSkill_BusinessParty</GUID>
-  <Requirement1>Skill,Guitar,4,9</Requirement1>
+  <Requirement1>Skill,Guitar,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,BusinessAndJournalism</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GuitarSkill_FundraiserParty</GUID>
-  <Requirement1>Skill,Guitar,7,10</Requirement1>
+  <Requirement1>Skill,Guitar,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GuitarSkill_GainSkill</GUID>
-  <Requirement1>Skill,Guitar,2,6</Requirement1>
+  <Requirement1>Skill,Guitar,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Theatre</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GuitarSkill_LotsOfTips</GUID>
-  <Requirement1>Skill,Guitar,6,10</Requirement1>
+  <Requirement1>Skill,Guitar,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GuitarSkill_MakeTips</GUID>
-  <Requirement1>Skill,Guitar,4,6</Requirement1>
+  <Requirement1>Skill,Guitar,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GuitarSkill_OrganizeMusic</GUID>
-  <Requirement1>Skill,Guitar,5,10</Requirement1>
+  <Requirement1>Skill,Guitar,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Bookstore</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GuitarSkill_ProGuitar</GUID>
-  <Requirement1>Skill,Guitar,2,6</Requirement1>
+  <Requirement1>Skill,Guitar,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Bookstore</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GuitarSkill_SchoolShow</GUID>
-  <Requirement1>Skill,Guitar,2,6</Requirement1>
+  <Requirement1>Skill,Guitar,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>HandinessSkill_RepairMyThing</GUID>
-  <Requirement1>Skill,Handiness,1,4</Requirement1>
+  <Requirement1>Skill,Handiness,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>HandinessSkill_Upgrade</GUID>
-  <Requirement1>Skill,Handiness,3,10</Requirement1>
+  <Requirement1>Skill,Handiness,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
@@ -10309,18 +10309,18 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>LogicSkill_SearchGalaxy</GUID>
-  <Requirement1>Skill,Logic,5,10</Requirement1>
+  <Requirement1>Skill,Logic,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,ScienceLab</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>LogicSkill_SkillTutoring</GUID>
-  <Requirement1>Skill,Logic,10,10</Requirement1>
+  <Requirement1>Skill,Logic,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,BusinessAndJournalism</Requirement2>
   <Requirement3>WorldHasSkillTutorableSimInCareer,Business</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>LogicSkill_TutoringOthers</GUID>
-  <Requirement1>Skill,Logic,5,10</Requirement1>
+  <Requirement1>Skill,Logic,1,10</Requirement1>
   <Requirement2>HasChildOrTeenAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
@@ -10346,17 +10346,17 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>PaintingSkill_BusProp1</GUID>
-  <Requirement1>Skill,Painting,5,10</Requirement1>
+  <Requirement1>Skill,Painting,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Restaurant</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>PaintingSkill_DeliverSmallPainting</GUID>
-  <Requirement1>Skill,Painting,4,10</Requirement1>
+  <Requirement1>Skill,Painting,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>PaintingSkill_InspirationRetreat</GUID>
-  <Requirement1>Skill,Painting,6,10</Requirement1>
+  <Requirement1>Skill,Painting,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Bookstore</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
@@ -10467,15 +10467,15 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>ScienceCareer_FixIt</GUID>
-  <Requirement1>Skill,Handiness,3,10</Requirement1>
+  <Requirement1>Skill,Handiness,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>ScienceCareer_NeedMoreFoodForAnimals</GUID>
-  <Requirement1>Skill,Gardening,4,10</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>ScienceCareer_WeirdFishRequired</GUID>
-  <Requirement1>Skill,Fishing,6,10</Requirement1>
+  <Requirement1>Skill,Fishing,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>ScienceCareer_AttendScienceCompetition</GUID>
@@ -10491,7 +10491,7 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CulinaryCareer_PlayGig</GUID>
-  <Requirement1>Skill,Guitar,5,10</Requirement1>
+  <Requirement1>Skill,Guitar,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>BusinessCareer_StayLate</GUID>
@@ -10714,19 +10714,19 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>AthleticSkill_Seminar</GUID>
-  <Requirement1>Skill,Athletic,4,10</Requirement1>
+  <Requirement1>Skill,Athletic,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,Hospital</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>AthleticSkill_ShowStuff</GUID>
-  <Requirement1>Skill,Athletic,4,10</Requirement1>
+  <Requirement1>Skill,Athletic,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,Stadium</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>AthleticSkill_Bouncer</GUID>
-  <Requirement1>Skill,Athletic,5,10</Requirement1>
+  <Requirement1>Skill,Athletic,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Theatre</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
@@ -10791,7 +10791,7 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>MilitaryCareer_Olympics</GUID>
-  <Requirement1>Skill,Athletic,2,10</Requirement1>
+  <Requirement1>Skill,Athletic,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>MilitaryCareer_Maintenance</GUID>
@@ -10805,11 +10805,11 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>MilitaryCareer_EDHT</GUID>
-  <Requirement1>Skill,Handiness,4,10</Requirement1>
+  <Requirement1>Skill,Handiness,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>MilitaryCareer_RHAT</GUID>
-  <Requirement1>Skill,Athletic,4,10</Requirement1>
+  <Requirement1>Skill,Athletic,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>MilitaryCareer_FlightShow</GUID>
@@ -10844,17 +10844,17 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>WritingSkill_Biography</GUID>
-  <Requirement1>Skill,Writing,3,10</Requirement1>
+  <Requirement1>Skill,Writing,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>WritingSkill_HighQuality</GUID>
-  <Requirement1>Skill,Writing,5,10</Requirement1>
+  <Requirement1>Skill,Writing,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>WritingSkill_MakeALiving</GUID>
-  <Requirement1>Skill,Writing,1,5</Requirement1>
+  <Requirement1>Skill,Writing,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
@@ -10948,15 +10948,15 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>BusinessCareer_Artistry2</GUID>
-  <Requirement1>Skill,Painting,3,10</Requirement1>
+  <Requirement1>Skill,Painting,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>BusinessCareer_Artistry3</GUID>
-  <Requirement1>Skill,Painting,6,10</Requirement1>
+  <Requirement1>Skill,Painting,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>BusinessCareer_Artistry4</GUID>
-  <Requirement1>Skill,Painting,8,10</Requirement1>
+  <Requirement1>Skill,Painting,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>BusinessCareer_DeliverDossier1</GUID>
@@ -11001,11 +11001,11 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CulinaryCareer_Blowfish</GUID>
-  <Requirement1>Skill,Fishing,5,10</Requirement1>
+  <Requirement1>Skill,Fishing,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CulinaryCareer_ExcellentIng</GUID>
-  <Requirement1>Skill,Gardening,5,10</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>MedicalCareer_Lice</GUID>
@@ -11028,19 +11028,19 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CulinaryCareer_UseExcellentIng</GUID>
-  <Requirement1>Skill,Cooking,6,10</Requirement1>
+  <Requirement1>Skill,Cooking,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CulinaryCareer_BringFish</GUID>
-  <Requirement1>Skill,Fishing,6,10</Requirement1>
+  <Requirement1>Skill,Fishing,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CulinaryCareer_CaterParty</GUID>
-  <Requirement1>Skill,Cooking,4,10</Requirement1>
+  <Requirement1>Skill,Cooking,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CulinaryCareer_Ambrosia</GUID>
-  <Requirement1>Skill,Cooking,8,10</Requirement1>
+  <Requirement1>Skill,Cooking,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CulinaryCareer_PartyHelp</GUID>
@@ -11054,11 +11054,11 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>JournalismCareer_Writing</GUID>
-  <Requirement1>Skill,Writing,1,2</Requirement1>
+  <Requirement1>Skill,Writing,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>JournalismCareer_Charm</GUID>
-  <Requirement1>Skill,Charisma,1,2</Requirement1>
+  <Requirement1>Skill,Charisma,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>JournalismCareer_Date</GUID>
@@ -11073,7 +11073,7 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>LawEnforcement_Athletics</GUID>
-  <Requirement1>Skill,Athletic,3,9</Requirement1>
+  <Requirement1>Skill,Athletic,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>LawEnforcement_Networking</GUID>
@@ -11081,7 +11081,7 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>LawEnforcement_SpruceUp</GUID>
-  <Requirement1>Skill,Painting,3,10</Requirement1>
+  <Requirement1>Skill,Painting,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>MedicalCareer_FriendUp</GUID>
@@ -11105,7 +11105,7 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>MedicalCareer_BringDessert</GUID>
-  <Requirement1>Skill,Cooking,3,10</Requirement1>
+  <Requirement1>Skill,Cooking,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>MedicalCareer_SaveLife</GUID>
@@ -11180,7 +11180,7 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>PoliticalCareer_ShapeUp</GUID>
-  <Requirement1>Skill,Athletic,1,9</Requirement1>
+  <Requirement1>Skill,Athletic,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>PoliticalCareer_BadTies</GUID>
@@ -11188,7 +11188,7 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>PoliticalCareer_Stunt</GUID>
-  <Requirement1>Skill,Guitar,6,10</Requirement1>
+  <Requirement1>Skill,Guitar,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Stadium</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
@@ -11300,27 +11300,27 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>AthleticSkill_AdvTraining</GUID>
-  <Requirement1>Skill,Athletic,8,10</Requirement1>
+  <Requirement1>Skill,Athletic,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>AthleticSkill_Adonis</GUID>
-  <Requirement1>Skill,Athletic,10,10</Requirement1>
+  <Requirement1>Skill,Athletic,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Stadium</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>AthleticSkill_Sweat</GUID>
-  <Requirement1>Skill,Athletic,3,10</Requirement1>
+  <Requirement1>Skill,Athletic,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>AthleticSkill_SaveTime</GUID>
-  <Requirement1>Skill,Athletic,7,10</Requirement1>
+  <Requirement1>Skill,Athletic,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>AthleticSkill_Pumped</GUID>
-  <Requirement1>Skill,Athletic,3,9</Requirement1>
+  <Requirement1>Skill,Athletic,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
@@ -11330,160 +11330,160 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>AthleticSkill_Good</GUID>
-  <Requirement1>Skill,Athletic,1,8</Requirement1>
+  <Requirement1>Skill,Athletic,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Stadium</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>AthleticSkill_GotWhatItTakes</GUID>
-  <Requirement1>Skill,Athletic,1,5</Requirement1>
+  <Requirement1>Skill,Athletic,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Stadium</Requirement2>
   <Requirement3>NotInCareer,ProfessionalSports</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>AthleticSkill_Limit</GUID>
-  <Requirement1>Skill,Athletic,1,9</Requirement1>
+  <Requirement1>Skill,Athletic,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Stadium</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CharismaSkill_MakingFriends</GUID>
-  <Requirement1>Skill,Charisma,2,10</Requirement1>
+  <Requirement1>Skill,Charisma,1,10</Requirement1>
   <Requirement2>HasStrangers,1</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CharismaSkill_MoreSkill</GUID>
-  <Requirement1>Skill,Charisma,2,9</Requirement1>
+  <Requirement1>Skill,Charisma,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,CityHall</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CharismaSkill_PublicSpeaking</GUID>
-  <Requirement1>Skill,Charisma,5,9</Requirement1>
+  <Requirement1>Skill,Charisma,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,CityHall</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CharismaSkill_BusinessClass</GUID>
-  <Requirement1>Skill,Charisma,3,7</Requirement1>
+  <Requirement1>Skill,Charisma,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,BusinessAndJournalism</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CharismaSkill_ProperNegotiation</GUID>
-  <Requirement1>Skill,Charisma,4,9</Requirement1>
+  <Requirement1>Skill,Charisma,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,PoliceStation</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CharismaSkill_BestFriends</GUID>
-  <Requirement1>Skill,Charisma,5,10</Requirement1>
+  <Requirement1>Skill,Charisma,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CharismaSkill_Experiment</GUID>
-  <Requirement1>Skill,Charisma,4,9</Requirement1>
+  <Requirement1>Skill,Charisma,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,ScienceLab</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CharismaSkill_HostageCrisis</GUID>
-  <Requirement1>Skill,Charisma,10,10</Requirement1>
+  <Requirement1>Skill,Charisma,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Grocery</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CookingSkill_GrillCheesesteaks</GUID>
-  <Requirement1>Skill,Cooking,5,5</Requirement1>
+  <Requirement1>Skill,Cooking,1,10</Requirement1>
   <Requirement2>KnowsRecipe,Cheesesteak</Requirement2>
   <Requirement3>HasAcquaintanceOrHigher</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CookingSkill_GrillBurgers</GUID>
-  <Requirement1>Skill,Cooking,6,7</Requirement1>
+  <Requirement1>Skill,Cooking,1,10</Requirement1>
   <Requirement2>KnowsRecipe,Hamburger</Requirement2>
   <Requirement3>HasAcquaintanceOrHigher</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CookingSkill_GrillSalmon</GUID>
-  <Requirement1>Skill,Cooking,8,10</Requirement1>
+  <Requirement1>Skill,Cooking,1,10</Requirement1>
   <Requirement2>KnowsRecipe,GrilledSalmon</Requirement2>
   <Requirement3>HasAcquaintanceOrHigher</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CookingSkill_GrillTriTip</GUID>
-  <Requirement1>Skill,Cooking,8,10</Requirement1>
+  <Requirement1>Skill,Cooking,1,10</Requirement1>
   <Requirement2>KnowsRecipe,TriTipSteak</Requirement2>
   <Requirement3>HasAcquaintanceOrHigher</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CookingSkill_ExcellentFood</GUID>
-  <Requirement1>Skill,Cooking,6,7</Requirement1>
+  <Requirement1>Skill,Cooking,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CookingSkill_GreatFood</GUID>
-  <Requirement1>Skill,Cooking,5,5</Requirement1>
+  <Requirement1>Skill,Cooking,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CookingSkill_NiceFood</GUID>
-  <Requirement1>Skill,Cooking,3,3</Requirement1>
+  <Requirement1>Skill,Cooking,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CookingSkill_OutstandingGood</GUID>
-  <Requirement1>Skill,Cooking,8,9</Requirement1>
+  <Requirement1>Skill,Cooking,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CookingSkill_PerfectFood</GUID>
-  <Requirement1>Skill,Cooking,10,10</Requirement1>
+  <Requirement1>Skill,Cooking,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CookingSkill_VeryNiceFood</GUID>
-  <Requirement1>Skill,Cooking,4,4</Requirement1>
+  <Requirement1>Skill,Cooking,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CookingSkill_BakeSale</GUID>
-  <Requirement1>Skill,Cooking,3,6</Requirement1>
+  <Requirement1>Skill,Cooking,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,School</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CookingSkill_Advise</GUID>
-  <Requirement1>Skill,Cooking,4,10</Requirement1>
+  <Requirement1>Skill,Cooking,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Restaurant</Requirement2>
   <Requirement3>WorldHasSimInCareer,Culinary</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>JournalismCareer_Concept</GUID>
-  <Requirement1>Skill,Writing,2,10</Requirement1>
+  <Requirement1>Skill,Writing,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>JournalismCareer_SaveCompany</GUID>
-  <Requirement1>Skill,Writing,8,10</Requirement1>
+  <Requirement1>Skill,Writing,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>JournalismCareer_FreeTime</GUID>
-  <Requirement1>Skill,Writing,3,10</Requirement1>
+  <Requirement1>Skill,Writing,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>JournalismCareer_GreatArticle</GUID>
-  <Requirement1>Skill,Writing,6,10</Requirement1>
+  <Requirement1>Skill,Writing,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>JournalismCareer_HelpCompetition</GUID>
-  <Requirement1>Skill,Writing,3,10</Requirement1>
+  <Requirement1>Skill,Writing,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Bookstore</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>JournalismCareer_Coworker</GUID>
-  <Requirement1>Skill,Writing,3,10</Requirement1>
+  <Requirement1>Skill,Writing,1,10</Requirement1>
   <Requirement2>HasInvitableCoworker,1</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CookingSkill_Share</GUID>
-  <Requirement1>Skill,Cooking,4,10</Requirement1>
+  <Requirement1>Skill,Cooking,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
   <Requirement3>WorldHasSimInCareer,Culinary</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CookingSkill_Support</GUID>
-  <Requirement1>Skill,Cooking,6,10</Requirement1>
+  <Requirement1>Skill,Cooking,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,PoliceStation</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
@@ -11493,309 +11493,309 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>FishingSkill_LargeCatch</GUID>
-  <Requirement1>Skill,Fishing,7,10</Requirement1>
+  <Requirement1>Skill,Fishing,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,ScienceLab</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>FishingSkill_SmallCatch</GUID>
-  <Requirement1>Skill,Fishing,1,4</Requirement1>
+  <Requirement1>Skill,Fishing,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Grocery</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>FishingSkill_MediumCatch</GUID>
-  <Requirement1>Skill,Fishing,4,6</Requirement1>
+  <Requirement1>Skill,Fishing,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Grocery</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>FishingSkill_Clownfish</GUID>
-  <Requirement1>Skill,Fishing,5,10</Requirement1>
+  <Requirement1>Skill,Fishing,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Theatre</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>FishingSkill_BlackGoldfish</GUID>
-  <Requirement1>Skill,Fishing,7,10</Requirement1>
+  <Requirement1>Skill,Fishing,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,PoliceStation</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>FishingSkill_FishingCompetition</GUID>
-  <Requirement1>Skill,Fishing,5,10</Requirement1>
+  <Requirement1>Skill,Fishing,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Grocery</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>FishingSkill_FishingPrep</GUID>
-  <Requirement1>Skill,Fishing,6,10</Requirement1>
+  <Requirement1>Skill,Fishing,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,BusinessAndJournalism</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>FishingSkill_SomethingStuck</GUID>
-  <Requirement1>Skill,Fishing,3,9</Requirement1>
+  <Requirement1>Skill,Fishing,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,CityHall</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>FishingSkill_Lobster</GUID>
-  <Requirement1>Skill,Fishing,10,10</Requirement1>
+  <Requirement1>Skill,Fishing,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Grocery</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>FishingSkill_Behemoth</GUID>
-  <Requirement1>Skill,Fishing,10,10</Requirement1>
+  <Requirement1>Skill,Fishing,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,ScienceLab</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>FishingSkill_ToCatchADeathFish</GUID>
-  <Requirement1>Skill,Fishing,10,10</Requirement1>
+  <Requirement1>Skill,Fishing,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,ScienceLab</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>FishingSkill_ToCatchARobotFish</GUID>
-  <Requirement1>Skill,Fishing,10,10</Requirement1>
+  <Requirement1>Skill,Fishing,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Hospital</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GardeningSkill_BountifulHarvest</GUID>
-  <Requirement1>Skill,Gardening,8,10</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Grocery</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GardeningSkill_ExcellentHarvest</GUID>
-  <Requirement1>Skill,Gardening,6,9</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GardeningSkill_GreatHarvest</GUID>
-  <Requirement1>Skill,Gardening,5,8</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GardeningSkill_NiceHarvest</GUID>
-  <Requirement1>Skill,Gardening,2,4</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GardeningSkill_OutstandingHarvest</GUID>
-  <Requirement1>Skill,Gardening,6,10</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GardeningSkill_PerfectHarvest</GUID>
-  <Requirement1>Skill,Gardening,7,10</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GardeningSkill_VeryNiceHarvest</GUID>
-  <Requirement1>Skill,Gardening,3,6</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GardeningSkill_Garlic</GUID>
-  <Requirement1>Skill,Gardening,7,10</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Restaurant</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GardeningSkill_Grapes</GUID>
-  <Requirement1>Skill,Gardening,2,4</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Restaurant</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GardeningSkill_Lettuce</GUID>
-  <Requirement1>Skill,Gardening,2,4</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Restaurant</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GardeningSkill_Lime</GUID>
-  <Requirement1>Skill,Gardening,5,8</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Restaurant</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GardeningSkill_Onion</GUID>
-  <Requirement1>Skill,Gardening,5,8</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Restaurant</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GardeningSkill_Pepper</GUID>
-  <Requirement1>Skill,Gardening,7,10</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Restaurant</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GardeningSkill_Potato</GUID>
-  <Requirement1>Skill,Gardening,7,10</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Restaurant</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GardeningSkill_Tomato</GUID>
-  <Requirement1>Skill,Gardening,2,4</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Restaurant</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GardeningSkill_Watermelon</GUID>
-  <Requirement1>Skill,Gardening,5,8</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Restaurant</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GardeningSkill_BagDelivery</GUID>
-  <Requirement1>Skill,Gardening,7,10</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Restaurant</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GardeningSkill_Party</GUID>
-  <Requirement1>Skill,Gardening,8,10</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,BusinessAndJournalism</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GardeningSkill_Insurance</GUID>
-  <Requirement1>Skill,Gardening,8,10</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>HandinessSkill_FixRestaurant</GUID>
-  <Requirement1>Skill,Handiness,2,6</Requirement1>
+  <Requirement1>Skill,Handiness,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Restaurant</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>HandinessSkill_FixPolice</GUID>
-  <Requirement1>Skill,Handiness,4,8</Requirement1>
+  <Requirement1>Skill,Handiness,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,PoliceStation</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>HandinessSkill_FixCityHall</GUID>
-  <Requirement1>Skill,Handiness,6,10</Requirement1>
+  <Requirement1>Skill,Handiness,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,CityHall</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>HandinessSkill_LabCrisis</GUID>
-  <Requirement1>Skill,Handiness,10,10</Requirement1>
+  <Requirement1>Skill,Handiness,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,ScienceLab</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>HandinessSkill_RepairMyThing2</GUID>
-  <Requirement1>Skill,Handiness,3,7</Requirement1>
+  <Requirement1>Skill,Handiness,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>HandinessSkill_RepairMyThing3</GUID>
-  <Requirement1>Skill,Handiness,8,10</Requirement1>
+  <Requirement1>Skill,Handiness,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>HandinessSkill_ConvinceSim</GUID>
-  <Requirement1>Skill,Handiness,3,6</Requirement1>
+  <Requirement1>Skill,Handiness,1,10</Requirement1>
   <Requirement2>HasStrangers,1</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>HandinessSkill_TeachClass</GUID>
-  <Requirement1>Skill,Handiness,5,9</Requirement1>
+  <Requirement1>Skill,Handiness,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,School</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>HandinessSkill_MilitaryInstruction</GUID>
-  <Requirement1>Skill,Handiness,7,10</Requirement1>
+  <Requirement1>Skill,Handiness,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,MilitaryBase</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>HandinessSkill_Upgrade2</GUID>
-  <Requirement1>Skill,Handiness,5,9</Requirement1>
+  <Requirement1>Skill,Handiness,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>LogicSkill_LogicClass</GUID>
-  <Requirement1>Skill,Logic,5,10</Requirement1>
+  <Requirement1>Skill,Logic,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,School</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>LogicSkill_BookBalancing</GUID>
-  <Requirement1>Skill,Logic,3,8</Requirement1>
+  <Requirement1>Skill,Logic,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,BusinessAndJournalism</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>LogicSkill_WatchChessChampion</GUID>
-  <Requirement1>Skill,Logic,1,5</Requirement1>
+  <Requirement1>Skill,Logic,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Bookstore</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>LogicSkill_RiddleMatch</GUID>
-  <Requirement1>Skill,Logic,2,10</Requirement1>
+  <Requirement1>Skill,Logic,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Bookstore</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>LogicSkill_BeatChessMaster</GUID>
-  <Requirement1>Skill,Logic,10,10</Requirement1>
+  <Requirement1>Skill,Logic,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Theatre</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>LogicSkill_GetBetter</GUID>
-  <Requirement1>Skill,Logic,2,8</Requirement1>
+  <Requirement1>Skill,Logic,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,ScienceLab</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>LogicSkill_PuzzlePanic</GUID>
-  <Requirement1>Skill,Logic,3,7</Requirement1>
+  <Requirement1>Skill,Logic,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Grocery</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>LogicSkill_Experiments</GUID>
-  <Requirement1>Skill,Logic,4,10</Requirement1>
+  <Requirement1>Skill,Logic,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,ScienceLab</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>LogicSkill_ConvinceSim</GUID>
-  <Requirement1>Skill,Logic,3,9</Requirement1>
+  <Requirement1>Skill,Logic,1,10</Requirement1>
   <Requirement2>HasStrangers,1</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>PaintingSkill_BusProp2</GUID>
-  <Requirement1>Skill,Painting,7,10</Requirement1>
+  <Requirement1>Skill,Painting,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,BusinessAndJournalism</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>PaintingSkill_BusProp3</GUID>
-  <Requirement1>Skill,Painting,9,10</Requirement1>
+  <Requirement1>Skill,Painting,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,CityHall</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>PaintingSkill_BusProp4</GUID>
-  <Requirement1>Skill,Painting,8,10</Requirement1>
+  <Requirement1>Skill,Painting,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,ScienceLab</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>PaintingSkill_DeliverLargePainting</GUID>
-  <Requirement1>Skill,Painting,6,10</Requirement1>
+  <Requirement1>Skill,Painting,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>PaintingSkill_DeliverMediumPainting</GUID>
-  <Requirement1>Skill,Painting,5,10</Requirement1>
+  <Requirement1>Skill,Painting,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>PaintingSkill_ForChildren</GUID>
-  <Requirement1>Skill,Painting,2,8</Requirement1>
+  <Requirement1>Skill,Painting,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,School</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>PaintingSkill_Session</GUID>
-  <Requirement1>Skill,Painting,10,10</Requirement1>
+  <Requirement1>Skill,Painting,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,CityHall</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>PaintingSkill_Summit</GUID>
-  <Requirement1>Skill,Painting,2,10</Requirement1>
+  <Requirement1>Skill,Painting,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,BusinessAndJournalism</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>WritingSkill_Drama</GUID>
-  <Requirement1>Skill,Writing,3,10</Requirement1>
+  <Requirement1>Skill,Writing,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
   <Requirement3>CanWriteGenre,Drama</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>WritingSkill_SciFi</GUID>
-  <Requirement1>Skill,Writing,4,10</Requirement1>
+  <Requirement1>Skill,Writing,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
   <Requirement3>CanWriteGenre,SciFi</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>WritingSkill_Fantasy</GUID>
-  <Requirement1>Skill,Writing,4,10</Requirement1>
+  <Requirement1>Skill,Writing,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
   <Requirement3>CanWriteGenre,Fantasy</Requirement3>
 </OpportunitiesRequirements>
@@ -11806,45 +11806,45 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>WritingSkill_Satire</GUID>
-  <Requirement1>Skill,Writing,5,10</Requirement1>
+  <Requirement1>Skill,Writing,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
   <Requirement3>CanWriteGenre,Satire</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>WritingSkill_Historical</GUID>
-  <Requirement1>Skill,Writing,6,10</Requirement1>
+  <Requirement1>Skill,Writing,1,10</Requirement1>
   <Requirement2>IsElder</Requirement2>
   <Requirement3>HasAcquaintanceOrHigher</Requirement3>
   <Requirement4>CanWriteGenre,Historical</Requirement4>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>WritingSkill_Vaudeville</GUID>
-  <Requirement1>Skill,Writing,7,10</Requirement1>
+  <Requirement1>Skill,Writing,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
   <Requirement3>CanWriteGenre,Vaudeville</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>WritingSkill_Autobiography</GUID>
-  <Requirement1>Skill,Writing,5,10</Requirement1>
+  <Requirement1>Skill,Writing,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
   <Requirement3>CanWriteGenre,Autobiography</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>WritingSkill_Masterpiece</GUID>
-  <Requirement1>Skill,Writing,10,10</Requirement1>
+  <Requirement1>Skill,Writing,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
   <Requirement3>CanWriteGenre,Masterpiece</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>WritingSkill_Novelist</GUID>
-  <Requirement1>Skill,Writing,7,10</Requirement1>
+  <Requirement1>Skill,Writing,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,BusinessAndJournalism</Requirement2>
   <Requirement3>OpportunityComplete,WritingSkill_MakeALiving</Requirement3>
   <Requirement4>HasAcquaintanceOrHigher</Requirement4>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>WritingSkill_GreatWorks</GUID>
-  <Requirement1>Skill,Writing,9,10</Requirement1>
+  <Requirement1>Skill,Writing,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,BusinessAndJournalism</Requirement2>
   <Requirement3>OpportunityComplete,WritingSkill_Novelist</Requirement3>
   <Requirement4>HasAcquaintanceOrHigher</Requirement4>
@@ -11873,18 +11873,18 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GardeningSkill_SpecialPlants1</GUID>
-  <Requirement1>Skill,Gardening,8,10</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Restaurant</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GardeningSkill_SpecialPlants2</GUID>
-  <Requirement1>Skill,Gardening,9,10</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
   <Requirement2>OpportunityComplete,GardeningSkill_SpecialPlants1</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,Restaurant</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GardeningSkill_SpecialPlants3</GUID>
-  <Requirement1>Skill,Gardening,10,10</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
   <Requirement2>OpportunityComplete,GardeningSkill_SpecialPlants2</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,Restaurant</Requirement3>
 </OpportunitiesRequirements>

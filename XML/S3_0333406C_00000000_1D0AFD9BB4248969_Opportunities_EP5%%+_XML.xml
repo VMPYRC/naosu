@@ -25,7 +25,7 @@
   <CompletionEvent></CompletionEvent>
   <AllowPhoneCompletion>False</AllowPhoneCompletion>
   <CompletionProceduralTestFunction></CompletionProceduralTestFunction>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Source></Source>
@@ -39,7 +39,7 @@
   <TargetInteractionIgnoreTarget>False</TargetInteractionIgnoreTarget>
   <TargetWorldRequired>Undefined</TargetWorldRequired>
   <TargetInteractionCommodity></TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
@@ -131,9 +131,9 @@
   <Target>RabbitHoleWithUserChosenPet</Target>
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>Location_EnterPetShow</TargetInteractionName>
-  <TargetInteractionLength>240</TargetInteractionLength>
-  <TargetInteractionStartTime>9:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <EventDay>Friday</EventDay>
   <EventStartTime>9:00AM</EventStartTime>
   <EventEndTime>8:00PM</EventEndTime>
@@ -152,9 +152,9 @@
   <Target>RabbitHoleWithUserChosenPet</Target>
   <TargetData>EquestrianCenter</TargetData>
   <TargetInteractionName>Location_HorseTrainingInteractionName</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
-  <TargetInteractionStartTime>9:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <EventDay>Monday</EventDay>
   <EventStartTime>9:00AM</EventStartTime>
   <EventEndTime>8:00PM</EventEndTime>

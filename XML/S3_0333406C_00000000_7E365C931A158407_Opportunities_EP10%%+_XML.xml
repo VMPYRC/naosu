@@ -25,7 +25,7 @@
   <CompletionEvent></CompletionEvent>
   <AllowPhoneCompletion>False</AllowPhoneCompletion>
   <CompletionProceduralTestFunction></CompletionProceduralTestFunction>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Source></Source>
@@ -39,7 +39,7 @@
   <TargetInteractionIgnoreTarget>False</TargetInteractionIgnoreTarget>
   <TargetWorldRequired>Undefined</TargetWorldRequired>
   <TargetInteractionCommodity></TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
@@ -70,12 +70,12 @@
   <RepeatLevel>Always</RepeatLevel>
   <IsOrdered>False</IsOrdered>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>EP10_TurnInSeashells</TargetInteractionName>
-  <TargetInteractionLength>10</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Seashell,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>5</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -88,12 +88,12 @@
   <RepeatLevel>Always</RepeatLevel>
   <IsOrdered>False</IsOrdered>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>EP10_TurnInSeashells</TargetInteractionName>
-  <TargetInteractionLength>10</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Seashell,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>7</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -106,12 +106,12 @@
   <RepeatLevel>Always</RepeatLevel>
   <IsOrdered>False</IsOrdered>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>EP10_TurnInSeashells</TargetInteractionName>
-  <TargetInteractionLength>10</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Seashell,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>5</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -124,12 +124,12 @@
   <RepeatLevel>Always</RepeatLevel>
   <IsOrdered>False</IsOrdered>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>EP10_TurnInMessageInABottles</TargetInteractionName>
-  <TargetInteractionLength>10</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Seashell,MessageInABottle</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>2</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -142,12 +142,12 @@
   <RepeatLevel>Always</RepeatLevel>
   <IsOrdered>False</IsOrdered>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>EP10_TurnInMessageInABottles</TargetInteractionName>
-  <TargetInteractionLength>10</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Seashell,MessageInABottle</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>4</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -160,12 +160,12 @@
   <RepeatLevel>Always</RepeatLevel>
   <IsOrdered>False</IsOrdered>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>EP10_TurnInSeaLife</TargetInteractionName>
-  <TargetInteractionLength>10</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Fish,SeaUrchin,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>2</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -178,12 +178,12 @@
   <RepeatLevel>Always</RepeatLevel>
   <IsOrdered>False</IsOrdered>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>EP10_TurnInSeaLife</TargetInteractionName>
-  <TargetInteractionLength>10</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Fish,Eel,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>2</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -196,12 +196,12 @@
   <RepeatLevel>Always</RepeatLevel>
   <IsOrdered>False</IsOrdered>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>EP10_TurnInSeaLife</TargetInteractionName>
-  <TargetInteractionLength>10</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Fish,Squid,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>2</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -216,12 +216,12 @@
   <IsCounted>True</IsCounted>
   <EventListenerInfo1>kExploredUnderwaterCave,2</EventListenerInfo1>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>EP10_TurnInCave</TargetInteractionName>
-  <TargetInteractionLength>10</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP10</ProductVersion>
@@ -232,12 +232,12 @@
   <IsCounted>True</IsCounted>
   <EventListenerInfo1>kExploredUnderwaterCave,3</EventListenerInfo1>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>EP10_TurnInCave</TargetInteractionName>
-  <TargetInteractionLength>10</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP10</ProductVersion>
@@ -245,7 +245,7 @@
   <Icon>trait_hidden_island_map,EP10</Icon>
   <RepeatLevel>Never</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>Sim</Target>
   <TargetData>Stranger,Elder</TargetData>
@@ -259,12 +259,12 @@
   <RepeatLevel>Never</RepeatLevel>
   <IsCounted>True</IsCounted>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>EP10_TurnInKelp</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Harvestable,Kelp,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>3</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -277,12 +277,12 @@
   <RepeatLevel>Never</RepeatLevel>
   <EventListenerInfo1>kGotBuff,SoleSurvivor,1</EventListenerInfo1>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>EP10_ReturntoLab</TargetInteractionName>
-  <TargetInteractionLength>10</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP10</ProductVersion>
@@ -292,12 +292,12 @@
   <IsCounted>True</IsCounted>
   <EventListenerInfo1>kFoughtAShark,1</EventListenerInfo1>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>EP10_ReturntoLab</TargetInteractionName>
-  <TargetInteractionLength>5</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP10</ProductVersion>
@@ -305,12 +305,12 @@
   <Icon>trait_hidden_island_map,EP10</Icon>
   <RepeatLevel>Never</RepeatLevel>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>EP10_SearchForMap</TargetInteractionName>
-  <TargetInteractionLength>30</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <Object>OpportunityObject</Object>
   <ObjectData>EP10_MapNote,opp_stuffedEnvelope_r2</ObjectData>
   <RequiredOnCompletion>True</RequiredOnCompletion>
@@ -452,52 +452,52 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP10_SkillUnderwaterDiving_Seashells1</GUID>
-  <Requirement1>Skill,ScubaDiving,2,5</Requirement1>
+  <Requirement1>Skill,ScubaDiving,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,ScienceLab</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP10_SkillUnderwaterDiving_Seashells2</GUID>
-  <Requirement1>Skill,ScubaDiving,6,10</Requirement1>
+  <Requirement1>Skill,ScubaDiving,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,ScienceLab</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP10_SkillUnderwaterDiving_Seashells3</GUID>
-  <Requirement1>Skill,ScubaDiving,2,10</Requirement1>
+  <Requirement1>Skill,ScubaDiving,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,CityHall</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP10_SkillUnderwaterDiving_MessageBottles1</GUID>
-  <Requirement1>Skill,ScubaDiving,2,5</Requirement1>
+  <Requirement1>Skill,ScubaDiving,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,CityHall</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP10_SkillUnderwaterDiving_MessageBottles2</GUID>
-  <Requirement1>Skill,ScubaDiving,6,10</Requirement1>
+  <Requirement1>Skill,ScubaDiving,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,CityHall</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP10_SkillUnderwaterDiving_SeaLife1</GUID>
-  <Requirement1>Skill,ScubaDiving,2,10</Requirement1>
+  <Requirement1>Skill,ScubaDiving,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Restaurant</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP10_SkillUnderwaterDiving_SeaLife2</GUID>
-  <Requirement1>Skill,ScubaDiving,2,10</Requirement1>
+  <Requirement1>Skill,ScubaDiving,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Restaurant</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP10_SkillUnderwaterDiving_SeaLife3</GUID>
-  <Requirement1>Skill,ScubaDiving,2,10</Requirement1>
+  <Requirement1>Skill,ScubaDiving,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Restaurant</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP10_SkillUnderwaterDiving_Caves1</GUID>
-  <Requirement1>Skill,ScubaDiving,2,5</Requirement1>
+  <Requirement1>Skill,ScubaDiving,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,ScienceLab</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP10_SkillUnderwaterDiving_Caves2</GUID>
-  <Requirement1>Skill,ScubaDiving,6,10</Requirement1>
+  <Requirement1>Skill,ScubaDiving,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,ScienceLab</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>

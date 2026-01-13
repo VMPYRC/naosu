@@ -25,7 +25,7 @@
   <CompletionEvent></CompletionEvent>
   <AllowPhoneCompletion>False</AllowPhoneCompletion>
   <CompletionProceduralTestFunction></CompletionProceduralTestFunction>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Source></Source>
@@ -39,7 +39,7 @@
   <TargetInteractionIgnoreTarget>False</TargetInteractionIgnoreTarget>
   <TargetWorldRequired>Undefined</TargetWorldRequired>
   <TargetInteractionCommodity></TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
@@ -68,7 +68,7 @@
   <GUID>EP4_Occult_ImaginaryFriendPotion1</GUID>
   <Icon>w_talk_about_i_friend,EP4</Icon>
   <CompletionEvent>kMailedImaginaryFriendRgm</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
@@ -78,7 +78,7 @@
   <GUID>EP4_Occult_ImaginaryFriendPotion2</GUID>
   <Icon>w_talk_about_i_friend,EP4</Icon>
   <CompletionEvent>kBoughtImaginaryFriendPotion</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>PreviousTarget</Target>
 </OpportunitiesSetup>
@@ -87,7 +87,7 @@
   <GUID>EP4_Occult_CreateImaginaryFriendOffspring</GUID>
   <Icon>placeholder</Icon>
   <CompletionEvent>kCreatedImaginaryFriendOffspring</CompletionEvent>
-  <ChanceToGetOnPhone>20</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
@@ -100,7 +100,7 @@
   <TimeoutData>1</TimeoutData>
   <TimeoutEnd>8:00PM</TimeoutEnd>
   <CompletionEvent>kAttendedAudition</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
@@ -113,7 +113,7 @@
   <TimeoutData>1</TimeoutData>
   <TimeoutEnd>8:00PM</TimeoutEnd>
   <CompletionEvent>kAttendedAudition</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
@@ -126,7 +126,7 @@
   <TimeoutData>1</TimeoutData>
   <TimeoutEnd>8:00PM</TimeoutEnd>
   <CompletionEvent>kAttendedAudition</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
@@ -139,7 +139,7 @@
   <TimeoutData>1</TimeoutData>
   <TimeoutEnd>8:00PM</TimeoutEnd>
   <CompletionEvent>kAttendedAudition</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
@@ -152,7 +152,7 @@
   <TimeoutData>1</TimeoutData>
   <TimeoutEnd>8:00PM</TimeoutEnd>
   <CompletionEvent>kAttendedAudition</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
@@ -165,7 +165,7 @@
   <TimeoutData>1</TimeoutData>
   <TimeoutEnd>8:00PM</TimeoutEnd>
   <CompletionEvent>kAttendedAudition</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
@@ -178,7 +178,7 @@
   <TimeoutData>1</TimeoutData>
   <TimeoutEnd>8:00PM</TimeoutEnd>
   <CompletionEvent>kAttendedAudition</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
@@ -191,7 +191,7 @@
   <TimeoutData>1</TimeoutData>
   <TimeoutEnd>8:00PM</TimeoutEnd>
   <CompletionEvent>kAttendedAudition</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
@@ -204,7 +204,7 @@
   <TimeoutData>1</TimeoutData>
   <TimeoutEnd>8:00PM</TimeoutEnd>
   <CompletionEvent>kAttendedAudition</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
@@ -217,7 +217,7 @@
   <TimeoutData>1</TimeoutData>
   <TimeoutEnd>8:00PM</TimeoutEnd>
   <CompletionEvent>kAttendedRecital</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
@@ -230,7 +230,7 @@
   <TimeoutData>1</TimeoutData>
   <TimeoutEnd>8:00PM</TimeoutEnd>
   <CompletionEvent>kAttendedRecital</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
@@ -243,7 +243,7 @@
   <TimeoutData>1</TimeoutData>
   <TimeoutEnd>8:00PM</TimeoutEnd>
   <CompletionEvent>kAttendedRecital</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
@@ -254,13 +254,13 @@
   <CustomOpportunityClass>Sims3.Gameplay.Opportunities.ScavengerOpportunity,Sims3GameplaySystems</CustomOpportunityClass>
   <Icon>opp_scavenger_hunt,EP4</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>20</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>EP4_ScavengerHunt_InteractionName</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Metal,Any; Gem,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>3; 3</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -272,13 +272,13 @@
   <CustomOpportunityClass>Sims3.Gameplay.Opportunities.ScavengerOpportunity,Sims3GameplaySystems</CustomOpportunityClass>
   <Icon>opp_scavenger_hunt,EP4</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>20</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>EP4_ScavengerHunt_InteractionName</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Metal,Silver; Metal,Iron; Gem,Emerald; Gem, Ruby</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>1; 1; 1; 1</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -289,13 +289,13 @@
   <CustomOpportunityClass>Sims3.Gameplay.Opportunities.ScavengerOpportunity,Sims3GameplaySystems</CustomOpportunityClass>
   <Icon>opp_scavenger_hunt,EP4</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>20</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
   <TargetInteractionName>EP4_ScavengerHunt_InteractionName</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Insect,ButterflyMoth; Insect,ButterflyMonarch; Insect,ButterflyRed; Insect,ButterflyBlue</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>1; 1; 1; 1</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -306,13 +306,13 @@
   <CustomOpportunityClass>Sims3.Gameplay.Opportunities.ScavengerOpportunity,Sims3GameplaySystems</CustomOpportunityClass>
   <Icon>opp_scavenger_hunt,EP4</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>20</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
   <TargetInteractionName>EP4_ScavengerHunt_InteractionName</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Insect,BeetleWater; Insect,BeetleRhino; Insect,BeetleLight; Insect,BeetleLady</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>1; 1; 1; 1</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>

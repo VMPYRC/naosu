@@ -25,7 +25,7 @@
   <CompletionEvent></CompletionEvent>
   <AllowPhoneCompletion>False</AllowPhoneCompletion>
   <CompletionProceduralTestFunction></CompletionProceduralTestFunction>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Source></Source>
@@ -39,7 +39,7 @@
   <TargetInteractionIgnoreTarget>False</TargetInteractionIgnoreTarget>
   <TargetWorldRequired>Undefined</TargetWorldRequired>
   <TargetInteractionCommodity></TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
@@ -162,15 +162,15 @@
   <TimeoutData>3</TimeoutData>
   <TimeoutEnd>12:00PM</TimeoutEnd>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>PoliceStation</TargetData>
   <TargetInteractionName>EP7_Interaction_HelpInvestigation</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>12:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
   <EventStartTime>6:00AM</EventStartTime>
   <EventEndTime>10:00AM</EventEndTime>
@@ -203,12 +203,12 @@
   <RepeatLevel>Always</RepeatLevel>
   <IsOrdered>False</IsOrdered>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Arboretum</TargetData>
   <TargetInteractionName>EP7_Interaction_ForsakeFairy</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP7</ProductVersion>
@@ -218,12 +218,12 @@
   <RepeatLevel>Always</RepeatLevel>
   <IsOrdered>False</IsOrdered>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>VaultOfAntiquity</TargetData>
   <TargetInteractionName>EP7_Interaction_ForsakeVampire</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP7</ProductVersion>
@@ -233,12 +233,12 @@
   <RepeatLevel>Always</RepeatLevel>
   <IsOrdered>False</IsOrdered>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>EP7_Interaction_ForsakeWitch</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP7</ProductVersion>
@@ -248,12 +248,12 @@
   <RepeatLevel>Always</RepeatLevel>
   <IsOrdered>False</IsOrdered>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>DaySpa</TargetData>
   <TargetInteractionName>EP7_Interaction_ForsakeWerewolf</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP7</ProductVersion>
@@ -262,12 +262,12 @@
   <IsOrdered>False</IsOrdered>
   <IsTotaled>True</IsTotaled>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Arboretum</TargetData>
   <TargetInteractionName>EP7_Interaction_DeliverFairyCollectibles</TargetInteractionName>
-  <TargetInteractionLength>60</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Gem,Bloodstone; Gem,Moonstone; Gem,Sunstone; Gem,Yellow</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>1; 1; 1; 1</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -280,12 +280,12 @@
   <IsOrdered>False</IsOrdered>
   <IsTotaled>True</IsTotaled>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Arboretum</TargetData>
   <TargetInteractionName>EP7_Interaction_DeliverFairyCollectibles</TargetInteractionName>
-  <TargetInteractionLength>60</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Harvestable,BeesWax,Nice,EqualOrBetter; Harvestable,Spotlight Mushrooms,Nice,EqualOrBetter; Harvestable,Glow Orbs,Nice,EqualOrBetter; Harvestable,Ghost Chili,Nice,EqualOrBetter</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>1; 1; 1; 1</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -298,12 +298,12 @@
   <IsOrdered>False</IsOrdered>
   <IsTotaled>True</IsTotaled>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Arboretum</TargetData>
   <TargetInteractionName>EP7_Interaction_DeliverFairyCollectibles</TargetInteractionName>
-  <TargetInteractionLength>60</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Metal,Iron; Metal,Silver; Metal,Gold; Metal,Palladium</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>1; 1; 1; 1</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -316,12 +316,12 @@
   <IsOrdered>False</IsOrdered>
   <IsTotaled>True</IsTotaled>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Arboretum</TargetData>
   <TargetInteractionName>EP7_Interaction_DeliverFairyCollectibles</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Insect,ButterflyMoth; Insect,ButterflyMonarch; Insect,ButterflyGold; Insect,ButterflyRed</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>1; 1; 1; 1</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -334,12 +334,12 @@
   <IsOrdered>False</IsOrdered>
   <IsTotaled>True</IsTotaled>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>EP7_Interaction_DeliverFairyCollectibles</TargetInteractionName>
-  <TargetInteractionLength>60</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Insect,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>4</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -352,12 +352,12 @@
   <IsOrdered>False</IsOrdered>
   <IsTotaled>True</IsTotaled>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Arboretum</TargetData>
   <TargetInteractionName>EP7_Interaction_DeliverFairyCollectibles</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Harvestable,Wolfsbane,Nice,EqualOrBetter; Harvestable,Mandrake,Nice,EqualOrBetter; Harvestable,Red Valerian,Nice,EqualOrBetter</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>1; 1; 1</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -370,12 +370,12 @@
   <IsOrdered>False</IsOrdered>
   <IsTotaled>True</IsTotaled>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>VaultOfAntiquity</TargetData>
   <TargetInteractionName>EP7_Interaction_DeliverFairyCollectibles</TargetInteractionName>
-  <TargetInteractionLength>240</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Gem,Any; Metal,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>2; 2</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -699,17 +699,17 @@
 <OpportunitiesRequirements>
   <GUID>EP7_AlchemicMastery_1</GUID>
   <Requirement1>WorldHasRabbitHoleType,ScienceLab</Requirement1>
-  <Requirement2>Skill,Spellcraft,10,10</Requirement2>
+  <Requirement2>Skill,Spellcraft,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP7_AlchemicMastery_2</GUID>
   <Requirement1>WorldHasRabbitHoleType,Arboretum</Requirement1>
-  <Requirement2>Skill,Spellcraft,10,10</Requirement2>
+  <Requirement2>Skill,Spellcraft,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP7_AlchemicMastery_3</GUID>
   <Requirement1>WorldHasRabbitHoleType,VaultOfAntiquity</Requirement1>
-  <Requirement2>Skill,Spellcraft,10,10</Requirement2>
+  <Requirement2>Skill,Spellcraft,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesCompletion>
   <GUID></GUID>

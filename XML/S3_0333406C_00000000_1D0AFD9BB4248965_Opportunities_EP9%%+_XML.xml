@@ -25,7 +25,7 @@
   <CompletionEvent></CompletionEvent>
   <AllowPhoneCompletion>False</AllowPhoneCompletion>
   <CompletionProceduralTestFunction></CompletionProceduralTestFunction>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Source></Source>
@@ -39,7 +39,7 @@
   <TargetInteractionIgnoreTarget>False</TargetInteractionIgnoreTarget>
   <TargetWorldRequired>Undefined</TargetWorldRequired>
   <TargetInteractionCommodity></TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
@@ -70,10 +70,10 @@
   <RepeatLevel>Never</RepeatLevel>
   <IsOrdered>False</IsOrdered>
   <CompletionEvent>kEnrolledInUniversity</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>Career</OpportunityType>
-  <TargetInteractionLength>240</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -82,7 +82,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <IsOrdered>False</IsOrdered>
   <CompletionEvent>kStreetArtLifetime,OpportunityTarget</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>Dare</OpportunityType>
 </OpportunitiesSetup>
@@ -94,7 +94,7 @@
   <IsOrdered>False</IsOrdered>
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <CompletionEvent>kJuiceKegPerformKegStand</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>Dare</OpportunityType>
 </OpportunitiesSetup>
@@ -106,7 +106,7 @@
   <IsOrdered>False</IsOrdered>
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <CompletionEvent>kAddedHerbToBonfire</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>Dare</OpportunityType>
 </OpportunitiesSetup>
@@ -119,7 +119,7 @@
   <TimeoutData>1</TimeoutData>
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <EventListenerInfo1>kGotBuff,HerbCinnamon</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>Dare</OpportunityType>
 </OpportunitiesSetup>
@@ -132,7 +132,7 @@
   <TimeoutData>1</TimeoutData>
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <EventListenerInfo1>kInteractionSuccess,Sims3.Gameplay.Objects.Decorations.Dumpster+DumpsterDive+Definition,Sims3GameplayObjects,1,1,Any</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>Dare</OpportunityType>
 </OpportunitiesSetup>
@@ -145,7 +145,7 @@
   <TimeoutData>1</TimeoutData>
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <EventListenerInfo1>kGotBuff,SuperJuiced</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>Dare</OpportunityType>
 </OpportunitiesSetup>
@@ -160,7 +160,7 @@
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <CountOrTotal>1</CountOrTotal>
   <EventListenerInfo1>kPlayedJuicePong,1</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>Dare</OpportunityType>
 </OpportunitiesSetup>
@@ -175,7 +175,7 @@
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <CountOrTotal>3</CountOrTotal>
   <EventListenerInfo1>kGotBuff,LiquidEnergy,3</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>Dare</OpportunityType>
 </OpportunitiesSetup>
@@ -188,7 +188,7 @@
   <TimeoutData>1</TimeoutData>
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <CompletionEvent>kStartedDate</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>Dare</OpportunityType>
 </OpportunitiesSetup>
@@ -201,7 +201,7 @@
   <TimeoutData>1</TimeoutData>
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <EventListenerInfo1>kGotBuff,HerbWonderpetal</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>Dare</OpportunityType>
 </OpportunitiesSetup>
@@ -214,7 +214,7 @@
   <TimeoutData>1</TimeoutData>
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <EventListenerInfo1>kGotBuff,GotAwayWithIt</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>Dare</OpportunityType>
 </OpportunitiesSetup>
@@ -227,7 +227,7 @@
   <TimeoutData>1</TimeoutData>
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <CompletionEvent>kImpliedMotherIsLlama</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>Dare</OpportunityType>
 </OpportunitiesSetup>
@@ -242,7 +242,7 @@
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <EventListenerInfo1>kGotBuff,StolenTestAnswers</EventListenerInfo1>
   <EventListenerInfo2>kGotBuff,GotAwayWithIt</EventListenerInfo2>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>Dare</OpportunityType>
 </OpportunitiesSetup>
@@ -255,7 +255,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kGoStreaking</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>Dare</OpportunityType>
 </OpportunitiesSetup>
@@ -270,7 +270,7 @@
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <CountOrTotal>1</CountOrTotal>
   <EventListenerInfo1>kSimKissed,1</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>Dare</OpportunityType>
 </OpportunitiesSetup>
@@ -285,7 +285,7 @@
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <CountOrTotal>1</CountOrTotal>
   <EventListenerInfo1>kShowedGrossVideo,1</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>Dare</OpportunityType>
 </OpportunitiesSetup>
@@ -299,7 +299,7 @@
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <CountOrTotal>1</CountOrTotal>
   <EventListenerInfo1>kGotBuff,HerbNausea</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>Dare</OpportunityType>
 </OpportunitiesSetup>
@@ -312,14 +312,14 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>DayJob</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>CollegeOfScience</TargetData>
   <TargetInteractionName>EP9_Interaction_DonatePlasma</TargetInteractionName>
   <TargetWorldRequired>University</TargetWorldRequired>
-  <TargetInteractionLength>60</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -332,7 +332,7 @@
   <TimeoutData>1</TimeoutData>
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <CompletionEvent>kStreetArtLifetime</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>DayJob</OpportunityType>
   <TargetWorldRequired>University</TargetWorldRequired>
@@ -346,14 +346,14 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kVisitedRabbithole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>DayJob</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>CollegeOfScience</TargetData>
   <TargetInteractionName>EP9_DayJob_Interaction</TargetInteractionName>
   <TargetWorldRequired>University</TargetWorldRequired>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -365,14 +365,14 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kVisitedRabbithole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>DayJob</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>CollegeOfScience,CollegeOfArts,CollegeOfBusiness,Annex</TargetData>
   <TargetInteractionName>EP9_DayJob_Interaction</TargetInteractionName>
   <TargetWorldRequired>University</TargetWorldRequired>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -384,14 +384,14 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kVisitedRabbithole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>DayJob</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>CollegeOfScience</TargetData>
   <TargetInteractionName>EP9_DayJob_Interaction</TargetInteractionName>
   <TargetWorldRequired>University</TargetWorldRequired>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionItemRequired>Harvestable,Ginseng,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>3</TargetInteractionNumberItemsRequired>
@@ -407,14 +407,14 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kVisitedRabbithole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>DayJob</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>CollegeOfScience</TargetData>
   <TargetInteractionName>EP9_DayJob_Interaction</TargetInteractionName>
   <TargetWorldRequired>University</TargetWorldRequired>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -426,14 +426,14 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kVisitedRabbithole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>DayJob</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>CollegeOfScience</TargetData>
   <TargetInteractionName>EP9_DayJob_Interaction</TargetInteractionName>
   <TargetWorldRequired>University</TargetWorldRequired>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionItemRequired>Harvestable,KonaBean,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>2</TargetInteractionNumberItemsRequired>
@@ -449,14 +449,14 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kVisitedRabbithole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>DayJob</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>EP9_DayJob_Interaction</TargetInteractionName>
   <TargetWorldRequired>University</TargetWorldRequired>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -468,14 +468,14 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kVisitedRabbithole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>DayJob</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>CollegeOfScience</TargetData>
   <TargetInteractionName>EP9_Interaction_SearchForMonkeys</TargetInteractionName>
   <TargetWorldRequired>University</TargetWorldRequired>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -487,7 +487,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kPlayedGamesAtNerdShop</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>DayJob</OpportunityType>
   <Target>Venue</Target>
@@ -502,7 +502,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kVisitedRabbithole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>DayJob</OpportunityType>
   <Target>RabbitHole</Target>
@@ -519,15 +519,15 @@
   <TimeoutData>1</TimeoutData>
   <OppMapDagDisplayType>Normal</OppMapDagDisplayType>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Theatre,Stadium,Bistro,DaySpa</TargetData>
   <TargetInteractionName>EP9_Interaction_GameShippingParty</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
   <EventStartTime>6:00AM</EventStartTime>
   <EventEndTime>10:00AM</EventEndTime>
@@ -540,15 +540,15 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Stadium,Theatre,Hideout,MilitaryBase</TargetData>
   <TargetInteractionName>EP9_Interaction_TradeConference</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
   <EventStartTime>6:00AM</EventStartTime>
   <EventEndTime>10:00AM</EventEndTime>
@@ -561,15 +561,15 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Theatre,Bistro,DaySpa,CityHall,Bookstore,Grocery,Hideout,Hospital,MilitaryBase,School,ScienceLab,Stadium</TargetData>
   <TargetInteractionName>EP9_Interaction_PromotingNewGame</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
   <EventStartTime>6:00AM</EventStartTime>
   <EventEndTime>10:00AM</EventEndTime>
@@ -582,15 +582,15 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Restaurant,Bistro</TargetData>
   <TargetInteractionName>EP9_Interaction_OffsiteBrainstorming</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
   <EventStartTime>6:00AM</EventStartTime>
   <EventEndTime>10:00AM</EventEndTime>
@@ -603,15 +603,15 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Bookstore,Bistro,DaySpa,Theatre,CityHall,Stadium,Grocery,Hideout,Hospital,MilitaryBase,School,ScienceLab</TargetData>
   <TargetInteractionName>EP9_Interaction_AdvertisingPartnerDeal</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionLength>1</TargetInteractionLength>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
   <EventStartTime>6:00AM</EventStartTime>
   <EventEndTime>10:00AM</EventEndTime>
@@ -634,7 +634,7 @@
   <CountOrTotal>5</CountOrTotal>
   <EventListenerInfo1>kTookPhoto,5</EventListenerInfo1>
   <CompletionEvent>kWentToWork</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
@@ -648,7 +648,7 @@
   <EventListenerInfo2>kGameDevPlayArcadeGame,IgnoreTarget</EventListenerInfo2>
   <EventListenerInfo3>kGameDevPlayConsoleGame,IgnoreTarget</EventListenerInfo3>
   <CompletionEvent>kWentToWork</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
@@ -661,7 +661,7 @@
   <TimeoutData>1</TimeoutData>
   <EventListenerInfo1>kPlayedGamesAtNerdShop</EventListenerInfo1>
   <CompletionEvent>kWentToWork</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
@@ -676,7 +676,7 @@
   <TimeoutData>3</TimeoutData>
   <CountOrTotal>1</CountOrTotal>
   <EventListenerInfo1>kStreetArtLifetime,1</EventListenerInfo1>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Skill</OpportunityType>
 </OpportunitiesSetup>
@@ -691,7 +691,7 @@
   <TimeoutData>3</TimeoutData>
   <CountOrTotal>1</CountOrTotal>
   <EventListenerInfo1>kStreetArtLifetime,1</EventListenerInfo1>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Skill</OpportunityType>
 </OpportunitiesSetup>
@@ -705,7 +705,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Hideout</TargetData>
   <TargetInteractionName>PaintingSkill_BusProp4Interaction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionItemRequired>PaintingLarge,1000</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>1</TargetInteractionNumberItemsRequired>
@@ -723,7 +723,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Hideout</TargetData>
   <TargetInteractionName>PaintingSkill_BusProp4Interaction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionItemRequired>PaintingAny,1200</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>1</TargetInteractionNumberItemsRequired>
@@ -740,7 +740,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Hideout</TargetData>
   <TargetInteractionName>PaintingSkill_BusProp4Interaction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionItemRequired>PaintingAny,1500</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>1</TargetInteractionNumberItemsRequired>
@@ -761,10 +761,10 @@
   <Target>RabbitHole</Target>
   <TargetData>Bookstore</TargetData>
   <TargetInteractionName>DeliverPackageInteractionName</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <Object>OpportunityObject</Object>
   <ObjectData>AHeavyPackage,opp_package_r2</ObjectData>
   <DeleteOnCompletion>True</DeleteOnCompletion>
@@ -783,10 +783,10 @@
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
   <TargetData>ArtGallery, Library, BigPark,Gym</TargetData>
-  <TargetInteractionLength>30</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <DeleteOnCompletion>True</DeleteOnCompletion>
   <DeleteOnFailure>True</DeleteOnFailure>
 </OpportunitiesSetup>
@@ -802,10 +802,10 @@
   <Target>RabbitHole</Target>
   <TargetData>Bookstore,Bistro,DaySpa,Theatre,CityHall,Stadium,Hospital,ScienceLab</TargetData>
   <TargetInteractionName>PaintingSkill_BusProp4Interaction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>PaintingAny</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>1</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -825,10 +825,10 @@
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>DeliverPackageInteractionName</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <Object>OpportunityObject</Object>
   <ObjectData>AHeavyPackage,opp_package_r2</ObjectData>
   <DeleteOnCompletion>True</DeleteOnCompletion>
@@ -847,10 +847,10 @@
   <Target>RabbitHole</Target>
   <TargetData>DaySpa</TargetData>
   <TargetInteractionName>DeliverPackageInteractionName</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <Object>OpportunityObject</Object>
   <ObjectData>AHeavyPackage,opp_package_r2</ObjectData>
   <DeleteOnCompletion>True</DeleteOnCompletion>
@@ -869,10 +869,10 @@
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>DeliverPackageInteractionName</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <Object>OpportunityObject</Object>
   <ObjectData>AHeavyPackage,opp_package_r2</ObjectData>
   <DeleteOnCompletion>True</DeleteOnCompletion>
@@ -891,10 +891,10 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>DeliverPackageInteractionName</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <Object>OpportunityObject</Object>
   <ObjectData>AHeavyPackage,opp_package_r2</ObjectData>
   <DeleteOnCompletion>True</DeleteOnCompletion>
@@ -913,10 +913,10 @@
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>DeliverPackageInteractionName</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <Object>OpportunityObject</Object>
   <ObjectData>AHeavyPackage,opp_package_r2</ObjectData>
   <DeleteOnCompletion>True</DeleteOnCompletion>
@@ -935,10 +935,10 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>DeliverPackageInteractionName</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <Object>OpportunityObject</Object>
   <ObjectData>AHeavyPackage,opp_package_r2</ObjectData>
   <DeleteOnCompletion>True</DeleteOnCompletion>
@@ -957,10 +957,10 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>DeliverPackageInteractionName</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <Object>OpportunityObject</Object>
   <ObjectData>AHeavyPackage,opp_package_r2</ObjectData>
   <DeleteOnCompletion>True</DeleteOnCompletion>
@@ -979,10 +979,10 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>DeliverPackageInteractionName</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <Object>OpportunityObject</Object>
   <ObjectData>AHeavyPackage,opp_package_r2</ObjectData>
   <DeleteOnCompletion>True</DeleteOnCompletion>
@@ -1001,10 +1001,10 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>DeliverPackageInteractionName</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <Object>OpportunityObject</Object>
   <ObjectData>AHeavyPackage,opp_package_r2</ObjectData>
   <DeleteOnCompletion>True</DeleteOnCompletion>
@@ -1023,10 +1023,10 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>DeliverPackageInteractionName</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <Object>OpportunityObject</Object>
   <ObjectData>AHeavyPackage,opp_package_r2</ObjectData>
   <DeleteOnCompletion>True</DeleteOnCompletion>
@@ -1045,10 +1045,10 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>DeliverPackageInteractionName</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <Object>OpportunityObject</Object>
   <ObjectData>AHeavyPackage,opp_package_r2</ObjectData>
   <DeleteOnCompletion>True</DeleteOnCompletion>
@@ -1066,10 +1066,10 @@
   <Target>RabbitHole</Target>
   <TargetData>Bookstore</TargetData>
   <TargetInteractionName>EP9_AppraiseArtworkattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1083,10 +1083,10 @@
   <Target>RabbitHole</Target>
   <TargetData>Bookstore</TargetData>
   <TargetInteractionName>EP9_CheckSecurityattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1100,10 +1100,10 @@
   <Target>RabbitHole</Target>
   <TargetData>DaySpa</TargetData>
   <TargetInteractionName>EP9_AppraiseArtworkattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1117,10 +1117,10 @@
   <Target>RabbitHole</Target>
   <TargetData>DaySpa</TargetData>
   <TargetInteractionName>EP9_CheckSecurityattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1134,10 +1134,10 @@
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>EP9_AppraiseArtworkattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1151,10 +1151,10 @@
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>EP9_CheckSecurityattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1168,10 +1168,10 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>EP9_AppraiseArtworkattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1185,10 +1185,10 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>EP9_CheckSecurityattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1202,10 +1202,10 @@
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>EP9_AppraiseArtworkattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1219,10 +1219,10 @@
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>EP9_CheckSecurityattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1236,10 +1236,10 @@
   <Target>RabbitHole</Target>
   <TargetData>Hospital</TargetData>
   <TargetInteractionName>EP9_AppraiseArtworkattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1253,10 +1253,10 @@
   <Target>RabbitHole</Target>
   <TargetData>Hospital</TargetData>
   <TargetInteractionName>EP9_CheckSecurityattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1270,10 +1270,10 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>EP9_AppraiseArtworkattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1287,10 +1287,10 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>EP9_CheckSecurityattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1304,10 +1304,10 @@
   <Target>RabbitHole</Target>
   <TargetData>Bookstore</TargetData>
   <TargetInteractionName>EP9_AppraiseArtworkattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1321,10 +1321,10 @@
   <Target>RabbitHole</Target>
   <TargetData>Bookstore</TargetData>
   <TargetInteractionName>EP9_CheckSecurityattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1338,10 +1338,10 @@
   <Target>RabbitHole</Target>
   <TargetData>DaySpa</TargetData>
   <TargetInteractionName>EP9_AppraiseArtworkattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1355,10 +1355,10 @@
   <Target>RabbitHole</Target>
   <TargetData>DaySpa</TargetData>
   <TargetInteractionName>EP9_CheckSecurityattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1372,10 +1372,10 @@
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>EP9_AppraiseArtworkattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1389,10 +1389,10 @@
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>EP9_CheckSecurityattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1406,10 +1406,10 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>EP9_AppraiseArtworkattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1423,10 +1423,10 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>EP9_CheckSecurityattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1440,10 +1440,10 @@
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>EP9_AppraiseArtworkattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1457,10 +1457,10 @@
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>EP9_CheckSecurityattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1474,10 +1474,10 @@
   <Target>RabbitHole</Target>
   <TargetData>Hospital</TargetData>
   <TargetInteractionName>EP9_AppraiseArtworkattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1491,10 +1491,10 @@
   <Target>RabbitHole</Target>
   <TargetData>Hospital</TargetData>
   <TargetInteractionName>EP9_CheckSecurityattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1508,10 +1508,10 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>EP9_AppraiseArtworkattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1525,10 +1525,10 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>EP9_CheckSecurityattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1542,7 +1542,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Hideout</TargetData>
   <TargetInteractionName>PaintingSkill_BusProp4Interaction</TargetInteractionName>
-  <TargetInteractionLength>30</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionItemRequired>PaintingLarge</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>1</TargetInteractionNumberItemsRequired>
@@ -1556,16 +1556,16 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kVisitedRabbithole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>EP9_Interaction_SpeakAtPressConference</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1580,10 +1580,10 @@
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>EP9_Interaction_HostACharityGame</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1598,10 +1598,10 @@
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>EP9_Interaction_RunMarketingCampaign</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1616,10 +1616,10 @@
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>EP9_Interaction_InterviewAfterAGame</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1640,13 +1640,13 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kVisitedRabbithole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>AdminstrationCenter</TargetData>
   <TargetInteractionName>EP9_Interaction_ReviewStudentEssays</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -1661,7 +1661,7 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>EP9_Interaction_BecomeBehavioralTestSubject</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -1673,16 +1673,16 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kVisitedRabbithole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>CollegeOfScience</TargetData>
   <TargetInteractionName>EP9_Interaction_BecomeBehavioralTestSubject</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>12:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1693,16 +1693,16 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kVisitedRabbithole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>AdminstrationCenter</TargetData>
   <TargetInteractionName>EP9_Interaction_RecordPSA</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>12:00PM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1715,7 +1715,7 @@
   <TimeoutData>1</TimeoutData>
   <CountOrTotal>1</CountOrTotal>
   <EventListenerInfo1>kBonedUpOnAnatomy,1</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -1729,7 +1729,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>CollegeOfScience</TargetData>
@@ -1744,7 +1744,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kResearchScience</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -1758,7 +1758,7 @@
   <TimeoutData>1</TimeoutData>
   <CountOrTotal>1</CountOrTotal>
   <EventListenerInfo1>kResearchedSample,1</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -1772,15 +1772,15 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>CollegeOfScience</TargetData>
   <TargetInteractionName>EP9_Interaction_ReturnObject</TargetInteractionName>
-  <TargetInteractionLength>30</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Harvestable,Any,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>3</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -1794,15 +1794,15 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>CollegeOfScience</TargetData>
   <TargetInteractionName>EP9_Interaction_ReturnObject</TargetInteractionName>
-  <TargetInteractionLength>30</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Gem,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>3</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -1817,15 +1817,15 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>CollegeOfScience</TargetData>
   <TargetInteractionName>EP9_Interaction_ReturnObject</TargetInteractionName>
-  <TargetInteractionLength>30</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Metal,Any,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>3</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -1840,15 +1840,15 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>CollegeOfScience</TargetData>
   <TargetInteractionName>EP9_Interaction_ReturnObject</TargetInteractionName>
-  <TargetInteractionLength>30</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Fish,Any,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>3</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -1866,7 +1866,7 @@
   <TimeoutData>1</TimeoutData>
   <CountOrTotal>5</CountOrTotal>
   <EventListenerInfo1>kPerformedStimulusResponseTest,5</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -1881,7 +1881,7 @@
   <TimeoutData>1</TimeoutData>
   <CountOrTotal>5</CountOrTotal>
   <EventListenerInfo1>kPerformedInkBlotTest,5</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -1893,7 +1893,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.Objects.HobbiesSkills.Science.LeverOfDoom+ActivateProject+Definition,Sims3GameplayObjects,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
   <TargetData>GroupSciencePark</TargetData>
@@ -1907,7 +1907,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.Objects.Academic.Whiteboard+MakeADiagram+Definition,Sims3GameplayObjects,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
   <TargetData>StudentUnion</TargetData>
@@ -1921,7 +1921,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.Objects.Academic.Whiteboard+GivePresentation+Definition,Sims3GameplayObjects,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
   <TargetData>StudentUnion</TargetData>
@@ -1935,7 +1935,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.Objects.HobbiesSkills.Podium+PracticeSpeech+Definition,Sims3GameplayObjects,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
   <TargetData>StudentUnion</TargetData>
@@ -1949,7 +1949,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.Objects.HobbiesSkills.Podium+GiveLecture+Definition,Sims3GameplayObjects,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
   <TargetData>StudentUnion, UniversityHangout</TargetData>
@@ -1963,7 +1963,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kBrainGotEnhanced</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -1977,7 +1977,7 @@
   <TimeoutData>1</TimeoutData>
   <CountOrTotal>1</CountOrTotal>
   <EventListenerInfo1>kObservedBrainEnhancer,1</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
   <TargetData>UniversityHangout</TargetData>
@@ -1991,7 +1991,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kUsedTelescope</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -2003,7 +2003,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kWonChessGame</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -2015,7 +2015,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <EventListenerInfo1>kInteractionSuccess,Sims3.Gameplay.Objects.HobbiesSkills.Science.PadTieNode+StudyPadTieNode+Definition,Sims3GameplayObjects,1,1,Any</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -2027,7 +2027,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kRepairedObject</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -2042,7 +2042,7 @@
   <TimeoutData>1</TimeoutData>
   <CountOrTotal>3</CountOrTotal>
   <EventListenerInfo1>kRepairedObject,3</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -2054,7 +2054,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kUpgradedObject</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -2069,7 +2069,7 @@
   <TimeoutData>1</TimeoutData>
   <CountOrTotal>2</CountOrTotal>
   <EventListenerInfo1>kUpgradedObject,2</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -2083,7 +2083,7 @@
   <TimeoutData>1</TimeoutData>
   <CountOrTotal>1</CountOrTotal>
   <EventListenerInfo1>kTinkeredWithObject,1</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
   <TargetData>StudentUnion</TargetData>
@@ -2097,7 +2097,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <EventListenerInfo1>kInteractionSuccess,Sims3.Gameplay.Objects.HobbiesSkills.BrainEnhancingMachine.BrainEnhancingMachine+StudyBrain+Definition,Sims3GameplayObjects,1,1,Any</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -2109,7 +2109,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.Objects.Academic.Whiteboard+SolveEquation+Definition,Sims3GameplayObjects,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
   <TargetData>StudentUnion</TargetData>
@@ -2123,7 +2123,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.Objects.Academic.Whiteboard+GivePresentation+Definition,Sims3GameplayObjects,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
   <TargetData>StudentUnion</TargetData>
@@ -2137,7 +2137,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.Objects.HobbiesSkills.Podium+PracticeSpeech+Definition,Sims3GameplayObjects,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
   <TargetData>StudentUnion</TargetData>
@@ -2151,7 +2151,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.Objects.HobbiesSkills.Podium+GiveLecture+Definition,Sims3GameplayObjects,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
   <TargetData>StudentUnion</TargetData>
@@ -2167,7 +2167,7 @@
   <TimeoutData>1</TimeoutData>
   <CountOrTotal>1</CountOrTotal>
   <EventListenerInfo1>kTestedSkeletalStructure,1</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -2179,7 +2179,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kPlayedHackyWithFriends,OpportunityTarget</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
   <TargetData>UniversityHangout</TargetData>
@@ -2193,7 +2193,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kBowledGame,IgnoreTarget</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
   <TargetData>Arcade</TargetData>
@@ -2207,7 +2207,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kWonPingPongGame,IgnoreTarget</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
   <TargetData>StudentUnion</TargetData>
@@ -2221,7 +2221,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kPlayedCatchWithFlyingDisc,OpportunityTarget</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
   <TargetData>UniversityHangout</TargetData>
@@ -2237,7 +2237,7 @@
   <TimeoutData>1</TimeoutData>
   <CountOrTotal>2</CountOrTotal>
   <EventListenerInfo1>kWorkedOut,Totaled,2,IgnoreTarget</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -2251,7 +2251,7 @@
   <TimeoutData>1</TimeoutData>
   <CountOrTotal>4</CountOrTotal>
   <EventListenerInfo1>kWorkedOut,Totaled,4,IgnoreTarget</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -2265,7 +2265,7 @@
   <TimeoutData>1</TimeoutData>
   <CountOrTotal>8</CountOrTotal>
   <EventListenerInfo1>kWorkedOut,Totaled,8,IgnoreTarget</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -2277,7 +2277,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kSwimming,IgnoreTarget</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
   <TargetData>Pool</TargetData>
@@ -2291,7 +2291,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <EventListenerInfo1>kInteractionSuccess,Sims3.Gameplay.Objects.RabbitHoles.Stadium+AttendGame+Definition,Sims3GameplayObjects,1,1,Any</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
@@ -2307,7 +2307,7 @@
   <TimeoutData>1</TimeoutData>
   <CountOrTotal>1</CountOrTotal>
   <EventListenerInfo1>kPlayCollegiateSports,1</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
@@ -2321,7 +2321,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.Objects.Academic.Whiteboard+MakeAGamePlan+Definition,Sims3GameplayObjects,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
   <TargetData>StudentUnion</TargetData>
@@ -2335,7 +2335,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.Objects.Academic.Whiteboard+GivePresentation+Definition,Sims3GameplayObjects,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
   <TargetData>StudentUnion</TargetData>
@@ -2349,7 +2349,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.Objects.HobbiesSkills.Podium+PracticeSpeech+Definition,Sims3GameplayObjects,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
   <TargetData>StudentUnion</TargetData>
@@ -2363,7 +2363,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.Objects.HobbiesSkills.Podium+GiveLecture+Definition,Sims3GameplayObjects,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
   <TargetData>StudentUnion</TargetData>
@@ -2377,7 +2377,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kPracticeSketching</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -2389,7 +2389,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kSketchedAStillLife</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -2403,7 +2403,7 @@
   <TimeoutData>1</TimeoutData>
   <CountOrTotal>1</CountOrTotal>
   <EventListenerInfo1>kStreetArtLifetime,1</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -2417,7 +2417,7 @@
   <TimeoutData>1</TimeoutData>
   <CountOrTotal>3</CountOrTotal>
   <EventListenerInfo1>kStreetArtLifetime,3</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -2429,7 +2429,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kPaintedPortrait</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -2441,7 +2441,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kPaintedStillLife</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -2455,7 +2455,7 @@
   <TimeoutData>1</TimeoutData>
   <CountOrTotal>1</CountOrTotal>
   <EventListenerInfo1>kPlayedGuitar,1</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
   <TargetData>StudentUnion,UniversityHangout</TargetData>
@@ -2471,7 +2471,7 @@
   <TimeoutData>1</TimeoutData>
   <CountOrTotal>10</CountOrTotal>
   <EventListenerInfo1>kGotTips,Totaled,10,IgnoreTarget</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
   <TargetData>StudentUnion,UniversityHangout</TargetData>
@@ -2485,7 +2485,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kCookedMeal</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -2498,7 +2498,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kCookedMeal</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -2510,7 +2510,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.Objects.Academic.Whiteboard+CreateConcepts+Definition,Sims3GameplayObjects,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
   <TargetData>StudentUnion</TargetData>
@@ -2524,7 +2524,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.Objects.Academic.Whiteboard+GivePresentation+Definition,Sims3GameplayObjects,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
   <TargetData>StudentUnion</TargetData>
@@ -2538,7 +2538,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.Objects.HobbiesSkills.Podium+PracticeSpeech+Definition,Sims3GameplayObjects,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
   <TargetData>StudentUnion</TargetData>
@@ -2552,7 +2552,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.Objects.HobbiesSkills.Podium+GiveLecture+Definition,Sims3GameplayObjects,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
   <TargetData>StudentUnion</TargetData>
@@ -2567,7 +2567,7 @@
   <TimeoutData>1</TimeoutData>
   <CountOrTotal>1</CountOrTotal>
   <EventListenerInfo1>kWorkedOnBusinessPlan,1</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -2580,7 +2580,7 @@
   <TimeoutData>1</TimeoutData>
   <CountOrTotal>1</CountOrTotal>
   <EventListenerInfo1>kPresentedBusinessPlan,1</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -2591,7 +2591,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kWorkedOnBusinessPlan,OpportunityTarget</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
   <TargetData>StudentUnion,UniversityHangout</TargetData>
@@ -2604,7 +2604,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kPresentedBusinessPlan,OpportunityTarget</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
   <TargetData>StudentUnion,UniversityHangout</TargetData>
@@ -2618,7 +2618,7 @@
   <TimeoutData>1</TimeoutData>
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <EventListenerInfo1>kBlogCreateOne</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -2632,7 +2632,7 @@
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <CountOrTotal>3</CountOrTotal>
   <EventListenerInfo1>kBlogNewPost,3</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -2646,7 +2646,7 @@
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <CountOrTotal>3</CountOrTotal>
   <EventListenerInfo1>kMetSim,3</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -2657,7 +2657,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <EventListenerInfo1>kRelationshipLTRChanged, Friend</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
   <Target>Sim</Target>
   <TargetData>NonFriendCoworker</TargetData>
@@ -2670,7 +2670,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <EventListenerInfo1>kInteractionSuccess,Sims3.Gameplay.Objects.RabbitHoles.CollegeOfBusiness+AttendResumeWritingAndInterviewTechniquesClass+Definition,Sims3GameplayObjects,1,1,Any</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -2681,7 +2681,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.Objects.Academic.Whiteboard+MakeAChart+Definition,Sims3GameplayObjects,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
   <TargetData>StudentUnion</TargetData>
@@ -2694,7 +2694,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.Objects.Academic.Whiteboard+GivePresentation+Definition,Sims3GameplayObjects,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
   <TargetData>StudentUnion</TargetData>
@@ -2707,7 +2707,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.Objects.HobbiesSkills.Podium+PracticeSpeech+Definition,Sims3GameplayObjects,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
   <TargetData>StudentUnion</TargetData>
@@ -2720,7 +2720,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.Objects.HobbiesSkills.Podium+GiveLecture+Definition,Sims3GameplayObjects,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
   <TargetData>StudentUnion</TargetData>
@@ -2732,7 +2732,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <EventListenerInfo1>kInteractionSuccess,Sims3.Gameplay.Objects.HobbiesSkills.MobileRadioStation+ReportEvents+Definition,Sims3GameplayObjects,1,1,Any</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -2742,7 +2742,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <EventListenerInfo1>kInteractionSuccess,Sims3.Gameplay.Objects.HobbiesSkills.MobileRadioStation+ConductInterview+Definition,Sims3GameplayObjects,1,1,Any</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -2754,7 +2754,7 @@
   <TimeoutData>1</TimeoutData>
   <CountOrTotal>1</CountOrTotal>
   <EventListenerInfo1>kPracticedSpeech,1</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -2766,7 +2766,7 @@
   <TimeoutData>1</TimeoutData>
   <CountOrTotal>1</CountOrTotal>
   <EventListenerInfo1>kTookPhoto,1</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -2776,7 +2776,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <EventListenerInfo1>kInteractionSuccess,Sims3.Gameplay.Objects.Electronics.Phone+TakeSelfPhoto+Definition,Sims3GameplayObjects,1,1,Any</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -2788,7 +2788,7 @@
   <TimeoutData>1</TimeoutData>
   <CountOrTotal>1</CountOrTotal>
   <EventListenerInfo1>kPostedPhotoToBlog,1</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -2798,7 +2798,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <EventListenerInfo1>kInteractionSuccess,Sims3.Gameplay.Objects.Electronics.Computer+WriteNovel+Definition,Sims3GameplayObjects,1,1,Any</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -2810,7 +2810,7 @@
   <TimeoutData>1</TimeoutData>
   <CountOrTotal>1</CountOrTotal>
   <EventListenerInfo1>kFinishedBook,1</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -2822,7 +2822,7 @@
   <TimeoutData>1</TimeoutData>
   <CountOrTotal>1</CountOrTotal>
   <EventListenerInfo1>kAttendedProtest,1</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -2832,7 +2832,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <EventListenerInfo1>kInteractionSuccess,Sims3.Gameplay.Objects.Miscellaneous.Megaphone+AnnounceProtest+Definition,Sims3GameplayObjects,1,1,Any</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -2844,7 +2844,7 @@
   <TimeoutData>1</TimeoutData>
   <CountOrTotal>1</CountOrTotal>
   <EventListenerInfo1>kScaredSimWithMegaphone,1</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -2854,7 +2854,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.Objects.Academic.Whiteboard+OutlineAnIdea+Definition,Sims3GameplayObjects,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
   <TargetData>StudentUnion</TargetData>
@@ -2866,7 +2866,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.Objects.Academic.Whiteboard+GivePresentation+Definition,Sims3GameplayObjects,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
   <TargetData>StudentUnion</TargetData>
@@ -2878,7 +2878,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.Objects.HobbiesSkills.Podium+PracticeSpeech+Definition,Sims3GameplayObjects,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
   <TargetData>StudentUnion</TargetData>
@@ -2890,7 +2890,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.Objects.HobbiesSkills.Podium+GiveLecture+Definition,Sims3GameplayObjects,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
   <TargetData>StudentUnion</TargetData>
@@ -2907,13 +2907,13 @@
   <CountOrTotal>5</CountOrTotal>
   <EventListenerInfo1>kTookDNASample,5</EventListenerInfo1>
   <CompletionEvent>kVisitedRabbithole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>SocialGroup</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>CollegeOfScience</TargetData>
   <TargetInteractionName>EP9_Interaction_ReturnObject</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -2925,12 +2925,12 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kActivatedGroupScienceProject</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>SocialGroup</OpportunityType>
   <Target>Venue</Target>
   <TargetData>GroupSciencePark</TargetData>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -2944,7 +2944,7 @@
   <TimeoutData>1</TimeoutData>
   <CountOrTotal>3</CountOrTotal>
   <EventListenerInfo1>kWonChessGame,3</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>SocialGroup</OpportunityType>
 </OpportunitiesSetup>
@@ -2959,7 +2959,7 @@
   <TimeoutData>1</TimeoutData>
   <CountOrTotal>1</CountOrTotal>
   <EventListenerInfo1>kBoughtComic,1</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>SocialGroup</OpportunityType>
 </OpportunitiesSetup>
@@ -2973,7 +2973,7 @@
   <TimeoutData>1</TimeoutData>
   <CountOrTotal>1</CountOrTotal>
   <EventListenerInfo1>kPlayedGamesAtNerdShop,1</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>SocialGroup</OpportunityType>
   <Target>Venue</Target>
@@ -2990,7 +2990,7 @@
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <CountOrTotal>1</CountOrTotal>
   <EventListenerInfo1>kPlayedVideoOrComputerGame,1</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>SocialGroup</OpportunityType>
 </OpportunitiesSetup>
@@ -3005,7 +3005,7 @@
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <CountOrTotal>1</CountOrTotal>
   <EventListenerInfo1>kPlayedVideoOrComputerGame,1</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>SocialGroup</OpportunityType>
 </OpportunitiesSetup>
@@ -3017,15 +3017,15 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kVisitedRabbithole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>SocialGroup</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>EP9_Interaction_AttendFilmScreening</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>6:00PM</TargetInteractionStartTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -3038,7 +3038,7 @@
   <TimeoutData>1</TimeoutData>
   <CountOrTotal>1</CountOrTotal>
   <EventListenerInfo1>kPlayedGamesAtNerdShop,1</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>SocialGroup</OpportunityType>
   <Target>Venue</Target>
@@ -3052,15 +3052,15 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kVisitedRabbithole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>SocialGroup</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>CollegeOfScience</TargetData>
   <TargetInteractionName>EP9_Interaction_AttendMeetingOfMinds</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>6:00PM</TargetInteractionStartTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -3073,7 +3073,7 @@
   <TimeoutData>1</TimeoutData>
   <CountOrTotal>1</CountOrTotal>
   <EventListenerInfo1>kStreetArtLifetime,1</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>SocialGroup</OpportunityType>
   <Target>Venue</Target>
@@ -3087,13 +3087,13 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kVisitedRabbithole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>SocialGroup</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>EP9_Interaction_ReturnObject</TargetInteractionName>
-  <TargetInteractionLength>30</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionItemRequired>Harvestable,SweetGrass,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>5</TargetInteractionNumberItemsRequired>
@@ -3108,7 +3108,7 @@
   <TimeoutData>1</TimeoutData>
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <EventListenerInfo1>kInteractionSuccess,Sims3.Gameplay.Objects.Appliances.BaristaBar+MakeDrink+Definition,Sims3GameplayObjects,1,1,Any</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>SocialGroup</OpportunityType>
 </OpportunitiesSetup>
@@ -3120,13 +3120,13 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kVisitedRabbithole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>SocialGroup</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>CollegeOfArts</TargetData>
   <TargetInteractionName>EP9_Interaction_ReturnObject</TargetInteractionName>
-  <TargetInteractionLength>30</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionItemRequired>Harvestable,MauiBean,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>5</TargetInteractionNumberItemsRequired>
@@ -3141,7 +3141,7 @@
   <TimeoutData>1</TimeoutData>
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <EventListenerInfo1>kInteractionSuccess,Sims3.Gameplay.Objects.Decorations.Dumpster+DumpsterDive+Definition,Sims3GameplayObjects,1,1,Any</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>SocialGroup</OpportunityType>
 </OpportunitiesSetup>
@@ -3155,7 +3155,7 @@
   <TimeoutData>1</TimeoutData>
   <CountOrTotal>1</CountOrTotal>
   <EventListenerInfo1>kScaredSimWithMegaphone,1</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>SocialGroup</OpportunityType>
   <Target>Venue</Target>
@@ -3171,7 +3171,7 @@
   <TimeoutData>2</TimeoutData>
   <CountOrTotal>1</CountOrTotal>
   <EventListenerInfo1>kFinishedMyScheduledProtest,1</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>SocialGroup</OpportunityType>
   <Target>Venue</Target>
@@ -3185,15 +3185,15 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kVisitedRabbithole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>SocialGroup</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>EP9_Interaction_AttendFilmScreening</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
-  <TargetInteractionStartTime>6:00PM</TargetInteractionStartTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -3204,7 +3204,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <EventListenerInfo1>kInteractionSuccess,Sims3.Gameplay.Objects.RabbitHoles.CollegeOfArts+FindMakeShiftFurniture+Definition,Sims3GameplayObjects,1,1,Any</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>SocialGroup</OpportunityType>
   <Target>RabbitHole</Target>
@@ -3222,10 +3222,10 @@
   <CountOrTotal>1</CountOrTotal>
   <EventListenerInfo1>kThrewJuiceKeggerParty,1</EventListenerInfo1>
   <CompletionEvent>kPartyOver</CompletionEvent>
-  <ChanceToGetOnPhone>1000</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>SocialGroup</OpportunityType>
-  <TargetInteractionLength>240</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -3240,10 +3240,10 @@
   <CountOrTotal>1</CountOrTotal>
   <EventListenerInfo1>kThrewBonfireParty,1</EventListenerInfo1>
   <CompletionEvent>kPartyOver</CompletionEvent>
-  <ChanceToGetOnPhone>1000</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>SocialGroup</OpportunityType>
-  <TargetInteractionLength>240</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -3255,7 +3255,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>2</TimeoutData>
   <CompletionEvent>kPartyOver</CompletionEvent>
-  <ChanceToGetOnPhone>1000</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>SocialGroup</OpportunityType>
 </OpportunitiesSetup>
@@ -3270,7 +3270,7 @@
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <CountOrTotal>1</CountOrTotal>
   <EventListenerInfo1>kBowledGame,1</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>SocialGroup</OpportunityType>
 </OpportunitiesSetup>
@@ -3282,7 +3282,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kPlayedCatchWithFlyingDisc,OpportunityTarget</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>SocialGroup</OpportunityType>
   <Target>Venue</Target>
@@ -3296,7 +3296,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kPlayedCatchWithFootball,OpportunityTarget</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>SocialGroup</OpportunityType>
   <Target>Venue</Target>
@@ -3310,7 +3310,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>1</TimeoutData>
   <CompletionEvent>kPlayedCatchWithBaseball,OpportunityTarget</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>SocialGroup</OpportunityType>
   <Target>Venue</Target>
@@ -3327,7 +3327,7 @@
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <CountOrTotal>3</CountOrTotal>
   <EventListenerInfo1>kWonPingPongGame,3</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>SocialGroup</OpportunityType>
 </OpportunitiesSetup>
@@ -3342,7 +3342,7 @@
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <CountOrTotal>3</CountOrTotal>
   <EventListenerInfo1>kWinGameOfPool,3</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>SocialGroup</OpportunityType>
 </OpportunitiesSetup>
@@ -3358,7 +3358,7 @@
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <CountOrTotal>1</CountOrTotal>
   <EventListenerInfo1>kJuiceKegPerformKegStand,1</EventListenerInfo1>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Dare</OpportunityType>
 </OpportunitiesSetup>
@@ -3374,7 +3374,7 @@
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <CountOrTotal>1</CountOrTotal>
   <EventListenerInfo1>kGoStreaking,1</EventListenerInfo1>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Dare</OpportunityType>
 </OpportunitiesSetup>
@@ -3390,7 +3390,7 @@
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <CountOrTotal>1</CountOrTotal>
   <EventListenerInfo1>kFighting,1</EventListenerInfo1>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Dare</OpportunityType>
 </OpportunitiesSetup>
@@ -3406,7 +3406,7 @@
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <CountOrTotal>1</CountOrTotal>
   <EventListenerInfo1>kSimKissed,1</EventListenerInfo1>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Dare</OpportunityType>
 </OpportunitiesSetup>
@@ -3422,7 +3422,7 @@
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <CountOrTotal>1</CountOrTotal>
   <EventListenerInfo1>kWooHooed,1</EventListenerInfo1>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Dare</OpportunityType>
 </OpportunitiesSetup>
@@ -3438,7 +3438,7 @@
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <CountOrTotal>1</CountOrTotal>
   <EventListenerInfo1>kGotBuff,SuperJuiced,1</EventListenerInfo1>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Dare</OpportunityType>
 </OpportunitiesSetup>
@@ -3454,7 +3454,7 @@
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <CountOrTotal>1</CountOrTotal>
   <EventListenerInfo1>kPlayedJuicePong,1</EventListenerInfo1>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Dare</OpportunityType>
 </OpportunitiesSetup>
@@ -3470,7 +3470,7 @@
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <CountOrTotal>1</CountOrTotal>
   <EventListenerInfo1>kGrilled,1</EventListenerInfo1>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Dare</OpportunityType>
 </OpportunitiesSetup>
@@ -3484,7 +3484,7 @@
   <TimeoutData>1</TimeoutData>
   <CountOrTotal>1</CountOrTotal>
   <EventListenerInfo1>kStudied,1</EventListenerInfo1>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
   <TargetData>Library</TargetData>
@@ -3499,7 +3499,7 @@
   <TimeoutData>1</TimeoutData>
   <CountOrTotal>1</CountOrTotal>
   <EventListenerInfo1>kStudied,1</EventListenerInfo1>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
   <TargetData>UniversityHangout</TargetData>
@@ -3514,7 +3514,7 @@
   <TimeoutData>1</TimeoutData>
   <CountOrTotal>1</CountOrTotal>
   <EventListenerInfo1>kStudied,1</EventListenerInfo1>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
   <TargetData>StudentUnion</TargetData>
@@ -3530,7 +3530,7 @@
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <CountOrTotal>1</CountOrTotal>
   <EventListenerInfo1>kStudied,1</EventListenerInfo1>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
 <Names>
@@ -5619,7 +5619,7 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP9_CommisionedTag</GUID>
-  <Requirement1>Skill,StreetArt,10,10</Requirement1>
+  <Requirement1>Skill,StreetArt,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP9_DayJob_DonateExtraOrgan</GUID>
@@ -5895,23 +5895,23 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP9_SportsAgentCareer_SpeakAtPressConferenceEvent</GUID>
-  <Requirement1>Career,SportsAgent,5,10</Requirement1>
+  <Requirement1>Career,SportsAgent,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP9_SportsAgentCareer_HostACharityGame</GUID>
-  <Requirement1>Career,SportsAgent,6,10</Requirement1>
+  <Requirement1>Career,SportsAgent,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP9_SportsAgentCareer_RunMarketingCampaign</GUID>
-  <Requirement1>Career,SportsAgent,7,10</Requirement1>
+  <Requirement1>Career,SportsAgent,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP9_SportsAgentCareer_InterviewAfterAGame</GUID>
-  <Requirement1>Career,SportsAgent,8,10</Requirement1>
+  <Requirement1>Career,SportsAgent,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP9_SportsAgentCareer_StayLate</GUID>
-  <Requirement1>Career,SportsAgent,1,6</Requirement1>
+  <Requirement1>Career,SportsAgent,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP9_Academics_Professor_ExtraCredit</GUID>
@@ -5935,7 +5935,7 @@
 <OpportunitiesRequirements>
   <GUID>EP9_Academics_Science_02</GUID>
   <Requirement1>InMajor,Science,0,9</Requirement1>
-  <Requirement2>Skill,Science,8,10</Requirement2>
+  <Requirement2>Skill,Science,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP9_Academics_Science_03</GUID>
@@ -6169,7 +6169,7 @@
 <OpportunitiesRequirements>
   <GUID>EP9_Academics_FineArts_02</GUID>
   <Requirement1>InMajor,FineArts,0,9</Requirement1>
-  <Requirement2>Skill,Painting,5,10</Requirement2>
+  <Requirement2>Skill,Painting,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP9_Academics_FineArts_04</GUID>
@@ -6182,7 +6182,7 @@
 <OpportunitiesRequirements>
   <GUID>EP9_Academics_FineArts_06</GUID>
   <Requirement1>InMajor,FineArts,0,9</Requirement1>
-  <Requirement2>Skill,Painting,6,10</Requirement2>
+  <Requirement2>Skill,Painting,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP9_Academics_FineArts_07</GUID>
@@ -6196,7 +6196,7 @@
 <OpportunitiesRequirements>
   <GUID>EP9_Academics_FineArts_09</GUID>
   <Requirement1>InMajor,FineArts,0,9</Requirement1>
-  <Requirement2>Skill,Guitar,5,10</Requirement2>
+  <Requirement2>Skill,Guitar,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP9_Academics_FineArts_10</GUID>
@@ -6350,7 +6350,7 @@
 <OpportunitiesRequirements>
   <GUID>EP9_SocialGroup_Nerd_DNACollection</GUID>
   <Requirement1>Skill,InfluenceNerd,1,10</Requirement1>
-  <Requirement2>Skill,Science,8,10</Requirement2>
+  <Requirement2>Skill,Science,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP9_SocialGroup_Nerd_ActivateGroupScience</GUID>
@@ -6366,7 +6366,7 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP9_SocialGroup_Nerd_VideoGameTournament</GUID>
-  <Requirement1>Skill,InfluenceNerd,5,10</Requirement1>
+  <Requirement1>Skill,InfluenceNerd,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP9_SocialGroup_Nerd_LaptopGaming</GUID>
@@ -6385,7 +6385,7 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP9_SocialGroup_Nerd_MeetingOfMinds</GUID>
-  <Requirement1>Skill,InfluenceNerd,5,10</Requirement1>
+  <Requirement1>Skill,InfluenceNerd,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP9_SocialGroup_Rebel_GraphicIntentions</GUID>
@@ -6411,7 +6411,7 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP9_SocialGroup_Rebel_PodiumPublicProtest</GUID>
-  <Requirement1>Skill,InfluenceRebel,5,10</Requirement1>
+  <Requirement1>Skill,InfluenceRebel,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP9_SocialGroup_Rebel_ForeignFilmScreening</GUID>
@@ -6422,15 +6422,15 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP9_SocialGroup_Jock_HostJuiceKeggerParty</GUID>
-  <Requirement1>Skill,InfluenceSocialite,2,10</Requirement1>
+  <Requirement1>Skill,InfluenceSocialite,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP9_SocialGroup_Jock_HostBonfireParty</GUID>
-  <Requirement1>Skill,InfluenceSocialite,4,10</Requirement1>
+  <Requirement1>Skill,InfluenceSocialite,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP9_SocialGroup_Jock_RentAPartyForCharity</GUID>
-  <Requirement1>Skill,InfluenceSocialite,6,10</Requirement1>
+  <Requirement1>Skill,InfluenceSocialite,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP9_SocialGroup_Jock_BowlExtravaganza</GUID>

@@ -25,7 +25,7 @@
   <CompletionEvent></CompletionEvent>
   <AllowPhoneCompletion>False</AllowPhoneCompletion>
   <CompletionProceduralTestFunction></CompletionProceduralTestFunction>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Source></Source>
@@ -39,7 +39,7 @@
   <TargetInteractionIgnoreTarget>False</TargetInteractionIgnoreTarget>
   <TargetWorldRequired>Undefined</TargetWorldRequired>
   <TargetInteractionCommodity></TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
@@ -85,7 +85,7 @@
   <Loss>SetupObjectDeleted</Loss>
   <AdventureMapTagTarget>AdventureKey,DiscoveryTomb</AdventureMapTagTarget>
   <EventListenerInfo2>kInventoryObjectAdded,SetupObject</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -104,7 +104,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <Loss>SetupObjectDeleted</Loss>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -121,7 +121,7 @@
   <Icon>opp_egypt</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -136,7 +136,7 @@
   <Icon>opp_egypt</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Source>PreviousSource</Source>
@@ -155,7 +155,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <IsCounted>True</IsCounted>
   <EventListenerInfo1>kDeliveredToSim,3,Distinct</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -171,7 +171,7 @@
   <Icon>opp_egypt</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Target>PreviousSource</Target>
@@ -186,7 +186,7 @@
   <Loss>SetupObjectDeleted</Loss>
   <AdventureMapTagTarget>AdventureKey,FirePyramid</AdventureMapTagTarget>
   <EventListenerInfo2>kTombObjectTrigger,FireTombUnlocked</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -200,7 +200,7 @@
   <Icon>opp_egypt</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -217,7 +217,7 @@
   <Icon>opp_egypt</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -234,7 +234,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <AdventureMapTagTarget>AdventureKey,AncientLibrary</AdventureMapTagTarget>
   <EventListenerInfo1>kSimEnterSpecificTombRoom,AncientLibrary,ShowMapTag</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Source>PreviousSource</Source>
@@ -249,7 +249,7 @@
   <Loss>SetupObjectDeleted</Loss>
   <AdventureMapTagTarget>AdventureKey,AncientLibrary</AdventureMapTagTarget>
   <EventListenerInfo1>kInventoryObjectAdded,SetupObject</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -269,7 +269,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <Loss>SetupObjectDeleted</Loss>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -286,7 +286,7 @@
   <Icon>opp_egypt</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -302,7 +302,7 @@
   <Icon>opp_egypt</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Source>PreviousSource</Source>
@@ -321,7 +321,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <Loss>SetupObjectDeleted</Loss>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Target>PreviousSource</Target>
@@ -338,7 +338,7 @@
   <Icon>opp_egypt</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Target>Sim</Target>
@@ -352,7 +352,7 @@
   <Icon>opp_egypt</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -371,7 +371,7 @@
   <Loss>SetupObjectDeleted</Loss>
   <AdventureMapTagTarget>AdventureKey,EvilHQ</AdventureMapTagTarget>
   <EventListenerInfo2>kObjectMovedToTreasureComponent,PlunderEgyptGood2_PlaceBribe</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -386,7 +386,7 @@
   <Icon>opp_egypt</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <EventListenerInfo1>kTombObjectTrigger,HackMainComputer</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -399,7 +399,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <AdventureMapTagTarget>AdventureKey,TombDesertOcean</AdventureMapTagTarget>
   <EventListenerInfo1>kSimEnterSpecificTombRoom,TombDesertOcean,ShowMapTag</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -412,7 +412,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <Loss>SetupObjectDeleted</Loss>
   <EventListenerInfo1>kInventoryObjectAdded,SetupObject</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -431,7 +431,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <Loss>SetupObjectDeleted</Loss>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -448,7 +448,7 @@
   <Icon>opp_egypt</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -464,7 +464,7 @@
   <Icon>opp_egypt</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Source>PreviousSource</Source>
@@ -483,7 +483,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <AdventureMapTagTarget>AdventureKey,DeathTomb</AdventureMapTagTarget>
   <EventListenerInfo2>kInventoryObjectAdded,SetupObject</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -503,7 +503,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <Loss>SetupObjectDeleted</Loss>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -765,7 +765,7 @@
   <Icon>opp_egypt</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <EventListenerInfo1>kGotBuff,Soaked</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Source>PreviousSource</Source>
@@ -778,7 +778,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <EventListenerInfo1>kGotBuff,MummysCurse</EventListenerInfo1>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Target>PreviousSource</Target>
@@ -805,7 +805,7 @@
   <Icon>opp_egypt</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Source>PreviousSource</Source>
@@ -912,7 +912,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <AdventureMapTagTarget>LotAddressKey,EP01/World/Egypt/LotAddress:CartoucheLot2</AdventureMapTagTarget>
   <EventListenerInfo1>kSimEnterSpecificLot,EP01/World/Egypt/LotAddress:CartoucheLot2</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -925,7 +925,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <AdventureMapTagTarget>LotAddressKey,EP01/World/Egypt/LotAddress:CartoucheLot12</AdventureMapTagTarget>
   <EventListenerInfo1>kSimEnterSpecificLot,EP01/World/Egypt/LotAddress:CartoucheLot12</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -938,7 +938,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <AdventureMapTagTarget>LotAddressKey,EP01/World/Egypt/LotAddress:LapisLot1</AdventureMapTagTarget>
   <EventListenerInfo1>kSimEnterSpecificLot,EP01/World/Egypt/LotAddress:LapisLot1</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -951,7 +951,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <AdventureMapTagTarget>LotAddressKey,EP01/World/Egypt/LotAddress:CartoucheLot10</AdventureMapTagTarget>
   <EventListenerInfo1>kSimEnterSpecificLot,EP01/World/Egypt/LotAddress:CartoucheLot10</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -963,7 +963,7 @@
   <Icon>opp_egypt</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -1127,7 +1127,7 @@
   <Icon>opp_egypt</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -1147,7 +1147,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <AdventureMapTagTarget>AdventureKey,SecretBase</AdventureMapTagTarget>
   <EventListenerInfo1>kSimEnterSpecificTombRoom,SecretBase,ShowMapTag</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -1160,7 +1160,7 @@
   <Icon>opp_egypt</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <EventListenerInfo1>kTombObjectTrigger,GoodComputerHacked</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Source>PreviousSource</Source>
@@ -1173,7 +1173,7 @@
   <Icon>opp_egypt</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Source>PreviousSource</Source>
@@ -1188,7 +1188,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <IsCounted>True</IsCounted>
   <EventListenerInfo1>kDeliveredToSim,5,Distinct</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -1206,7 +1206,7 @@
   <IsCounted>True</IsCounted>
   <CountOrTotal>5</CountOrTotal>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Target>PreviousSource</Target>
@@ -1219,7 +1219,7 @@
   <Icon>opp_egypt</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -1235,7 +1235,7 @@
   <Icon>opp_egypt</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Source>PreviousSource</Source>
@@ -1253,7 +1253,7 @@
   <Icon>opp_egypt</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Target>PreviousSource</Target>
@@ -1281,7 +1281,7 @@
   <Icon>opp_egypt</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Target>PreviousSource</Target>
@@ -1309,7 +1309,7 @@
   <Icon>opp_egypt</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -1324,7 +1324,7 @@
   <Icon>opp_egypt</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Source>PreviousSource</Source>
@@ -1343,7 +1343,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <EventListenerInfo1>kReadBook</EventListenerInfo1>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -1360,7 +1360,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <AdventureMapTagTarget>AdventureKey,QueensGetaway</AdventureMapTagTarget>
   <EventListenerInfo1>kSimEnterSpecificTombRoom,QueensGetaway,ShowMapTag</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -1373,7 +1373,7 @@
   <Icon>opp_egypt</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <EventListenerInfo1>kInventoryObjectAdded,SetupObject</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Source>PreviousSource</Source>
@@ -1392,7 +1392,7 @@
   <Icon>opp_egypt</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Source>PreviousSource</Source>
@@ -1410,7 +1410,7 @@
   <Loss>SetupObjectDeleted</Loss>
   <AdventureMapTagTarget>AdventureKey,ServantsQuarters</AdventureMapTagTarget>
   <EventListenerInfo2>kTombObjectTrigger,ServantsQuartersOpened</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Source>PreviousSource</Source>
@@ -1426,7 +1426,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <Loss>SetupObjectDeleted</Loss>
   <EventListenerInfo1>kInventoryObjectAdded,SetupObject</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Source>PreviousSource</Source>
@@ -1446,7 +1446,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <Loss>SetupObjectDeleted</Loss>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Source>PreviousSource</Source>
@@ -1465,7 +1465,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <IsCounted>True</IsCounted>
   <EventListenerInfo1>kDeliveredToSim,5,Distinct</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -1483,7 +1483,7 @@
   <IsCounted>True</IsCounted>
   <CountOrTotal>5</CountOrTotal>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Source>PreviousSource</Source>
@@ -1499,7 +1499,7 @@
   <Loss>SetupObjectDeleted</Loss>
   <AdventureMapTagTarget>AdventureKey,BazaarTomb</AdventureMapTagTarget>
   <EventListenerInfo2>kTombObjectTrigger,BazaarTombOpened</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -1515,7 +1515,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <Loss>SetupObjectDeleted</Loss>
   <EventListenerInfo1>kInventoryObjectAdded,SetupObject</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Source>PreviousSource</Source>
@@ -1535,7 +1535,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <Loss>SetupObjectDeleted</Loss>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Source>PreviousSource</Source>
@@ -1553,7 +1553,7 @@
   <Icon>opp_egypt</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -1573,7 +1573,7 @@
   <Loss>SetupObjectDeleted</Loss>
   <AdventureMapTagTarget>AdventureKey,QueensChambers</AdventureMapTagTarget>
   <EventListenerInfo2>kTombObjectTrigger,QueensChambersOpened</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -1589,7 +1589,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <Loss>SetupObjectDeleted</Loss>
   <EventListenerInfo1>kInventoryObjectAdded,SetupObject</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Source>PreviousSource</Source>
@@ -1609,7 +1609,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <Loss>SetupObjectDeleted</Loss>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Source>PreviousSource</Source>
@@ -1647,7 +1647,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <AdventureMapTagTarget>LotAddressKey,EP01/World/Egypt/LotAddress:CartoucheLot2</AdventureMapTagTarget>
   <EventListenerInfo1>kSimEnterSpecificLot,EP01/World/Egypt/LotAddress:CartoucheLot2</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -1660,7 +1660,7 @@
   <Icon>opp_egypt</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kSimPleadToSphinx,IgnoreTarget</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -1673,7 +1673,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <AdventureMapTagTarget>AdventureKey,SphinxTomb</AdventureMapTagTarget>
   <EventListenerInfo1>kSimEnterSpecificTombRoom,SphinxTomb,ShowMapTag</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -1685,7 +1685,7 @@
   <Icon>opp_egypt</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kSimSeekedCleansing,IgnoreTarget</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -1697,7 +1697,7 @@
   <Icon>opp_egypt</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureEgypt</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -2648,7 +2648,7 @@
   <GUID>EP1_SkillAthletic_BreathingExercises</GUID>
   <Icon>opp_athletic_skill</Icon>
   <EventListenerInfo1>kSimEnteredVacationWorld,China</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Source>Sim</Source>
   <SourceData>AcquaintanceOrHigher</SourceData>
@@ -2659,7 +2659,7 @@
   <GUID>EP1_SkillAthletic_BreathingExercises2</GUID>
   <Icon>opp_athletic_skill</Icon>
   <EventListenerInfo1>kDeliveredToSim</EventListenerInfo1>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Source>PreviousSource</Source>
   <Target>Sim</Target>
@@ -2672,7 +2672,7 @@
   <GUID>EP1_SkillAthletic_BreathingExercises3</GUID>
   <Icon>opp_athletic_skill</Icon>
   <EventListenerInfo1>kSimReturnedFromVacationWorld</EventListenerInfo1>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Source>PreviousSource</Source>
   <Target>PreviousTarget</Target>
@@ -2682,7 +2682,7 @@
   <GUID>EP1_SkillAthletic_BreathingExercises4</GUID>
   <Icon>opp_athletic_skill</Icon>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Source>PreviousTarget</Source>
   <Target>PreviousSource</Target>
@@ -2696,7 +2696,7 @@
   <IsTotaled>True</IsTotaled>
   <CountOrTotal>4</CountOrTotal>
   <EventListenerInfo1>kSimEnteredVacationWorld,Egypt</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>AcquaintanceOrHigher</TargetData>
@@ -2708,7 +2708,7 @@
   <Icon>opp_athletic_skill</Icon>
   <IsTotaled>True</IsTotaled>
   <EventListenerInfo1>kJogged,Totaled,4,IgnoreTarget</EventListenerInfo1>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>PreviousTarget</Target>
 </OpportunitiesSetup>
@@ -2719,7 +2719,7 @@
   <IsTotaled>True</IsTotaled>
   <CountOrTotal>4</CountOrTotal>
   <EventListenerInfo1>kSimReturnedFromVacationWorld</EventListenerInfo1>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>PreviousTarget</Target>
 </OpportunitiesSetup>
@@ -2730,7 +2730,7 @@
   <IsTotaled>True</IsTotaled>
   <CountOrTotal>4</CountOrTotal>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>PreviousTarget</Target>
   <TargetInteractionName>Report</TargetInteractionName>
@@ -2743,7 +2743,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <EventListenerInfo1>kSkillLevelUp,MartialArts</EventListenerInfo1>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>AcquaintanceOrHigher</TargetData>
@@ -2758,7 +2758,7 @@
   <IsTotaled>True</IsTotaled>
   <EventListenerInfo1>kTrainedSim,Totaled,4</EventListenerInfo1>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>Stranger,MartialArts,-1,6</TargetData>
@@ -2773,7 +2773,7 @@
   <Loss>SetupObjectDeleted</Loss>
   <EventListenerInfo1>kUsedBoardBreaker,Totaled,2,IgnoreTarget</EventListenerInfo1>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
@@ -2791,7 +2791,7 @@
   <IsTotaled>True</IsTotaled>
   <EventListenerInfo1>kUsedTrainingDummy,Totaled,2,IgnoreTarget</EventListenerInfo1>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>Stranger</TargetData>
@@ -2804,7 +2804,7 @@
   <Icon>w_learn_martialarts_skill</Icon>
   <EventListenerInfo1>kBrokeSpaceRock,IgnoreTarget</EventListenerInfo1>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
@@ -2817,7 +2817,7 @@
   <Icon>w_learn_martialarts_skill</Icon>
   <EventListenerInfo1>kGotBuff,MeditativeFocus</EventListenerInfo1>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>Stranger</TargetData>
@@ -2829,7 +2829,7 @@
   <GUID>EP1_SkillMartialArts_TournamentMatch</GUID>
   <Icon>w_learn_martialarts_skill</Icon>
   <EventListenerInfo1>kSimEnteredVacationWorld,China</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -2837,7 +2837,7 @@
   <GUID>EP1_SkillMartialArts_TournamentMatch2</GUID>
   <Icon>w_learn_martialarts_skill</Icon>
   <EventListenerInfo1>kSimWonSparTournamentMatch</EventListenerInfo1>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <TargetWorldRequired>China</TargetWorldRequired>
 </OpportunitiesSetup>
@@ -2846,7 +2846,7 @@
   <GUID>EP1_SkillMartialArts_TournamentMatch3</GUID>
   <Icon>w_learn_martialarts_skill</Icon>
   <EventListenerInfo1>kSimReturnedFromVacationWorld</EventListenerInfo1>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -2854,7 +2854,7 @@
   <GUID>EP1_SkillMartialArts_TournamentMatch4</GUID>
   <Icon>w_learn_martialarts_skill</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
@@ -2865,7 +2865,7 @@
   <GUID>EP1_SkillMartialArts_WinTheTournament</GUID>
   <Icon>w_learn_martialarts_skill</Icon>
   <EventListenerInfo1>kSimEnteredVacationWorld,China</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -2873,7 +2873,7 @@
   <GUID>EP1_SkillMartialArts_WinTheTournament2</GUID>
   <Icon>w_learn_martialarts_skill</Icon>
   <EventListenerInfo1>kSimIsMartialArtsGrandMaster</EventListenerInfo1>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <TargetWorldRequired>China</TargetWorldRequired>
 </OpportunitiesSetup>
@@ -2882,7 +2882,7 @@
   <GUID>EP1_SkillMartialArts_WinTheTournament3</GUID>
   <Icon>w_learn_martialarts_skill</Icon>
   <EventListenerInfo1>kSimReturnedFromVacationWorld</EventListenerInfo1>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -2890,7 +2890,7 @@
   <GUID>EP1_SkillMartialArts_WinTheTournament4</GUID>
   <Icon>w_learn_martialarts_skill</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
@@ -2901,13 +2901,13 @@
   <GUID>EP1_SkillMartialArts_TrainPolice</GUID>
   <Icon>w_learn_martialarts_skill</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>PoliceStation</TargetData>
   <TargetInteractionName>SkillMartialArts_TrainAgents</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP1</ProductVersion>
@@ -2915,7 +2915,7 @@
   <Icon>w_learn_martialarts_skill</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <EventListenerInfo1>kSparred</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>Stranger,MartialArts,1,10</TargetData>
@@ -2928,7 +2928,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <IsTotaled>True</IsTotaled>
   <EventListenerInfo1>kTrainedSim,Totaled,3</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>Stranger,MartialArts,-1,9</TargetData>
@@ -2939,13 +2939,13 @@
   <GUID>EP1_SkillMartialArts_SpaStress</GUID>
   <Icon>w_learn_martialarts_skill</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>DaySpa</TargetData>
   <TargetInteractionName>SkillMartialArts_GiveClass</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP1</ProductVersion>
@@ -2954,7 +2954,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <EventListenerInfo1>kSkillLevelUp,Photography</EventListenerInfo1>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>Stranger</TargetData>
@@ -2967,7 +2967,7 @@
   <Icon>w_photo_skill</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>Stranger</TargetData>
@@ -2983,7 +2983,7 @@
   <GUID>EP1_SkillPhotography_SphinxPicture</GUID>
   <Icon>w_photo_skill</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>BusinessAndJournalism</TargetData>
@@ -2999,7 +2999,7 @@
   <GUID>EP1_SkillPhotography_DragonCavePicture</GUID>
   <Icon>w_photo_skill</Icon>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>Stranger</TargetData>
@@ -3016,7 +3016,7 @@
   <Icon>w_photo_skill</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
@@ -3032,7 +3032,7 @@
   <GUID>EP1_SkillPhotography_PyramidPhoto</GUID>
   <Icon>w_photo_skill</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>BusinessAndJournalism</TargetData>
@@ -3048,7 +3048,7 @@
   <GUID>EP1_SkillPhotography_PictureOfAnotherSim</GUID>
   <Icon>w_photo_skill</Icon>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Source>Sim</Source>
   <SourceData>Stranger</SourceData>
@@ -3066,7 +3066,7 @@
   <GUID>EP1_SkillPhotography_AbuSimbelPicture</GUID>
   <Icon>w_photo_skill</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>DaySpa</TargetData>
@@ -3083,7 +3083,7 @@
   <Icon>w_photo_skill</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
@@ -3099,7 +3099,7 @@
   <GUID>EP1_SkillCooking_GetCrepes</GUID>
   <Icon>opp_cooking_skill</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
@@ -3115,7 +3115,7 @@
   <GUID>EP1_SkillCooking_GetStirFry</GUID>
   <Icon>opp_cooking_skill</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
@@ -3131,7 +3131,7 @@
   <GUID>EP1_SkillCooking_GetFalafel</GUID>
   <Icon>opp_cooking_skill</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
@@ -3147,7 +3147,7 @@
   <GUID>EP1_SkillFishing_GetCrocs</GUID>
   <Icon>opp_fishing_skill</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
@@ -3163,7 +3163,7 @@
   <GUID>EP1_SkillFishing_GetFrogs</GUID>
   <Icon>opp_fishing_skill</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
@@ -3179,7 +3179,7 @@
   <GUID>EP1_SkillFishing_GetDragonfish</GUID>
   <Icon>opp_fishing_skill</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>MilitaryBase</TargetData>
@@ -3196,7 +3196,7 @@
   <Icon>opp_gardening_skill</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Grocery</TargetData>
@@ -3213,7 +3213,7 @@
   <Icon>opp_gardening_skill</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Grocery</TargetData>
@@ -3230,7 +3230,7 @@
   <Icon>opp_gardening_skill</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
@@ -3249,7 +3249,7 @@
   <IsTotaled>True</IsTotaled>
   <CountOrTotal>50</CountOrTotal>
   <EventListenerInfo1>kSimEnteredVacationWorld,France</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -3259,7 +3259,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <IsTotaled>TRUE</IsTotaled>
   <EventListenerInfo1>kGotTips,Totaled,50,IgnoreTarget</EventListenerInfo1>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <TargetWorldRequired>France</TargetWorldRequired>
 </OpportunitiesSetup>
@@ -3271,7 +3271,7 @@
   <IsTotaled>True</IsTotaled>
   <CountOrTotal>50</CountOrTotal>
   <EventListenerInfo1>kSimEnteredVacationWorld,Egypt</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -3281,7 +3281,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <IsTotaled>TRUE</IsTotaled>
   <EventListenerInfo1>kGotTips,Totaled,50,IgnoreTarget</EventListenerInfo1>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <TargetWorldRequired>Egypt</TargetWorldRequired>
 </OpportunitiesSetup>
@@ -3293,7 +3293,7 @@
   <IsTotaled>True</IsTotaled>
   <CountOrTotal>50</CountOrTotal>
   <EventListenerInfo1>kSimEnteredVacationWorld,China</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -3303,7 +3303,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <IsTotaled>TRUE</IsTotaled>
   <EventListenerInfo1>kGotTips,Totaled,50,IgnoreTarget</EventListenerInfo1>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <TargetWorldRequired>China</TargetWorldRequired>
 </OpportunitiesSetup>
@@ -3312,7 +3312,7 @@
   <GUID>EP1_SkillHandiness_DisarmTrap</GUID>
   <Icon>opp_handiness_skill</Icon>
   <EventListenerInfo1>kSimEnteredVacationWorld,Egypt</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Source>Sim</Source>
   <SourceData>AcquaintanceOrHigher</SourceData>
@@ -3323,7 +3323,7 @@
   <GUID>EP1_SkillHandiness_DisarmTrap2</GUID>
   <Icon>opp_handiness_skill</Icon>
   <EventListenerInfo1>kDisarmedTrap</EventListenerInfo1>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Source>PreviousSource</Source>
   <TargetWorldRequired>Egypt</TargetWorldRequired>
@@ -3333,7 +3333,7 @@
   <GUID>EP1_SkillHandiness_DisarmTrap3</GUID>
   <Icon>opp_handiness_skill</Icon>
   <EventListenerInfo1>kSimReturnedFromVacationWorld</EventListenerInfo1>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Source>PreviousSource</Source>
 </OpportunitiesSetup>
@@ -3342,7 +3342,7 @@
   <GUID>EP1_SkillHandiness_DisarmTrap4</GUID>
   <Icon>opp_handiness_skill</Icon>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>PreviousSource</Target>
   <TargetInteractionName>Report</TargetInteractionName>
@@ -3354,7 +3354,7 @@
   <IsCounted>True</IsCounted>
   <CountOrTotal>3</CountOrTotal>
   <EventListenerInfo1>kSimEnteredVacationWorld,China</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -3363,7 +3363,7 @@
   <Icon>opp_logic_skill</Icon>
   <IsCounted>True</IsCounted>
   <EventListenerInfo1>kDeliveredToSim,3,Distinct</EventListenerInfo1>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <TargetInteractionName>SkillLogic_SolveRiddle</TargetInteractionName>
   <TargetInteractionIgnoreTarget>True</TargetInteractionIgnoreTarget>
@@ -3376,7 +3376,7 @@
   <IsCounted>True</IsCounted>
   <CountOrTotal>3</CountOrTotal>
   <EventListenerInfo1>kSimReturnedFromVacationWorld</EventListenerInfo1>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -3386,7 +3386,7 @@
   <IsCounted>True</IsCounted>
   <CountOrTotal>3</CountOrTotal>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
@@ -3397,7 +3397,7 @@
   <GUID>EP1_SkillLogic_FrenchPuzzle</GUID>
   <Icon>opp_logic_skill</Icon>
   <EventListenerInfo1>kSimEnteredVacationWorld,France</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Source>Sim</Source>
   <SourceData>AcquaintanceOrHigher</SourceData>
@@ -3408,7 +3408,7 @@
   <GUID>EP1_SkillLogic_FrenchPuzzle2</GUID>
   <Icon>opp_logic_skill</Icon>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Source>PreviousSource</Source>
   <Target>Sim</Target>
@@ -3421,7 +3421,7 @@
   <GUID>EP1_SkillLogic_FrenchPuzzle3</GUID>
   <Icon>opp_logic_skill</Icon>
   <EventListenerInfo1>kSimReturnedFromVacationWorld</EventListenerInfo1>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Source>PreviousTarget</Source>
   <Target>PreviousSource</Target>
@@ -3431,7 +3431,7 @@
   <GUID>EP1_SkillLogic_FrenchPuzzle4</GUID>
   <Icon>opp_logic_skill</Icon>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Source>PreviousSource</Source>
   <Target>PreviousTarget</Target>
@@ -3442,7 +3442,7 @@
   <GUID>EP1_SkillLogic_Senet</GUID>
   <Icon>opp_logic_skill</Icon>
   <EventListenerInfo1>kSimEnteredVacationWorld,Egypt</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -3450,7 +3450,7 @@
   <GUID>EP1_SkillLogic_Senet2</GUID>
   <Icon>opp_logic_skill</Icon>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>VacationLocal</TargetData>
@@ -3462,7 +3462,7 @@
   <GUID>EP1_SkillLogic_Senet3</GUID>
   <Icon>opp_logic_skill</Icon>
   <EventListenerInfo1>kSimReturnedFromVacationWorld</EventListenerInfo1>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -3470,7 +3470,7 @@
   <GUID>EP1_SkillLogic_Senet4</GUID>
   <Icon>opp_logic_skill</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>MilitaryBase</TargetData>
@@ -3484,7 +3484,7 @@
   <IsTotaled>True</IsTotaled>
   <CountOrTotal>750</CountOrTotal>
   <EventListenerInfo1>kSimEnteredVacationWorld,China</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -3493,7 +3493,7 @@
   <Icon>opp_painting_skill</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>InRole,LocationMerchant</TargetData>
@@ -3512,7 +3512,7 @@
   <IsTotaled>True</IsTotaled>
   <CountOrTotal>750</CountOrTotal>
   <EventListenerInfo1>kSimEnteredVacationWorld,France</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -3521,7 +3521,7 @@
   <Icon>opp_painting_skill</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>InRole,LocationMerchant</TargetData>
@@ -3540,7 +3540,7 @@
   <IsTotaled>True</IsTotaled>
   <CountOrTotal>750</CountOrTotal>
   <EventListenerInfo1>kSimEnteredVacationWorld,Egypt</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -3549,7 +3549,7 @@
   <Icon>opp_painting_skill</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>InRole,LocationMerchant</TargetData>
@@ -3566,7 +3566,7 @@
   <Icon>opp_writing_skill</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <EventListenerInfo1>kSimEnteredVacationWorld,China</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -3575,7 +3575,7 @@
   <Icon>opp_writing_skill</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>InRole,LocationMerchant</TargetData>
@@ -3592,7 +3592,7 @@
   <Icon>opp_writing_skill</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <EventListenerInfo1>kSimEnteredVacationWorld,France</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -3601,7 +3601,7 @@
   <Icon>opp_writing_skill</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>InRole,LocationMerchant</TargetData>
@@ -3618,7 +3618,7 @@
   <Icon>opp_writing_skill</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <EventListenerInfo1>kSimEnteredVacationWorld,Egypt</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -3627,7 +3627,7 @@
   <Icon>opp_writing_skill</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>InRole,LocationMerchant</TargetData>
@@ -3662,7 +3662,7 @@
   <Icon>opp_china</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -3679,7 +3679,7 @@
   <Icon>opp_china</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -3829,7 +3829,7 @@
   <Icon>opp_china</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -3847,7 +3847,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <Loss>SetupObjectDeleted</Loss>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -3867,7 +3867,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <Loss>SetupObjectDeleted</Loss>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Target>PreviousSource</Target>
@@ -3885,7 +3885,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <IsCounted>True</IsCounted>
   <EventListenerInfo1>kDeliveredToSim,3,Distinct</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -3901,7 +3901,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <IsCounted>True</IsCounted>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Target>PreviousSource</Target>
@@ -3990,7 +3990,7 @@
   <Icon>opp_china</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -4004,7 +4004,7 @@
   <Icon>opp_china</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -4019,7 +4019,7 @@
   <Icon>opp_china</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -4049,7 +4049,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <Loss>SetupObjectDeleted</Loss>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -4071,7 +4071,7 @@
   <Loss>SetupObjectDeleted</Loss>
   <AdventureMapTagTarget>AdventureKey,MarketCaves</AdventureMapTagTarget>
   <EventListenerInfo2>kInventoryObjectAdded,SetupObject</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -4090,7 +4090,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <Loss>SetupObjectDeleted</Loss>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -4107,7 +4107,7 @@
   <Icon>opp_china</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -4123,7 +4123,7 @@
   <Icon>opp_china</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -4139,7 +4139,7 @@
   <Loss>SetupObjectDeleted</Loss>
   <AdventureMapTagTarget>AdventureKey,DongHuosTreasureTrove</AdventureMapTagTarget>
   <EventListenerInfo2>kTombObjectTrigger,DongHuo_Panel</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -4156,7 +4156,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <Loss>SetupObjectDeleted</Loss>
   <EventListenerInfo1>kInventoryObjectAdded,SetupObject</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Source>PreviousSource</Source>
@@ -4175,7 +4175,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <Loss>SetupObjectDeleted</Loss>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Target>PreviousSource</Target>
@@ -4208,7 +4208,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <EventListenerInfo1>kSkillLevelUp,MartialArts</EventListenerInfo1>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -4222,7 +4222,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <IsCounted>True</IsCounted>
   <EventListenerInfo1>kSparred,2,OpportunityTarget</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Source>Sim</Source>
@@ -4237,7 +4237,7 @@
   <Icon>opp_china</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Target>PreviousSource</Target>
@@ -4253,7 +4253,7 @@
   <AdventureMapTagTarget>LotAddressKey,EP01/World/China/LotAddress:ScholarLot1</AdventureMapTagTarget>
   <EventListenerInfo1>kSimMeditatedAtLot,Totaled,2,EP01/World/China/LotAddress:ScholarLot1</EventListenerInfo1>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -4268,7 +4268,7 @@
   <Loss>SetupObjectDeleted</Loss>
   <AdventureMapTagTarget>AdventureKey,AncientMonkRetreat</AdventureMapTagTarget>
   <EventListenerInfo2>kTombObjectTrigger,AncientMonkRetreat_Panel</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -4286,7 +4286,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <Loss>SetupObjectDeleted</Loss>
   <EventListenerInfo1>kInventoryObjectAdded,SetupObject</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Source>PreviousSource</Source>
@@ -4305,7 +4305,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <Loss>SetupObjectDeleted</Loss>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Target>PreviousSource</Target>
@@ -4339,7 +4339,7 @@
   <Loss>SetupObjectDeleted</Loss>
   <AdventureMapTagTarget>AdventureKey,TempleOfHeaven</AdventureMapTagTarget>
   <EventListenerInfo2>kTombObjectTrigger,TempleOfHeaven_Panel</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -4357,7 +4357,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <Loss>SetupObjectDeleted</Loss>
   <EventListenerInfo1>kInventoryObjectAdded,SetupObject</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Source>PreviousSource</Source>
@@ -4376,7 +4376,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <Loss>SetupObjectDeleted</Loss>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Source>PreviousSource</Source>
@@ -4394,7 +4394,7 @@
   <Icon>opp_china</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -4411,7 +4411,7 @@
   <Icon>opp_china</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -4432,7 +4432,7 @@
   <EventListenerInfo1>kEventSimMovedToLotOfType,kEP1_Dojo</EventListenerInfo1>
   <EventListenerInfo2>kEventSimMovedToLotOfType,kEP1_ChineseGarden</EventListenerInfo2>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -4451,7 +4451,7 @@
   <Loss>SetupObjectDeleted</Loss>
   <AdventureMapTagTarget>AdventureKey,TempleOfHeaven</AdventureMapTagTarget>
   <EventListenerInfo2>kTombObjectTrigger,ResoluteFistAnnex_Panel</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -4469,7 +4469,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <Loss>SetupObjectDeleted</Loss>
   <EventListenerInfo1>kInventoryObjectAdded,SetupObject</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Source>PreviousSource</Source>
@@ -4488,7 +4488,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <Loss>SetupObjectDeleted</Loss>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Target>PreviousSource</Target>
@@ -4505,7 +4505,7 @@
   <Icon>opp_china</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -4522,7 +4522,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <Loss>SetupObjectDeleted</Loss>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Target>PreviousSource</Target>
@@ -4558,7 +4558,7 @@
   <Icon>opp_china</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -4575,7 +4575,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <Loss>SetupObjectDeleted</Loss>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Target>PreviousSource</Target>
@@ -4594,7 +4594,7 @@
   <Loss>SetupObjectDeleted</Loss>
   <AdventureMapTagTarget>AdventureKey,DragonEmperorTomb</AdventureMapTagTarget>
   <EventListenerInfo2>kTombObjectTrigger,DragonEmperorTomb_Panel</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -4612,7 +4612,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <AdventureMapTagTarget>AdventureKey,DragonEmperorTomb_MidRoom</AdventureMapTagTarget>
   <EventListenerInfo1>kSimEnterSpecificTombRoom,DragonEmperorTomb_MidRoom,ShowMapTag</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Source>PreviousSource</Source>
@@ -4624,7 +4624,7 @@
   <Icon>opp_china</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Target>PreviousSource</Target>
@@ -4638,7 +4638,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <Loss>SetupObjectDeleted</Loss>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -4658,7 +4658,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <Loss>SetupObjectDeleted</Loss>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Target>PreviousSource</Target>
@@ -4677,7 +4677,7 @@
   <Loss>SetupObjectDeleted</Loss>
   <AdventureMapTagTarget>AdventureKey,DragonEmperorTomb</AdventureMapTagTarget>
   <EventListenerInfo2>kTombObjectTrigger,DragonEmperorTomb_InnerPanel</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -4695,7 +4695,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <Loss>SetupObjectDeleted</Loss>
   <EventListenerInfo1>kInventoryObjectAdded,SetupObject</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Source>PreviousSource</Source>
@@ -4714,7 +4714,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <Loss>SetupObjectDeleted</Loss>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Target>PreviousSource</Target>
@@ -4732,7 +4732,7 @@
   <Icon>opp_china</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Target>Sim</Target>
@@ -4747,7 +4747,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <IsCounted>True</IsCounted>
   <EventListenerInfo1>kDeliveredToSim,3,Distinct</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -4762,7 +4762,7 @@
   <Icon>opp_china</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Target>PreviousSource</Target>
@@ -4775,7 +4775,7 @@
   <Icon>opp_china</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -4791,7 +4791,7 @@
   <Icon>opp_china</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Source>PreviousSource</Source>
@@ -4811,7 +4811,7 @@
   <Loss>SetupObjectDeleted</Loss>
   <AdventureMapTagTarget>AdventureKey,TempleOfHeaven</AdventureMapTagTarget>
   <EventListenerInfo2>kTombObjectTrigger,AxeTemple_Panel</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Source>PreviousSource</Source>
@@ -4828,7 +4828,7 @@
   <Icon>opp_china</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <EventListenerInfo1>kUniqueObjectTaken,PanguAxe</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Target>PreviousSource</Target>
@@ -4840,7 +4840,7 @@
   <Icon>opp_china</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -4855,7 +4855,7 @@
   <Loss>SetupObjectDeleted</Loss>
   <AdventureMapTagTarget>AdventureKey,HotSpringsTemple</AdventureMapTagTarget>
   <EventListenerInfo2>kInventoryObjectAdded,SetupObject</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -4875,7 +4875,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <Loss>SetupObjectDeleted</Loss>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Target>PreviousSource</Target>
@@ -4893,7 +4893,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <AdventureMapTagTarget>AdventureKey,DragonCaveShell</AdventureMapTagTarget>
   <EventListenerInfo2>kSimEnterSpecificTombRoom,DragonCave_EndRoom</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Source>Sim</Source>
@@ -4906,7 +4906,7 @@
   <Icon>opp_china</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Target>PreviousSource</Target>
@@ -4919,7 +4919,7 @@
   <Icon>opp_china</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -4936,7 +4936,7 @@
   <Icon>opp_china</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -4953,7 +4953,7 @@
   <Icon>opp_china</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -4973,7 +4973,7 @@
   <Loss>SetupObjectDeleted</Loss>
   <AdventureMapTagTarget>LotAddressKey,EP01/World/China/LotAddress:ScholarLot1</AdventureMapTagTarget>
   <EventListenerInfo1>kEventSimMovedToLotOfType,kEP1_ChineseGarden</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Source>Sim</Source>
@@ -4992,7 +4992,7 @@
   <Loss>SetupObjectDeleted</Loss>
   <AdventureMapTagTarget>LotAddressKey,EP01/World/China/LotAddress:DragonLot8</AdventureMapTagTarget>
   <EventListenerInfo1>kSimEnterSpecificLot,EP01/World/China/LotAddress:DragonLot8</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Source>PreviousSource</Source>
@@ -5010,7 +5010,7 @@
   <Loss>SetupObjectDeleted</Loss>
   <AdventureMapTagTarget>LotAddressKey,EP01/World/China/LotAddress:DragonLot1</AdventureMapTagTarget>
   <EventListenerInfo1>kSimEnterSpecificLot,EP01/World/China/LotAddress:DragonLot1</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Source>PreviousSource</Source>
@@ -5027,7 +5027,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <Loss>SetupObjectDeleted</Loss>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Target>PreviousSource</Target>
@@ -5045,7 +5045,7 @@
   <Icon>opp_china</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Source>Sim</Source>
@@ -5061,7 +5061,7 @@
   <Icon>opp_china</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -5081,7 +5081,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <Loss>SetupObjectDeleted</Loss>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -5099,7 +5099,7 @@
   <Icon>opp_china</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -5115,7 +5115,7 @@
   <Icon>opp_china</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <EventListenerInfo1>kSimReturnedFromVacationWorld</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -5126,7 +5126,7 @@
   <Icon>opp_china</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <EventListenerInfo1>kSimEnteredVacationWorld,France</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Source>PreviousSource</Source>
@@ -5137,7 +5137,7 @@
   <Icon>opp_china</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Source>PreviousSource</Source>
@@ -5152,7 +5152,7 @@
   <Icon>opp_china</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Source>PreviousSource</Source>
@@ -5168,7 +5168,7 @@
   <Icon>opp_china</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Source>PreviousSource</Source>
@@ -5187,7 +5187,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <AdventureMapTagTarget>AdventureKey,LandgraabChateau</AdventureMapTagTarget>
   <EventListenerInfo1>kSimEnterSpecificTombRoom,LandgraabChateau</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Source>PreviousSource</Source>
@@ -5202,7 +5202,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <Loss>SetupObjectDeleted</Loss>
   <EventListenerInfo1>kInventoryObjectAdded,SetupObject</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Source>PreviousSource</Source>
@@ -5222,7 +5222,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <Loss>SetupObjectDeleted</Loss>
   <EventListenerInfo1>kSimEnteredVacationWorld,China</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Source>PreviousSource</Source>
@@ -5238,7 +5238,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <Loss>SetupObjectDeleted</Loss>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Target>Sim</Target>
@@ -5257,7 +5257,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <EventListenerInfo1>kBrokeSpaceRock,IgnoreTarget</EventListenerInfo1>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -5271,7 +5271,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <EventListenerInfo1>kSimWonSparTournamentMatch,IgnoreTarget</EventListenerInfo1>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -5284,7 +5284,7 @@
   <Icon>opp_china</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -5301,7 +5301,7 @@
   <Icon>opp_china</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -5320,7 +5320,7 @@
   <Loss>SetupObjectDeleted</Loss>
   <AdventureMapTagTarget>AdventureKey,DragonCaveShell</AdventureMapTagTarget>
   <EventListenerInfo2>kTombObjectTrigger,DragonCave_Panel</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -5337,7 +5337,7 @@
   <Icon>opp_china</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <EventListenerInfo1>kTombObjectTrigger,DragonCave_DongHuoTrigger</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Source>PreviousSource</Source>
@@ -5349,7 +5349,7 @@
   <Icon>opp_china</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Target>PreviousSource</Target>
@@ -5379,7 +5379,7 @@
   <Loss>SetupObjectDeleted</Loss>
   <AdventureMapTagTarget>AdventureKey,ChinaIntroTomb</AdventureMapTagTarget>
   <EventListenerInfo2>kTombObjectTrigger,ChinaIntroTomb_Panel</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -5397,7 +5397,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <Loss>SetupObjectDeleted</Loss>
   <EventListenerInfo1>kInventoryObjectAdded,SetupObject</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Source>PreviousSource</Source>
@@ -5416,7 +5416,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <Loss>SetupObjectDeleted</Loss>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureChina</OpportunityType>
   <Target>PreviousSource</Target>
@@ -5453,7 +5453,7 @@
   <Icon>opp_france</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <EventListenerInfo2>kDeliveredToSim</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -5471,7 +5471,7 @@
   <Icon>opp_france</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <EventListenerInfo2>kDeliveredToSim</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -5491,7 +5491,7 @@
   <Icon>opp_france</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <EventListenerInfo2>kDeliveredToSim</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -5527,7 +5527,7 @@
   <Icon>opp_france</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <EventListenerInfo2>kDeliveredToSim</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -5544,7 +5544,7 @@
   <Loss>SetupObjectDeleted</Loss>
   <AdventureMapTagTarget>LotAddressKey,EP01/World/France/LotAddress:757RuedesRoses</AdventureMapTagTarget>
   <EventListenerInfo2>kTombObjectTrigger,NectarHistory3_LibraryKeystonePanel</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -5560,7 +5560,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <AdventureMapTagTarget>LotAddressKey,EP01/World/France/LotAddress:757RuedesRoses</AdventureMapTagTarget>
   <EventListenerInfo2>kInventoryObjectAdded,SetupObject</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -5579,7 +5579,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <Loss>SetupObjectDeleted</Loss>
   <EventListenerInfo2>kDeliveredToSim</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -5598,7 +5598,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <Loss>SetupObjectDeleted</Loss>
   <EventListenerInfo2>kDeliveredToSim</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -5619,7 +5619,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <Loss>SetupObjectDeleted</Loss>
   <EventListenerInfo2>kDeliveredToSim</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -5654,7 +5654,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <AdventureMapTagTarget>AdventureKey,Landgraab_EstateGroundskeeperChest</AdventureMapTagTarget>
   <EventListenerInfo2>kInventoryObjectAdded,SetupObject</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -5673,7 +5673,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <Loss>SetupObjectDeleted</Loss>
   <EventListenerInfo2>kDeliveredToSim</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -5690,7 +5690,7 @@
   <Icon>opp_france</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <EventListenerInfo2>kDeliveredToSim</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -5705,7 +5705,7 @@
   <Icon>opp_france</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <EventListenerInfo2>kDeliveredToSim</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Source>PreviousSource</Source>
@@ -5724,7 +5724,7 @@
   <Icon>opp_france</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <EventListenerInfo2>kDeliveredToSim</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Source>PreviousSource</Source>
@@ -5743,7 +5743,7 @@
   <Icon>opp_france</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <EventListenerInfo2>kDeliveredToSim</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -5763,7 +5763,7 @@
   <Loss>SetupObjectDeleted</Loss>
   <AdventureMapTagTarget>AdventureKey,Landgraab_EstateKeystonePanel</AdventureMapTagTarget>
   <EventListenerInfo2>kTombObjectTrigger,Landgraab_EstateKeystonePanel</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -5778,7 +5778,7 @@
   <Icon>opp_france</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <EventListenerInfo2>kInventoryObjectAdded,SetupObject</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -5797,7 +5797,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <Loss>SetupObjectDeleted</Loss>
   <EventListenerInfo2>kDeliveredToSim</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -5832,7 +5832,7 @@
   <Loss>SetupObjectDeleted</Loss>
   <AdventureMapTagTarget>AdventureKey,Necteaux_NectarCellarKeystonePanel</AdventureMapTagTarget>
   <EventListenerInfo2>kTombObjectTrigger,Necteaux_NectarCellarKeystonePanel</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -5848,7 +5848,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <AdventureMapTagTarget>AdventureKey,Necteaux_NectarCellarKeystonePanel</AdventureMapTagTarget>
   <EventListenerInfo2>kTombObjectTrigger,Necteaux_NectarCellarTreasureChest</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -5862,7 +5862,7 @@
   <Icon>opp_france</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <EventListenerInfo2>kDeliveredToSim</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -5875,7 +5875,7 @@
   <Icon>opp_france</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <EventListenerInfo2>kTombObjectTrigger,Necteaux_RubyHole</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -5887,7 +5887,7 @@
   <Icon>opp_france</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <EventListenerInfo2>kDeliveredToSim</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -5901,7 +5901,7 @@
   <Icon>opp_france</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <EventListenerInfo2>kDeliveredToSim</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -5916,7 +5916,7 @@
   <Icon>opp_france</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <EventListenerInfo2>kSimEnteredVacationWorld,Egypt</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Source>PreviousSource</Source>
@@ -5931,7 +5931,7 @@
   <Icon>opp_france</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <EventListenerInfo2>kDeliveredToSim</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Source>PreviousSource</Source>
@@ -5948,7 +5948,7 @@
   <Icon>opp_france</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <EventListenerInfo2>kDeliveredToSim</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Source>PreviousSource</Source>
@@ -5966,7 +5966,7 @@
   <Icon>opp_france</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <EventListenerInfo2>kDeliveredToSim</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Source>PreviousSource</Source>
@@ -5982,7 +5982,7 @@
   <Icon>opp_france</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <EventListenerInfo2>kDeliveredToSim</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Source>PreviousSource</Source>
@@ -6000,7 +6000,7 @@
   <Icon>opp_france</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <EventListenerInfo2>kDeliveredToSim</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Source>PreviousSource</Source>
@@ -6019,7 +6019,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <Loss>SetupObjectDeleted</Loss>
   <EventListenerInfo2>kSimEnteredVacationWorld,France</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -6037,7 +6037,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <Loss>SetupObjectDeleted</Loss>
   <EventListenerInfo2>kDeliveredToSim</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Source>PreviousSource</Source>
@@ -6058,7 +6058,7 @@
   <Loss>SetupObjectDeleted</Loss>
   <AdventureMapTagTarget>AdventureKey,Necteaux_RubyHole</AdventureMapTagTarget>
   <EventListenerInfo2>kTombObjectTrigger,Necteaux_RubyHole</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Source>PreviousSource</Source>
@@ -6076,7 +6076,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <AdventureMapTagTarget>AdventureKey,Necteaux_RubyHole</AdventureMapTagTarget>
   <EventListenerInfo2>kInventoryObjectAdded,SetupObject</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Source>PreviousSource</Source>
@@ -6096,7 +6096,7 @@
   <Loss>SetupObjectDeleted</Loss>
   <AdventureMapTagTarget>AdventureKey,Necteaux_RubyHole</AdventureMapTagTarget>
   <EventListenerInfo2>kTombObjectTrigger,Necteaux_IsaelTombKeystonePanel</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -6112,7 +6112,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <AdventureMapTagTarget>AdventureKey,Necteaux_RubyHole</AdventureMapTagTarget>
   <EventListenerInfo2>kInventoryObjectAdded,SetupObject</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -6130,7 +6130,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <Loss>SetupObjectDeleted</Loss>
   <EventListenerInfo2>kDeliveredToSim</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -6148,7 +6148,7 @@
   <Loss>SetupObjectDeleted</Loss>
   <AdventureMapTagTarget>AdventureKey,Necteaux_RubyHole</AdventureMapTagTarget>
   <EventListenerInfo2>kTombObjectTrigger,Necteaux_SapphireHole</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -6164,7 +6164,7 @@
   <Icon>opp_france</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <EventListenerInfo2>kDeliveredToSim</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -6178,7 +6178,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <IsCounted>True</IsCounted>
   <EventListenerInfo2>kDeliveredToSim,2,Distinct,IgnoreTarget</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -6195,7 +6195,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <IsCounted>True</IsCounted>
   <EventListenerInfo2>kDeliveredToSim,1,Distinct,IgnoreTarget</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Source>Sim</Source>
@@ -6211,7 +6211,7 @@
   <Icon>opp_france</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <EventListenerInfo2>kDeliveredToSim</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Source>Sim</Source>
@@ -6230,7 +6230,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <Loss>SetupObjectDeleted</Loss>
   <EventListenerInfo2>kDeliveredToSim</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -6250,7 +6250,7 @@
   <Loss>SetupObjectDeleted</Loss>
   <AdventureMapTagTarget>AdventureKey,Necteaux_RubyHole</AdventureMapTagTarget>
   <EventListenerInfo2>kTombObjectTrigger,Necteaux_EmeraldHole</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -6267,7 +6267,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <AdventureMapTagTarget>AdventureKey,Necteaux_RubyHole</AdventureMapTagTarget>
   <EventListenerInfo2>kInventoryObjectAdded,SetupObject</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -6286,7 +6286,7 @@
   <Loss>SetupObjectDeleted</Loss>
   <AdventureMapTagTarget>AdventureKey,Necteaux_RubyHole</AdventureMapTagTarget>
   <EventListenerInfo2>kTombObjectTrigger,Necteaux_NecteauxTombKeystonePanel</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -6303,7 +6303,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <AdventureMapTagTarget>AdventureKey,Necteaux_RubyHole</AdventureMapTagTarget>
   <EventListenerInfo2>kInventoryObjectAdded,SetupObject</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -6321,7 +6321,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <Loss>SetupObjectDeleted</Loss>
   <EventListenerInfo2>kDeliveredToSim</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -6355,7 +6355,7 @@
   <Loss>SetupObjectDeleted</Loss>
   <AdventureMapTagTarget>AdventureKey,SecretGarden_KeystonePanel</AdventureMapTagTarget>
   <EventListenerInfo2>kTombObjectTrigger,SecretGarden_KeystonePanel</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -6372,7 +6372,7 @@
   <AdventureMapTagTarget>AdventureKey,SecretGarden_SecretGardenRoom</AdventureMapTagTarget>
   <EventListenerInfo1>kSimEnterSpecificTombRoom,SecretGarden_SecretGardenRoom</EventListenerInfo1>
   <EventListenerInfo2>kDeliveredToSim</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -6401,7 +6401,7 @@
   <Icon>opp_france</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <EventListenerInfo2>kDeliveredToSim</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -6421,7 +6421,7 @@
   <AdventureMapTagTarget>AdventureKey,SecretGarden_SecretGardenRoom</AdventureMapTagTarget>
   <EventListenerInfo1>kSimEnterSpecificTombRoom,SecretGarden_SecretGardenRoom</EventListenerInfo1>
   <EventListenerInfo2>kTombObjectTrigger,SecretGarden_GhostTombstone</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -6436,7 +6436,7 @@
   <Loss>SetupObjectDeleted</Loss>
   <AdventureMapTagTarget>AdventureKey,SecretGarden_SecretGardenRoom</AdventureMapTagTarget>
   <EventListenerInfo2>kObjectMovedToTreasureComponent,SecretGarden_BurialChest</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -6451,7 +6451,7 @@
   <Icon>opp_france</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <EventListenerInfo2>kDeliveredToSim</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -6482,7 +6482,7 @@
   <EventListenerInfo1>kSimEnterSpecificTombRoom,MuseumMystery_MuseumRoom,ShowMapTag
 ,ShowMapTag</EventListenerInfo1>
   <EventListenerInfo2>kDeliveredToSim</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -6497,7 +6497,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <AdventureMapTagTarget>AdventureKey,MuseumMystery_HiddenEntrance</AdventureMapTagTarget>
   <EventListenerInfo2>kTombObjectTrigger,MuseumMystery_HiddenEntrance</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -6509,7 +6509,7 @@
   <Icon>opp_france</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <EventListenerInfo2>kDeliveredToSim</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -6524,7 +6524,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <AdventureMapTagTarget>AdventureKey,MuseumMystery_HiddenEntrance</AdventureMapTagTarget>
   <EventListenerInfo2>kTombObjectTrigger,MuseumMystery_InscriptionPlaque</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -6537,7 +6537,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <AdventureMapTagTarget>AdventureKey,MuseumMystery_HiddenEntrance</AdventureMapTagTarget>
   <EventListenerInfo2>kInventoryObjectAdded,SetupObject</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -6557,7 +6557,7 @@
   <Loss>SetupObjectDeleted</Loss>
   <AdventureMapTagTarget>AdventureKey,MuseumMystery_BurialChest</AdventureMapTagTarget>
   <EventListenerInfo2>kObjectMovedToTreasureComponent,MuseumMystery_BurialChest</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -6572,7 +6572,7 @@
   <Icon>opp_france</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <EventListenerInfo2>kDeliveredToSim</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -6600,7 +6600,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <IsCounted>True</IsCounted>
   <EventListenerInfo2>kDeliveredToSim,1,Distinct</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -6614,7 +6614,7 @@
   <Icon>opp_france</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <EventListenerInfo2>kSimEnteredVacationWorld,China</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -6627,7 +6627,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <IsCounted>True</IsCounted>
   <EventListenerInfo2>kDeliveredToSim,1,Distinct</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -6641,7 +6641,7 @@
   <Icon>opp_france</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <EventListenerInfo2>kSimEnteredVacationWorld,France</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -6653,7 +6653,7 @@
   <Icon>opp_france</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <EventListenerInfo2>kDeliveredToSim</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -6706,7 +6706,7 @@
   <IsCounted>True</IsCounted>
   <CountOrTotal>3</CountOrTotal>
   <EventListenerInfo2>kDeliveredToSim</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -6738,7 +6738,7 @@
   <Icon>opp_france</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <EventListenerInfo2>kDeliveredToSim</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -6771,7 +6771,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <AdventureMapTagTarget>AdventureKey,FrancerStarter_HoleInFloor</AdventureMapTagTarget>
   <EventListenerInfo2>kInventoryObjectAdded,SetupObject</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -6789,7 +6789,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <Loss>SetupObjectDeleted</Loss>
   <EventListenerInfo2>kDeliveredToSim</EventListenerInfo2>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Source>Sim</Source>
@@ -6883,7 +6883,7 @@
   <Icon>opp_france</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -6915,7 +6915,7 @@
   <Icon>opp_france</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -6983,7 +6983,7 @@
   <Icon>opp_france</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -7000,7 +7000,7 @@
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <Loss>SetupObjectDeleted</Loss>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Source>PreviousTarget</Source>
@@ -7128,7 +7128,7 @@
   <Icon>opp_france</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -7145,7 +7145,7 @@
   <Icon>opp_france</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -7162,7 +7162,7 @@
   <Icon>opp_france</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -7179,7 +7179,7 @@
   <Icon>opp_france</Icon>
   <RepeatLevel>OncePerHousehold</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>AdventureFrance</OpportunityType>
   <Target>PreviousTarget</Target>
@@ -11233,12 +11233,12 @@
 <OpportunitiesRequirements>
   <GUID>EP1_Quest_Mummification1</GUID>
   <Requirement1>WorldHasSimInRole,LocationMerchant,Food</Requirement1>
-  <Requirement2>Skill,Photography,2,10</Requirement2>
+  <Requirement2>Skill,Photography,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_Quest_Mummification2</GUID>
   <Requirement1>HasVacationLocal</Requirement1>
-  <Requirement2>Skill,Photography,4,10</Requirement2>
+  <Requirement2>Skill,Photography,1,10</Requirement2>
   <Requirement3>VisaLevel,2</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
@@ -11899,29 +11899,29 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_CareerMilitary_WinTournament</GUID>
-  <Requirement1>Skill,MartialArts,6,10</Requirement1>
+  <Requirement1>Skill,MartialArts,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_CareerMilitary_WinTournament2</GUID>
   <Requirement1>OpportunityComplete,EP1_CareerMilitary_WinTournament</Requirement1>
-  <Requirement2>Skill,MartialArts,6,10</Requirement2>
+  <Requirement2>Skill,MartialArts,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_CareerMilitary_WinTournament3</GUID>
   <Requirement1>OpportunityComplete,EP1_CareerMilitary_WinTournament2</Requirement1>
-  <Requirement2>Skill,MartialArts,6,10</Requirement2>
+  <Requirement2>Skill,MartialArts,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_CareerMilitary_WinTournament4</GUID>
   <Requirement1>OpportunityComplete,EP1_CareerMilitary_WinTournament3</Requirement1>
-  <Requirement2>Skill,MartialArts,6,10</Requirement2>
+  <Requirement2>Skill,MartialArts,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_CareerMilitary_BringMummyRocks</GUID>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_CareerMusic_PlayForTips</GUID>
-  <Requirement1>Skill,Guitar,7,10</Requirement1>
+  <Requirement1>Skill,Guitar,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_CareerMusic_PlayForTips2</GUID>
@@ -11999,7 +11999,7 @@
 <OpportunitiesRequirements>
   <GUID>EP1_SkillAthletic_BreathingExercises</GUID>
   <Requirement1>HasAcquaintanceOrHigher</Requirement1>
-  <Requirement2>Skill,Athletic,4,10</Requirement2>
+  <Requirement2>Skill,Athletic,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillAthletic_BreathingExercises2</GUID>
@@ -12017,7 +12017,7 @@
 <OpportunitiesRequirements>
   <GUID>EP1_SkillAthletic_JogInEgypt</GUID>
   <Requirement1>HasAcquaintanceOrHigher</Requirement1>
-  <Requirement2>Skill,Athletic,4,10</Requirement2>
+  <Requirement2>Skill,Athletic,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillAthletic_JogInEgypt2</GUID>
@@ -12038,30 +12038,30 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillMartialArts_TrainSim</GUID>
-  <Requirement1>Skill,MartialArts,7,10</Requirement1>
-  <Requirement2>HasStrangers,1,MartialArts,-1,6</Requirement2>
+  <Requirement1>Skill,MartialArts,1,10</Requirement1>
+  <Requirement2>HasStrangers,1,MartialArts,-1,9</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillMartialArts_MeasureBoards</GUID>
-  <Requirement1>Skill,MartialArts,2,5</Requirement1>
+  <Requirement1>Skill,MartialArts,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillMartialArts_UseDummy</GUID>
-  <Requirement1>Skill,MartialArts,1,5</Requirement1>
+  <Requirement1>Skill,MartialArts,1,10</Requirement1>
   <Requirement2>HasStrangers,1</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillMartialArts_BreakSpaceRock</GUID>
-  <Requirement1>Skill,MartialArts,9,10</Requirement1>
+  <Requirement1>Skill,MartialArts,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillMartialArts_MeditateALot</GUID>
-  <Requirement1>Skill,MartialArts,5,10</Requirement1>
+  <Requirement1>Skill,MartialArts,1,10</Requirement1>
   <Requirement2>HasStrangers,1</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillMartialArts_TournamentMatch</GUID>
-  <Requirement1>Skill,MartialArts,5,10</Requirement1>
+  <Requirement1>Skill,MartialArts,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillMartialArts_TournamentMatch2</GUID>
@@ -12077,7 +12077,7 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillMartialArts_WinTheTournament</GUID>
-  <Requirement1>Skill,MartialArts,8,10</Requirement1>
+  <Requirement1>Skill,MartialArts,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillMartialArts_WinTheTournament2</GUID>
@@ -12093,25 +12093,25 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillMartialArts_TrainPolice</GUID>
-  <Requirement1>Skill,MartialArts,5,10</Requirement1>
+  <Requirement1>Skill,MartialArts,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillMartialArts_SparWithSim</GUID>
-  <Requirement1>Skill,MartialArts,5,10</Requirement1>
+  <Requirement1>Skill,MartialArts,1,10</Requirement1>
   <Requirement2>HasStrangers,1,MartialArts,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillMartialArts_TrainAnotherSim</GUID>
-  <Requirement1>Skill,MartialArts,10,10</Requirement1>
+  <Requirement1>Skill,MartialArts,1,10</Requirement1>
   <Requirement2>HasStrangers,1,MartialArts,-1,9</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillMartialArts_SpaStress</GUID>
-  <Requirement1>Skill,MartialArts,5,10</Requirement1>
+  <Requirement1>Skill,MartialArts,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillPhotography_GainSkill</GUID>
-  <Requirement1>Skill,Photography,1,5</Requirement1>
+  <Requirement1>Skill,Photography,1,10</Requirement1>
   <Requirement2>HasStrangers,1</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
@@ -12151,43 +12151,43 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillCooking_GetCrepes</GUID>
-  <Requirement1>Skill,Cooking,3,10</Requirement1>
+  <Requirement1>Skill,Cooking,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillCooking_GetStirFry</GUID>
-  <Requirement1>Skill,Cooking,3,10</Requirement1>
+  <Requirement1>Skill,Cooking,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillCooking_GetFalafel</GUID>
-  <Requirement1>Skill,Cooking,3,10</Requirement1>
+  <Requirement1>Skill,Cooking,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillFishing_GetCrocs</GUID>
-  <Requirement1>Skill,Fishing,3,10</Requirement1>
+  <Requirement1>Skill,Fishing,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillFishing_GetFrogs</GUID>
-  <Requirement1>Skill,Fishing,3,10</Requirement1>
+  <Requirement1>Skill,Fishing,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillFishing_GetDragonfish</GUID>
-  <Requirement1>Skill,Fishing,3,10</Requirement1>
+  <Requirement1>Skill,Fishing,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillGardening_GetPlums</GUID>
-  <Requirement1>Skill,Gardening,3,10</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillGardening_GetPomengranates</GUID>
-  <Requirement1>Skill,Gardening,3,10</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillGardening_GetGrapes</GUID>
-  <Requirement1>Skill,Gardening,3,10</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillGuitar_FrenchTips</GUID>
-  <Requirement1>Skill,Guitar,4,6</Requirement1>
+  <Requirement1>Skill,Guitar,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillGuitar_FrenchTips2</GUID>
@@ -12195,7 +12195,7 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillGuitar_EgyptTips</GUID>
-  <Requirement1>Skill,Guitar,4,6</Requirement1>
+  <Requirement1>Skill,Guitar,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillGuitar_EgyptTips2</GUID>
@@ -12203,7 +12203,7 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillGuitar_ChinaTips</GUID>
-  <Requirement1>Skill,Guitar,4,6</Requirement1>
+  <Requirement1>Skill,Guitar,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillGuitar_ChinaTips2</GUID>
@@ -12228,7 +12228,7 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillLogic_RiddleWar</GUID>
-  <Requirement1>Skill,Logic,3,10</Requirement1>
+  <Requirement1>Skill,Logic,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillLogic_RiddleWar2</GUID>
@@ -12245,7 +12245,7 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillLogic_FrenchPuzzle</GUID>
-  <Requirement1>Skill,Logic,3,10</Requirement1>
+  <Requirement1>Skill,Logic,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
@@ -12263,7 +12263,7 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillLogic_Senet</GUID>
-  <Requirement1>Skill,Logic,3,10</Requirement1>
+  <Requirement1>Skill,Logic,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillLogic_Senet2</GUID>
@@ -12409,7 +12409,7 @@
   <GUID>EP1_Quest_LiteraryFriend</GUID>
   <Requirement1>HasVacationLocal</Requirement1>
   <Requirement2>VisaLevel,1</Requirement2>
-  <Requirement3>Skill,Writing,2,10</Requirement3>
+  <Requirement3>Skill,Writing,1,10</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_Quest_JadeAcquisition</GUID>
@@ -12486,12 +12486,12 @@
 <OpportunitiesRequirements>
   <GUID>EP1_Quest_QinShanHuWritings1</GUID>
   <Requirement1>WorldHasSimInRole,SpecialMerchant</Requirement1>
-  <Requirement2>Skill,MartialArts,-1,0</Requirement2>
+  <Requirement2>Skill,MartialArts,-1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_Quest_QinShanHuWritings2</GUID>
   <Requirement1>OpportunityComplete,EP1_Quest_QinShanHuWritings1</Requirement1>
-  <Requirement2>Skill,MartialArts,-1,0</Requirement2>
+  <Requirement2>Skill,MartialArts,-1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_Quest_QinShanHuWritings3</GUID>
@@ -13223,7 +13223,7 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_Quest_CafeCooking</GUID>
-  <Requirement1>Skill,Cooking,4,10</Requirement1>
+  <Requirement1>Skill,Cooking,1,10</Requirement1>
   <Requirement2>WorldHasSimInRole,LocationMerchant,Food</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
@@ -13327,17 +13327,17 @@
 <OpportunitiesRequirements>
   <GUID>EP1_Quest_GoodNectarB</GUID>
   <Requirement1>HasVacationLocal</Requirement1>
-  <Requirement2>Skill,Nectar,3,10</Requirement2>
+  <Requirement2>Skill,Nectar,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_Quest_GoodNectarC</GUID>
   <Requirement1>HasVacationLocal</Requirement1>
-  <Requirement2>Skill,Nectar,5,10</Requirement2>
+  <Requirement2>Skill,Nectar,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_Quest_GoodNectarD</GUID>
   <Requirement1>HasVacationLocal</Requirement1>
-  <Requirement2>Skill,Nectar,7,10</Requirement2>
+  <Requirement2>Skill,Nectar,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_Quest_TheFeast1</GUID>

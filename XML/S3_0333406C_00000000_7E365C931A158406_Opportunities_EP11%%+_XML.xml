@@ -25,7 +25,7 @@
   <CompletionEvent></CompletionEvent>
   <AllowPhoneCompletion>False</AllowPhoneCompletion>
   <CompletionProceduralTestFunction></CompletionProceduralTestFunction>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Source></Source>
@@ -39,7 +39,7 @@
   <TargetInteractionIgnoreTarget>False</TargetInteractionIgnoreTarget>
   <TargetWorldRequired>Undefined</TargetWorldRequired>
   <TargetInteractionCommodity></TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
@@ -95,7 +95,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>AttendApocAnon</TargetInteractionName>
-  <TargetInteractionLength>60</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP11</ProductVersion>
@@ -202,7 +202,7 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>AttendScienceStudy</TargetInteractionName>
-  <TargetInteractionLength>60</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP11</ProductVersion>
@@ -247,7 +247,7 @@
   <Target>RabbitHole</Target>
   <TargetData>StellarObservatory</TargetData>
   <TargetInteractionName>RaiseDefensiveGrid</TargetInteractionName>
-  <TargetInteractionLength>30</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Metal,Any; Gem,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>3; 3</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -288,7 +288,7 @@
   <IsTotaled>True</IsTotaled>
   <CountOrTotal>3</CountOrTotal>
   <EventListenerInfo1>kRodeHoverboardHours,Totaled,3</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Skill</OpportunityType>
   <Source>Sim</Source>
@@ -304,7 +304,7 @@
   <IsTotaled>True</IsTotaled>
   <CountOrTotal>3</CountOrTotal>
   <EventListenerInfo1>kDidJetPackTrick,3,Distinct</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Skill</OpportunityType>
   <Source>Sim</Source>
@@ -317,7 +317,7 @@
   <Icon>w_botbuilding_skill,EP11</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
@@ -334,7 +334,7 @@
   <Icon>w_botbuilding_skill,EP11</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kCreatedBot</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Skill</OpportunityType>
 </OpportunitiesSetup>
@@ -344,7 +344,7 @@
   <Icon>w_botbuilding_skill,EP11</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kVisitedRabbithole</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
@@ -357,7 +357,7 @@
   <Icon>w_botbuilding_skill,EP11</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kVisitedRabbithole</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
@@ -370,7 +370,7 @@
   <Icon>w_laserharp_skill,EP11</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kVisitedRabbithole</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
@@ -383,7 +383,7 @@
   <Icon>w_laserharp_skill,EP11</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kVisitedRabbithole</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
@@ -396,7 +396,7 @@
   <Icon>w_laserharp_skill,EP11</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kVisitedRabbithole</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
@@ -410,7 +410,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <IsTotaled>True</IsTotaled>
   <EventListenerInfo1>kGotTips,Totaled,500,IgnoreTarget</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Skill</OpportunityType>
 </OpportunitiesSetup>
@@ -420,7 +420,7 @@
   <Icon>w_laserharp_skill,EP11</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <EventListenerInfo1>kLearnedLaserHarpComposition</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Skill</OpportunityType>
 </OpportunitiesSetup>
@@ -430,7 +430,7 @@
   <Icon>w_botbuilding_skill,EP11</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
@@ -449,7 +449,7 @@
   <IsCounted>True</IsCounted>
   <IsTotaled>True</IsTotaled>
   <CompletionEvent>kVisitedRabbithole</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
@@ -462,7 +462,7 @@
   <Icon>w_laserharp_skill,EP11</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kVisitedRabbithole</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
@@ -475,7 +475,7 @@
   <Icon>w_laserharp_skill,EP11</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kVisitedRabbithole</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
@@ -488,7 +488,7 @@
   <Icon>w_laserharp_skill,EP11</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kVisitedRabbithole</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
@@ -501,7 +501,7 @@
   <Icon>w_laserharp_skill,EP11</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kVisitedRabbithole</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
@@ -514,7 +514,7 @@
   <Icon>w_laserharp_skill,EP11</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kVisitedRabbithole</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
@@ -1097,7 +1097,7 @@
   <TargetData>Hospital</TargetData>
   <TargetInteractionName>GetTreatment</TargetInteractionName>
   <TargetWorldRequired>FutureWorld</TargetWorldRequired>
-  <TargetInteractionLength>60</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP11</ProductVersion>
@@ -1218,7 +1218,7 @@
   <TargetData>StellarObservatory</TargetData>
   <TargetInteractionName>LookForShield</TargetInteractionName>
   <TargetWorldRequired>FutureWorld</TargetWorldRequired>
-  <TargetInteractionLength>60</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP11</ProductVersion>
@@ -2242,47 +2242,47 @@
   <GUID>EP11_Skill_BotBuilding01</GUID>
   <Requirement1>HasAcquaintanceOrHigher</Requirement1>
   <Requirement2>HasTimeTraveler,1</Requirement2>
-  <Requirement3>Skill,BotBuilding,5,10</Requirement3>
+  <Requirement3>Skill,BotBuilding,1,10</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP11_Skill_BotBuilding02</GUID>
   <Requirement1>WorldHasRabbitHoleType,ServoBotArena</Requirement1>
-  <Requirement2>Skill,BotBuilding,5,10</Requirement2>
+  <Requirement2>Skill,BotBuilding,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP11_Skill_BotBuilding03</GUID>
   <Requirement1>WorldHasRabbitHoleType,CityHall</Requirement1>
-  <Requirement2>Skill,BotBuilding,5,10</Requirement2>
+  <Requirement2>Skill,BotBuilding,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP11_Skill_BotBuilding04</GUID>
   <Requirement1>WorldHasRabbitHoleType,ServoBotArena</Requirement1>
-  <Requirement2>Skill,BotBuilding,5,10</Requirement2>
+  <Requirement2>Skill,BotBuilding,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP11_Skill_Harp01</GUID>
   <Requirement1>WorldHasRabbitHoleType,Theatre</Requirement1>
   <Requirement2>IsInFuture</Requirement2>
-  <Requirement3>Skill,LaserHarp,5,10</Requirement3>
+  <Requirement3>Skill,LaserHarp,1,10</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP11_Skill_Harp02</GUID>
   <Requirement1>WorldHasRabbitHoleType,Restaurant</Requirement1>
-  <Requirement2>Skill,LaserHarp,5,10</Requirement2>
+  <Requirement2>Skill,LaserHarp,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP11_Skill_Harp03</GUID>
   <Requirement1>WorldHasRabbitHoleType,ServoBotArena</Requirement1>
-  <Requirement2>Skill,LaserHarp,5,10</Requirement2>
+  <Requirement2>Skill,LaserHarp,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP11_Skill_Harp04</GUID>
-  <Requirement1>Skill,LaserHarp,5,10</Requirement1>
+  <Requirement1>Skill,LaserHarp,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP11_Skill_Harp05</GUID>
   <Requirement1>CanLearnHarpSong</Requirement1>
-  <Requirement2>Skill,LaserHarp,5,10</Requirement2>
+  <Requirement2>Skill,LaserHarp,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP11_Misc_Future01</GUID>
@@ -2292,32 +2292,32 @@
 <OpportunitiesRequirements>
   <GUID>EP11_Misc_Future02</GUID>
   <Requirement1>WorldHasRabbitHoleType,StellarObservatory</Requirement1>
-  <Requirement2>Skill,LaserHarp,5,10</Requirement2>
+  <Requirement2>Skill,LaserHarp,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP11_Misc_Future03</GUID>
   <Requirement1>WorldHasRabbitHoleType,CityHall</Requirement1>
-  <Requirement2>Skill,LaserHarp,5,10</Requirement2>
+  <Requirement2>Skill,LaserHarp,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP11_Misc_Future04</GUID>
   <Requirement1>WorldHasRabbitHoleType,MilitaryBase</Requirement1>
-  <Requirement2>Skill,LaserHarp,5,10</Requirement2>
+  <Requirement2>Skill,LaserHarp,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP11_Misc_Future05</GUID>
   <Requirement1>WorldHasRabbitHoleType,ScienceLab</Requirement1>
-  <Requirement2>Skill,LaserHarp,5,10</Requirement2>
+  <Requirement2>Skill,LaserHarp,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP11_Misc_Future06</GUID>
   <Requirement1>WorldHasRabbitHoleType,Theatre</Requirement1>
-  <Requirement2>Skill,LaserHarp,5,10</Requirement2>
+  <Requirement2>Skill,LaserHarp,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP11_Misc_Future07</GUID>
   <Requirement1>WorldHasRabbitHoleType,Stadium</Requirement1>
-  <Requirement2>Skill,LaserHarp,5,10</Requirement2>
+  <Requirement2>Skill,LaserHarp,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP11_Career_ServoBotArena01</GUID>
@@ -2359,7 +2359,7 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP11_Career_StellerObservatory05</GUID>
-  <Requirement1>Career,Astronomer,10,10</Requirement1>
+  <Requirement1>Career,Astronomer,1,10</Requirement1>
   <Requirement2>IsSpaceExplorer</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
@@ -2418,7 +2418,7 @@
 <OpportunitiesRequirements>
   <GUID>EP11_StoryArc_Bots02</GUID>
   <Requirement1>HasTimeTraveler,1</Requirement1>
-  <Requirement2>Skill,BotBuilding,3,10</Requirement2>
+  <Requirement2>Skill,BotBuilding,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP11_StoryArc_Bots03</GUID>
@@ -2736,50 +2736,62 @@
 <OpportunitiesCompletion>
   <GUID>EP11_Skill_Harp01</GUID>
   <CompletionWinReward1>SkillPercentage,LaserHarp,10</CompletionWinReward1>
+  <CompletionWinReward2>Money,500</CompletionWinReward2>
 </OpportunitiesCompletion>
 <OpportunitiesCompletion>
   <GUID>EP11_Skill_Harp02</GUID>
   <CompletionWinReward1>SkillPercentage,LaserHarp,10</CompletionWinReward1>
+  <CompletionWinReward2>Money,500</CompletionWinReward2>
 </OpportunitiesCompletion>
 <OpportunitiesCompletion>
   <GUID>EP11_Skill_Harp03</GUID>
   <CompletionWinReward1>SkillPercentage,LaserHarp,10</CompletionWinReward1>
+  <CompletionWinReward2>Money,500</CompletionWinReward2>
 </OpportunitiesCompletion>
 <OpportunitiesCompletion>
   <GUID>EP11_Skill_Harp04</GUID>
   <CompletionWinReward1>SkillPercentage,LaserHarp,10</CompletionWinReward1>
+  <CompletionWinReward2>Money,500</CompletionWinReward2>
 </OpportunitiesCompletion>
 <OpportunitiesCompletion>
   <GUID>EP11_Skill_Harp05</GUID>
   <CompletionWinReward1>SkillPercentage,LaserHarp,10</CompletionWinReward1>
+  <CompletionWinReward2>Money,500</CompletionWinReward2>
 </OpportunitiesCompletion>
 <OpportunitiesCompletion>
   <GUID>EP11_Misc_Future01</GUID>
   <CompletionWinReward1>SkillPercentage,BotBuilding,10</CompletionWinReward1>
+  <CompletionWinReward2>Money,500</CompletionWinReward2>
 </OpportunitiesCompletion>
 <OpportunitiesCompletion>
   <GUID>EP11_Misc_Future02</GUID>
   <CompletionWinReward1>SkillPercentage,LaserHarp,10</CompletionWinReward1>
+  <CompletionWinReward2>Money,500</CompletionWinReward2>
 </OpportunitiesCompletion>
 <OpportunitiesCompletion>
   <GUID>EP11_Misc_Future03</GUID>
   <CompletionWinReward1>SkillPercentage,LaserHarp,10</CompletionWinReward1>
+  <CompletionWinReward2>Money,500</CompletionWinReward2>
 </OpportunitiesCompletion>
 <OpportunitiesCompletion>
   <GUID>EP11_Misc_Future04</GUID>
   <CompletionWinReward1>SkillPercentage,LaserHarp,10</CompletionWinReward1>
+  <CompletionWinReward2>Money,500</CompletionWinReward2>
 </OpportunitiesCompletion>
 <OpportunitiesCompletion>
   <GUID>EP11_Misc_Future05</GUID>
   <CompletionWinReward1>SkillPercentage,LaserHarp,10</CompletionWinReward1>
+  <CompletionWinReward2>Money,500</CompletionWinReward2>
 </OpportunitiesCompletion>
 <OpportunitiesCompletion>
   <GUID>EP11_Misc_Future06</GUID>
   <CompletionWinReward1>SkillPercentage,LaserHarp,10</CompletionWinReward1>
+  <CompletionWinReward2>Money,500</CompletionWinReward2>
 </OpportunitiesCompletion>
 <OpportunitiesCompletion>
   <GUID>EP11_Misc_Future07</GUID>
   <CompletionWinReward1>SkillPercentage,LaserHarp,10</CompletionWinReward1>
+  <CompletionWinReward2>Money,500</CompletionWinReward2>
 </OpportunitiesCompletion>
 <OpportunitiesCompletion>
   <GUID>EP11_Career_ServoBotArena01</GUID>
