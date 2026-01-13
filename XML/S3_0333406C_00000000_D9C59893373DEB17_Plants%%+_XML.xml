@@ -27,7 +27,7 @@
   <NumHarvestablesMax></NumHarvestablesMax>
   <MedatorName></MedatorName>
   <VFXName></VFXName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Tomato Plant</PlantName>
   <LocalizationKeyPlantName>TomatoPlant</LocalizationKeyPlantName>
@@ -49,7 +49,7 @@
   <NumHarvestablesMin>2</NumHarvestablesMin>
   <NumHarvestablesMax>4</NumHarvestablesMax>
   <MedatorName>GardenPlantBush</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Apple Tree</PlantName>
   <LocalizationKeyPlantName>AppleTree</LocalizationKeyPlantName>
@@ -71,7 +71,7 @@
   <NumHarvestablesMin>3</NumHarvestablesMin>
   <NumHarvestablesMax>5</NumHarvestablesMax>
   <MedatorName>PlantLargeTree</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Grape Vine</PlantName>
   <LocalizationKeyPlantName>GrapeVine</LocalizationKeyPlantName>
@@ -93,7 +93,7 @@
   <NumHarvestablesMin>2</NumHarvestablesMin>
   <NumHarvestablesMax>4</NumHarvestablesMax>
   <MedatorName>PlantSmallVine</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Lettuce Plant</PlantName>
   <LocalizationKeyPlantName>LettucePlant</LocalizationKeyPlantName>
@@ -115,7 +115,7 @@
   <NumHarvestablesMin>1</NumHarvestablesMin>
   <NumHarvestablesMax>3</NumHarvestablesMax>
   <MedatorName>PlantSmallVine</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Onion Plant</PlantName>
   <LocalizationKeyPlantName>OnionPlant</LocalizationKeyPlantName>
@@ -137,7 +137,7 @@
   <NumHarvestablesMin>1</NumHarvestablesMin>
   <NumHarvestablesMax>3</NumHarvestablesMax>
   <MedatorName>GardenPlantBush</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Potato Vine</PlantName>
   <LocalizationKeyPlantName>PotatoVine</LocalizationKeyPlantName>
@@ -159,7 +159,7 @@
   <NumHarvestablesMin>1</NumHarvestablesMin>
   <NumHarvestablesMax>3</NumHarvestablesMax>
   <MedatorName>PlantSmallVine</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Watermelon Vine</PlantName>
   <LocalizationKeyPlantName>WatermelonVine</LocalizationKeyPlantName>
@@ -181,7 +181,7 @@
   <NumHarvestablesMin>1</NumHarvestablesMin>
   <NumHarvestablesMax>2</NumHarvestablesMax>
   <MedatorName>PlantSmallVine</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Lime Tree</PlantName>
   <LocalizationKeyPlantName>LimeTree</LocalizationKeyPlantName>
@@ -203,7 +203,7 @@
   <NumHarvestablesMin>3</NumHarvestablesMin>
   <NumHarvestablesMax>5</NumHarvestablesMax>
   <MedatorName>PlantLargeTree</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Bell Pepper Plant</PlantName>
   <LocalizationKeyPlantName>BellPepperPlant</LocalizationKeyPlantName>
@@ -225,7 +225,7 @@
   <NumHarvestablesMin>2</NumHarvestablesMin>
   <NumHarvestablesMax>4</NumHarvestablesMax>
   <MedatorName>GardenPlantBush</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Garlic Plant</PlantName>
   <LocalizationKeyPlantName>GarlicPlant</LocalizationKeyPlantName>
@@ -247,7 +247,7 @@
   <NumHarvestablesMin>3</NumHarvestablesMin>
   <NumHarvestablesMax>5</NumHarvestablesMax>
   <MedatorName>PlantSmallVine</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Death Flower Bush</PlantName>
   <LocalizationKeyPlantName>DeathFlowerBush</LocalizationKeyPlantName>
@@ -269,7 +269,7 @@
   <NumHarvestablesMin>1</NumHarvestablesMin>
   <NumHarvestablesMax>1</NumHarvestablesMax>
   <MedatorName>DeathFlowerBush</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Money Tree</PlantName>
   <LocalizationKeyPlantName>MoneyTree</LocalizationKeyPlantName>
@@ -291,7 +291,7 @@
   <NumHarvestablesMin>2</NumHarvestablesMin>
   <NumHarvestablesMax>5</NumHarvestablesMax>
   <MedatorName>MoneyTree</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Life Plant</PlantName>
   <LocalizationKeyPlantName>LifePlant</LocalizationKeyPlantName>
@@ -313,7 +313,7 @@
   <NumHarvestablesMin>1</NumHarvestablesMin>
   <NumHarvestablesMax>3</NumHarvestablesMax>
   <MedatorName>GardenPlantBush</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Flame Plant</PlantName>
   <LocalizationKeyPlantName>FlamePlant</LocalizationKeyPlantName>
@@ -335,7 +335,7 @@
   <NumHarvestablesMin>1</NumHarvestablesMin>
   <NumHarvestablesMax>3</NumHarvestablesMax>
   <MedatorName>PlantSmallVine</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Omni Plant</PlantName>
   <LocalizationKeyPlantName>OmniPlant</LocalizationKeyPlantName>
@@ -358,7 +358,7 @@
   <NumHarvestablesMin>2</NumHarvestablesMin>
   <NumHarvestablesMax>5</NumHarvestablesMax>
   <MedatorName>OmniPlant</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Egg Plant</PlantName>
   <LocalizationKeyPlantName>EggPlant</LocalizationKeyPlantName>
@@ -382,7 +382,7 @@
   <NumHarvestablesMin>2</NumHarvestablesMin>
   <NumHarvestablesMax>5</NumHarvestablesMax>
   <MedatorName>GardenPlantBush</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Cheese Plant</PlantName>
   <LocalizationKeyPlantName>CheesePlant</LocalizationKeyPlantName>
@@ -406,7 +406,7 @@
   <NumHarvestablesMin>2</NumHarvestablesMin>
   <NumHarvestablesMax>5</NumHarvestablesMax>
   <MedatorName>GardenPlantBush</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Burger Plant</PlantName>
   <LocalizationKeyPlantName>BurgerPlant</LocalizationKeyPlantName>
@@ -430,7 +430,7 @@
   <NumHarvestablesMin>1</NumHarvestablesMin>
   <NumHarvestablesMax>3</NumHarvestablesMax>
   <MedatorName>GardenPlantBush</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Steak Plant</PlantName>
   <LocalizationKeyPlantName>SteakPlant</LocalizationKeyPlantName>
@@ -454,7 +454,7 @@
   <NumHarvestablesMin>1</NumHarvestablesMin>
   <NumHarvestablesMax>2</NumHarvestablesMax>
   <MedatorName>GardenPlantBush</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Grape Vine Char</PlantName>
   <LocalizationKeyPlantName>GrapeVineChar</LocalizationKeyPlantName>
@@ -477,7 +477,7 @@
   <NumHarvestablesMin>2</NumHarvestablesMin>
   <NumHarvestablesMax>4</NumHarvestablesMax>
   <MedatorName>PlantSmallVine</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Grape Vine Mer</PlantName>
   <LocalizationKeyPlantName>GrapeVineMer</LocalizationKeyPlantName>
@@ -500,7 +500,7 @@
   <NumHarvestablesMin>2</NumHarvestablesMin>
   <NumHarvestablesMax>4</NumHarvestablesMax>
   <MedatorName>PlantSmallVine</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Grape Vine Blanc</PlantName>
   <LocalizationKeyPlantName>GrapeVineBlanc</LocalizationKeyPlantName>
@@ -523,7 +523,7 @@
   <NumHarvestablesMin>2</NumHarvestablesMin>
   <NumHarvestablesMax>4</NumHarvestablesMax>
   <MedatorName>PlantSmallVine</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Grape Vine Blue</PlantName>
   <LocalizationKeyPlantName>GrapeVineBlue</LocalizationKeyPlantName>
@@ -546,7 +546,7 @@
   <NumHarvestablesMin>2</NumHarvestablesMin>
   <NumHarvestablesMax>4</NumHarvestablesMax>
   <MedatorName>PlantSmallVine</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Grape Vine Cab</PlantName>
   <LocalizationKeyPlantName>GrapeVineCab</LocalizationKeyPlantName>
@@ -569,7 +569,7 @@
   <NumHarvestablesMin>2</NumHarvestablesMin>
   <NumHarvestablesMax>4</NumHarvestablesMax>
   <MedatorName>PlantSmallVine</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Grape Vine Pin</PlantName>
   <LocalizationKeyPlantName>GrapeVinePin</LocalizationKeyPlantName>
@@ -592,7 +592,7 @@
   <NumHarvestablesMin>2</NumHarvestablesMin>
   <NumHarvestablesMax>4</NumHarvestablesMax>
   <MedatorName>PlantSmallVine</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Pomegranate Tree</PlantName>
   <LocalizationKeyPlantName>PomegranateTree</LocalizationKeyPlantName>
@@ -615,7 +615,7 @@
   <NumHarvestablesMin>2</NumHarvestablesMin>
   <NumHarvestablesMax>5</NumHarvestablesMax>
   <MedatorName>PlantLargeTree</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Plum Tree</PlantName>
   <LocalizationKeyPlantName>PlumTree</LocalizationKeyPlantName>
@@ -638,7 +638,7 @@
   <NumHarvestablesMin>2</NumHarvestablesMin>
   <NumHarvestablesMax>5</NumHarvestablesMax>
   <MedatorName>PlantLargeTree</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Pomelo Tree</PlantName>
   <LocalizationKeyPlantName>PomeloTree</LocalizationKeyPlantName>
@@ -661,7 +661,7 @@
   <NumHarvestablesMin>2</NumHarvestablesMin>
   <NumHarvestablesMax>5</NumHarvestablesMax>
   <MedatorName>PlantLargeTree</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Cherry Tree</PlantName>
   <LocalizationKeyPlantName>CherryTree</LocalizationKeyPlantName>
@@ -684,7 +684,7 @@
   <NumHarvestablesMin>2</NumHarvestablesMin>
   <NumHarvestablesMax>5</NumHarvestablesMax>
   <MedatorName>PlantLargeTree</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Vampire Plant</PlantName>
   <LocalizationKeyPlantName>VampirePlant</LocalizationKeyPlantName>
@@ -707,7 +707,7 @@
   <NumHarvestablesMin>1</NumHarvestablesMin>
   <NumHarvestablesMax>1</NumHarvestablesMax>
   <MedatorName>GardenPlantBush</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Carrot Plant</PlantName>
   <LocalizationKeyPlantName>CarrotPlant</LocalizationKeyPlantName>
@@ -730,7 +730,7 @@
   <NumHarvestablesMin>1</NumHarvestablesMin>
   <NumHarvestablesMax>3</NumHarvestablesMax>
   <MedatorName>PlantSmallVine</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Banana Tree</PlantName>
   <LocalizationKeyPlantName>BananaTree</LocalizationKeyPlantName>
@@ -753,7 +753,7 @@
   <NumHarvestablesMin>2</NumHarvestablesMin>
   <NumHarvestablesMax>5</NumHarvestablesMax>
   <MedatorName>PlantLargeTree</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Truffles</PlantName>
   <LocalizationKeyPlantName>Truffle</LocalizationKeyPlantName>
@@ -776,7 +776,7 @@
   <NumHarvestablesMin>1</NumHarvestablesMin>
   <NumHarvestablesMax>3</NumHarvestablesMax>
   <MedatorName>mushroomTruffleGrow</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>White Caps</PlantName>
   <LocalizationKeyPlantName>WhiteCap</LocalizationKeyPlantName>
@@ -799,7 +799,7 @@
   <NumHarvestablesMin>1</NumHarvestablesMin>
   <NumHarvestablesMax>3</NumHarvestablesMax>
   <MedatorName>mushroomWhiteCapGrow</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Porcinis</PlantName>
   <LocalizationKeyPlantName>Porcini</LocalizationKeyPlantName>
@@ -822,7 +822,7 @@
   <NumHarvestablesMin>1</NumHarvestablesMin>
   <NumHarvestablesMax>3</NumHarvestablesMax>
   <MedatorName>mushroomPorciniGrow</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Glow Orbs</PlantName>
   <LocalizationKeyPlantName>GlowOrb</LocalizationKeyPlantName>
@@ -845,7 +845,7 @@
   <NumHarvestablesMin>1</NumHarvestablesMin>
   <NumHarvestablesMax>3</NumHarvestablesMax>
   <MedatorName>mushroomGlowOrbGrow</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Spotlight Mushrooms</PlantName>
   <LocalizationKeyPlantName>SpotlightMushroom</LocalizationKeyPlantName>
@@ -869,7 +869,7 @@
   <NumHarvestablesMax>3</NumHarvestablesMax>
   <MedatorName>mushroomSpotlightGrow</MedatorName>
   <VFXName>ep7EnvMushroomLight_main</VFXName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Red Toadstools</PlantName>
   <LocalizationKeyPlantName>RedToadstool</LocalizationKeyPlantName>
@@ -892,7 +892,7 @@
   <NumHarvestablesMin>1</NumHarvestablesMin>
   <NumHarvestablesMax>3</NumHarvestablesMax>
   <MedatorName>mushroomToadstoolGrow</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Mycenas</PlantName>
   <LocalizationKeyPlantName>Mycena</LocalizationKeyPlantName>
@@ -915,7 +915,7 @@
   <NumHarvestablesMin>1</NumHarvestablesMin>
   <NumHarvestablesMax>3</NumHarvestablesMax>
   <MedatorName>mushroomMycenaGrow</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Ghost Chili Bush</PlantName>
   <LocalizationKeyPlantName>GhostChiliBush</LocalizationKeyPlantName>
@@ -938,7 +938,7 @@
   <NumHarvestablesMin>2</NumHarvestablesMin>
   <NumHarvestablesMax>4</NumHarvestablesMax>
   <MedatorName>plantGhostChili</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Mandrake</PlantName>
   <LocalizationKeyPlantName>Mandrake</LocalizationKeyPlantName>
@@ -961,7 +961,7 @@
   <NumHarvestablesMin>2</NumHarvestablesMin>
   <NumHarvestablesMax>4</NumHarvestablesMax>
   <MedatorName>plantGhostChili</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Red Valerian</PlantName>
   <LocalizationKeyPlantName>RedValerian</LocalizationKeyPlantName>
@@ -984,7 +984,7 @@
   <NumHarvestablesMin>2</NumHarvestablesMin>
   <NumHarvestablesMax>4</NumHarvestablesMax>
   <MedatorName>plantGhostChili</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Wolfsbane</PlantName>
   <LocalizationKeyPlantName>Wolfsbane</LocalizationKeyPlantName>
@@ -1007,7 +1007,7 @@
   <NumHarvestablesMin>2</NumHarvestablesMin>
   <NumHarvestablesMax>4</NumHarvestablesMax>
   <MedatorName>plantGhostChili</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Pumpkin Vine</PlantName>
   <LocalizationKeyPlantName>PumpkinVine</LocalizationKeyPlantName>
@@ -1030,7 +1030,7 @@
   <NumHarvestablesMin>1</NumHarvestablesMin>
   <NumHarvestablesMax>2</NumHarvestablesMax>
   <MedatorName>PlantSmallVine</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Ginseng Plant</PlantName>
   <LocalizationKeyPlantName>Ginseng</LocalizationKeyPlantName>
@@ -1053,7 +1053,7 @@
   <NumHarvestablesMin>2</NumHarvestablesMin>
   <NumHarvestablesMax>4</NumHarvestablesMax>
   <MedatorName>plantMediumHerb</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Sweet Grass Plant</PlantName>
   <LocalizationKeyPlantName>SweetGrass</LocalizationKeyPlantName>
@@ -1076,7 +1076,7 @@
   <NumHarvestablesMin>2</NumHarvestablesMin>
   <NumHarvestablesMax>4</NumHarvestablesMax>
   <MedatorName>plantMediumHerb</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Cinnamon Plant</PlantName>
   <LocalizationKeyPlantName>Cinnamon</LocalizationKeyPlantName>
@@ -1099,7 +1099,7 @@
   <NumHarvestablesMin>2</NumHarvestablesMin>
   <NumHarvestablesMax>4</NumHarvestablesMax>
   <MedatorName>GardenPlantBush</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Basil Plant</PlantName>
   <LocalizationKeyPlantName>Basil</LocalizationKeyPlantName>
@@ -1122,7 +1122,7 @@
   <NumHarvestablesMin>2</NumHarvestablesMin>
   <NumHarvestablesMax>4</NumHarvestablesMax>
   <MedatorName>GardenPlantBush</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Lavender Plant</PlantName>
   <LocalizationKeyPlantName>Lavender</LocalizationKeyPlantName>
@@ -1145,7 +1145,7 @@
   <NumHarvestablesMin>2</NumHarvestablesMin>
   <NumHarvestablesMax>4</NumHarvestablesMax>
   <MedatorName>plantMediumHerb</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Peppermint Plant</PlantName>
   <LocalizationKeyPlantName>Peppermint</LocalizationKeyPlantName>
@@ -1168,7 +1168,7 @@
   <NumHarvestablesMin>2</NumHarvestablesMin>
   <NumHarvestablesMax>4</NumHarvestablesMax>
   <MedatorName>GardenPlantBush</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Wonderpetal Plant</PlantName>
   <LocalizationKeyPlantName>Wonderpetal</LocalizationKeyPlantName>
@@ -1191,7 +1191,7 @@
   <NumHarvestablesMin>2</NumHarvestablesMin>
   <NumHarvestablesMax>4</NumHarvestablesMax>
   <MedatorName>plantMediumHerb</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Chamomile Plant</PlantName>
   <LocalizationKeyPlantName>Chamomile</LocalizationKeyPlantName>
@@ -1214,7 +1214,7 @@
   <NumHarvestablesMin>2</NumHarvestablesMin>
   <NumHarvestablesMax>4</NumHarvestablesMax>
   <MedatorName>plantMediumHerb</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Bumbleleaf Plant</PlantName>
   <LocalizationKeyPlantName>Bumbleleaf</LocalizationKeyPlantName>
@@ -1237,7 +1237,7 @@
   <NumHarvestablesMin>2</NumHarvestablesMin>
   <NumHarvestablesMax>4</NumHarvestablesMax>
   <MedatorName>plantMediumHerb</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Greenleaf Plant</PlantName>
   <LocalizationKeyPlantName>Greenleaf</LocalizationKeyPlantName>
@@ -1260,7 +1260,7 @@
   <NumHarvestablesMin>2</NumHarvestablesMin>
   <NumHarvestablesMax>4</NumHarvestablesMax>
   <MedatorName>plantMediumHerb</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Licorice Plant</PlantName>
   <LocalizationKeyPlantName>Licorice</LocalizationKeyPlantName>
@@ -1283,7 +1283,7 @@
   <NumHarvestablesMin>2</NumHarvestablesMin>
   <NumHarvestablesMax>4</NumHarvestablesMax>
   <MedatorName>GardenPlantBush</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Buzzberry Plant</PlantName>
   <LocalizationKeyPlantName>Buzzberry</LocalizationKeyPlantName>
@@ -1306,7 +1306,7 @@
   <NumHarvestablesMin>2</NumHarvestablesMin>
   <NumHarvestablesMax>4</NumHarvestablesMax>
   <MedatorName>GardenPlantBush</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>ForbiddenFruitTree</PlantName>
   <LocalizationKeyPlantName>ForbiddenFruitTree</LocalizationKeyPlantName>
@@ -1330,7 +1330,7 @@
   <NumHarvestablesMin>1</NumHarvestablesMin>
   <NumHarvestablesMax>1</NumHarvestablesMax>
   <MedatorName>plantForbiddenFruit</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Kona Bean Plant</PlantName>
   <LocalizationKeyPlantName>KonaBeanPlant</LocalizationKeyPlantName>
@@ -1353,7 +1353,7 @@
   <NumHarvestablesMin>2</NumHarvestablesMin>
   <NumHarvestablesMax>4</NumHarvestablesMax>
   <MedatorName>plantCoffee</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Black Bean Plant</PlantName>
   <LocalizationKeyPlantName>BlackBeanPlant</LocalizationKeyPlantName>
@@ -1376,7 +1376,7 @@
   <NumHarvestablesMin>2</NumHarvestablesMin>
   <NumHarvestablesMax>4</NumHarvestablesMax>
   <MedatorName>plantCoffee</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Elder Swan Plant</PlantName>
   <LocalizationKeyPlantName>ElderSwanPlant</LocalizationKeyPlantName>
@@ -1399,7 +1399,7 @@
   <NumHarvestablesMin>2</NumHarvestablesMin>
   <NumHarvestablesMax>4</NumHarvestablesMax>
   <MedatorName>plantCoffee</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Expensive Berry Plant</PlantName>
   <LocalizationKeyPlantName>ExpensiveBerryPlant</LocalizationKeyPlantName>
@@ -1422,7 +1422,7 @@
   <NumHarvestablesMin>2</NumHarvestablesMin>
   <NumHarvestablesMax>4</NumHarvestablesMax>
   <MedatorName>plantCoffee</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Maui Bean Plant</PlantName>
   <LocalizationKeyPlantName>MauiBeanPlant</LocalizationKeyPlantName>
@@ -1445,7 +1445,7 @@
   <NumHarvestablesMin>2</NumHarvestablesMin>
   <NumHarvestablesMax>4</NumHarvestablesMax>
   <MedatorName>plantCoffee</MedatorName>
- </PlantList>
+</PlantList>
 <PlantList>
   <PlantName>Crystal Plant</PlantName>
   <LocalizationKeyPlantName>CrystalPlant</LocalizationKeyPlantName>
@@ -1469,7 +1469,7 @@
   <NumHarvestablesMin>2</NumHarvestablesMin>
   <NumHarvestablesMax>4</NumHarvestablesMax>
   <MedatorName>plantCrystal</MedatorName>
- </PlantList>
+</PlantList>
 <PlantableNonIngredients>
   <Key></Key>
   <PlantableObjMedatorName></PlantableObjMedatorName>
@@ -1477,7 +1477,7 @@
   <PlantNameKey></PlantNameKey>
   <ModelName></ModelName>
   <IsEdible></IsEdible>
- </PlantableNonIngredients>
+</PlantableNonIngredients>
 <PlantableNonIngredients>
   <Key>Death Flower</Key>
   <PlantableObjMedatorName>DeathFlower</PlantableObjMedatorName>
@@ -1485,21 +1485,21 @@
   <PlantNameKey>Death Flower Bush</PlantNameKey>
   <ModelName>harvestDeathFlower</ModelName>
   <IsEdible>False</IsEdible>
- </PlantableNonIngredients>
+</PlantableNonIngredients>
 <PlantableNonIngredients>
   <Key>Money Tree Seed</Key>
   <PlantableObjMedatorName>MoneyTreeSeed</PlantableObjMedatorName>
   <LocalizationKey>MoneyTreeSeed</LocalizationKey>
   <PlantNameKey>Money Tree</PlantNameKey>
   <IsEdible>False</IsEdible>
- </PlantableNonIngredients>
+</PlantableNonIngredients>
 <PlantableNonIngredients>
   <Key>Omni Plant Seed</Key>
   <PlantableObjMedatorName>OmniPlantSeed</PlantableObjMedatorName>
   <LocalizationKey>OmniPlantSeed</LocalizationKey>
   <PlantNameKey>Omni Plant</PlantNameKey>
   <IsEdible>False</IsEdible>
- </PlantableNonIngredients>
+</PlantableNonIngredients>
 <PlantableNonIngredients>
   <Key>ForbiddenFruit</Key>
   <PlantableObjMedatorName>forbiddenFruit</PlantableObjMedatorName>
@@ -1507,7 +1507,7 @@
   <PlantNameKey>ForbiddenFruitTree</PlantNameKey>
   <ModelName>forbiddenFruit</ModelName>
   <IsEdible>True</IsEdible>
- </PlantableNonIngredients>
+</PlantableNonIngredients>
 <PlantableNonIngredients>
   <Key>Crystal Flower</Key>
   <PlantableObjMedatorName>crystalFlower</PlantableObjMedatorName>
@@ -1515,112 +1515,454 @@
   <PlantNameKey>Crystal Plant</PlantNameKey>
   <ModelName>crystalFlower</ModelName>
   <IsEdible>False</IsEdible>
- </PlantableNonIngredients>
+</PlantableNonIngredients>
 <MedatorInstanceList>
   <MedatorName></MedatorName>
   <PlantHeight></PlantHeight>
   <ModelName></ModelName>
   <ProductVersion></ProductVersion>
- </MedatorInstanceList>
+</MedatorInstanceList>
 <MedatorInstanceList>
   <MedatorName>GardenPlantBush</MedatorName>
   <PlantHeight>Medium</PlantHeight>
   <ModelName>plantMedium</ModelName>
- </MedatorInstanceList>
+</MedatorInstanceList>
 <MedatorInstanceList>
   <MedatorName>PlantLargeTree</MedatorName>
   <PlantHeight>High</PlantHeight>
   <ModelName>plantLargeTree</ModelName>
- </MedatorInstanceList>
+</MedatorInstanceList>
 <MedatorInstanceList>
   <MedatorName>PlantSmallVine</MedatorName>
   <PlantHeight>Low</PlantHeight>
   <ModelName>plantSmallVine</ModelName>
- </MedatorInstanceList>
+</MedatorInstanceList>
 <MedatorInstanceList>
   <MedatorName>DeathFlowerBush</MedatorName>
   <PlantHeight>Medium</PlantHeight>
   <ModelName>plantMedium</ModelName>
- </MedatorInstanceList>
+</MedatorInstanceList>
 <MedatorInstanceList>
   <MedatorName>MoneyTree</MedatorName>
   <PlantHeight>High</PlantHeight>
   <ModelName>plantLargeTree</ModelName>
- </MedatorInstanceList>
+</MedatorInstanceList>
 <MedatorInstanceList>
   <MedatorName>OmniPlant</MedatorName>
   <PlantHeight>Medium</PlantHeight>
   <ModelName>plantMedium</ModelName>
- </MedatorInstanceList>
+</MedatorInstanceList>
 <MedatorInstanceList>
   <MedatorName>mushroomGlowOrbGrow</MedatorName>
   <PlantHeight>Low</PlantHeight>
   <ModelName>mushroomGlowOrbGrow</ModelName>
   <ProductVersion>EP7</ProductVersion>
- </MedatorInstanceList>
+</MedatorInstanceList>
 <MedatorInstanceList>
   <MedatorName>mushroomTruffleGrow</MedatorName>
   <PlantHeight>Low</PlantHeight>
   <ModelName>mushroomTruffleGrow</ModelName>
   <ProductVersion>EP7</ProductVersion>
- </MedatorInstanceList>
+</MedatorInstanceList>
 <MedatorInstanceList>
   <MedatorName>mushroomWhiteCapGrow</MedatorName>
   <PlantHeight>Low</PlantHeight>
   <ModelName>mushroomWhiteCapGrow</ModelName>
   <ProductVersion>EP7</ProductVersion>
- </MedatorInstanceList>
+</MedatorInstanceList>
 <MedatorInstanceList>
   <MedatorName>mushroomPorciniGrow</MedatorName>
   <PlantHeight>Low</PlantHeight>
   <ModelName>mushroomPorciniGrow</ModelName>
   <ProductVersion>EP7</ProductVersion>
- </MedatorInstanceList>
+</MedatorInstanceList>
 <MedatorInstanceList>
   <MedatorName>mushroomSpotlightGrow</MedatorName>
   <PlantHeight>Low</PlantHeight>
   <ModelName>mushroomSpotlightGrow</ModelName>
   <ProductVersion>EP7</ProductVersion>
- </MedatorInstanceList>
+</MedatorInstanceList>
 <MedatorInstanceList>
   <MedatorName>mushroomToadstoolGrow</MedatorName>
   <PlantHeight>Low</PlantHeight>
   <ModelName>mushroomToadstoolGrow</ModelName>
   <ProductVersion>EP7</ProductVersion>
- </MedatorInstanceList>
+</MedatorInstanceList>
 <MedatorInstanceList>
   <MedatorName>mushroomMycenaGrow</MedatorName>
   <PlantHeight>Low</PlantHeight>
   <ModelName>mushroomMycenaGrow</ModelName>
   <ProductVersion>EP7</ProductVersion>
- </MedatorInstanceList>
+</MedatorInstanceList>
 <MedatorInstanceList>
   <MedatorName>plantGhostChili</MedatorName>
   <PlantHeight>Medium</PlantHeight>
   <ModelName>plantGhostChili</ModelName>
   <ProductVersion>EP7</ProductVersion>
- </MedatorInstanceList>
+</MedatorInstanceList>
 <MedatorInstanceList>
   <MedatorName>plantCoffee</MedatorName>
   <PlantHeight>Medium</PlantHeight>
   <ModelName>plantCoffee</ModelName>
   <ProductVersion>EP9</ProductVersion>
- </MedatorInstanceList>
+</MedatorInstanceList>
 <MedatorInstanceList>
   <MedatorName>plantForbiddenFruit</MedatorName>
   <PlantHeight>Low</PlantHeight>
   <ModelName>plantForbiddenFruit</ModelName>
   <ProductVersion>EP9</ProductVersion>
- </MedatorInstanceList>
+</MedatorInstanceList>
 <MedatorInstanceList>
   <MedatorName>plantMediumHerb</MedatorName>
   <PlantHeight>Medium</PlantHeight>
   <ModelName>plantMediumHerb</ModelName>
- </MedatorInstanceList>
+</MedatorInstanceList>
 <MedatorInstanceList>
   <MedatorName>plantCrystal</MedatorName>
   <PlantHeight>Medium</PlantHeight>
   <ModelName>plantCrystal</ModelName>
   <ProductVersion>EP11</ProductVersion>
- </MedatorInstanceList>
+</MedatorInstanceList>
 </Plants>
+<Plants_store>
+<PlantList>
+  <PlantName></PlantName>
+  <LocalizationKeyPlantName></LocalizationKeyPlantName>
+  <LocalizationKeySeedName></LocalizationKeySeedName>
+  <LocalizationKeyDescription></LocalizationKeyDescription>
+  <CodeVersion>BaseGame</CodeVersion>
+  <Rarity># HIDDEN COLUMNS</Rarity>
+  <LimitedAvailability>False</LimitedAvailability>
+  <OpportunityPrerequisite>Undefined</OpportunityPrerequisite>
+  <SkillRequirement></SkillRequirement>
+  <SkillDifficulty></SkillDifficulty>
+  <SkillPointsPlant></SkillPointsPlant>
+  <SkillPointsHarvest></SkillPointsHarvest>
+  <PerfThresholdAvgToGood>50</PerfThresholdAvgToGood>
+  <PerfThresholdGoodToGreat>75</PerfThresholdGoodToGreat>
+  <PerfBonusDrySoil>0</PerfBonusDrySoil>
+  <PerfBonusNeutralSoil>5</PerfBonusNeutralSoil>
+  <PerfBonusWetSoil>10</PerfBonusWetSoil>
+  <WaterDecay></WaterDecay>
+  <WeedProblem></WeedProblem>
+  <HarvestStateDurationMin></HarvestStateDurationMin>
+  <HarvestStateDurationMax></HarvestStateDurationMax>
+  <NumLifetimeHarvestables></NumLifetimeHarvestables>
+  <NumHarvestablesMin></NumHarvestablesMin>
+  <NumHarvestablesMax></NumHarvestablesMax>
+  <MedatorName></MedatorName>
+  <Version>1</Version>
+</PlantList>
+<PlantList>
+  <PlantName>BlueberryPlant</PlantName>
+  <LocalizationKeyPlantName>BlueberryPlant</LocalizationKeyPlantName>
+  <LocalizationKeySeedName>BlueberryPlantSeed</LocalizationKeySeedName>
+  <LocalizationKeyDescription>BlueberryPlantDescription</LocalizationKeyDescription>
+  <CodeVersion>BaseGame</CodeVersion>
+  <Rarity>Common</Rarity>
+  <SkillPointsPlant>175</SkillPointsPlant>
+  <SkillPointsHarvest>125</SkillPointsHarvest>
+  <PerfThresholdAvgToGood>95</PerfThresholdAvgToGood>
+  <PerfThresholdGoodToGreat>105</PerfThresholdGoodToGreat>
+  <PerfBonusDrySoil>-40</PerfBonusDrySoil>
+  <PerfBonusNeutralSoil>40</PerfBonusNeutralSoil>
+  <PerfBonusWetSoil>90</PerfBonusWetSoil>
+  <WaterDecay>3</WaterDecay>
+  <WeedProblem>0.2</WeedProblem>
+  <HarvestStateDurationMin>2</HarvestStateDurationMin>
+  <HarvestStateDurationMax>4</HarvestStateDurationMax>
+  <NumLifetimeHarvestables>20</NumLifetimeHarvestables>
+  <NumHarvestablesMin>2</NumHarvestablesMin>
+  <NumHarvestablesMax>4</NumHarvestablesMax>
+  <MedatorName>PlantSmallVine</MedatorName>
+  <Version>0.1</Version>
+</PlantList>
+<PlantList>
+  <PlantName>CocoaPlant</PlantName>
+  <LocalizationKeyPlantName>CocoaPlant</LocalizationKeyPlantName>
+  <LocalizationKeySeedName>CocoaPlantSeed</LocalizationKeySeedName>
+  <LocalizationKeyDescription>CocoaPlantDescription</LocalizationKeyDescription>
+  <CodeVersion>BaseGame</CodeVersion>
+  <Rarity>Common</Rarity>
+  <SkillPointsPlant>175</SkillPointsPlant>
+  <SkillPointsHarvest>125</SkillPointsHarvest>
+  <PerfThresholdAvgToGood>95</PerfThresholdAvgToGood>
+  <PerfThresholdGoodToGreat>105</PerfThresholdGoodToGreat>
+  <PerfBonusDrySoil>-40</PerfBonusDrySoil>
+  <PerfBonusNeutralSoil>40</PerfBonusNeutralSoil>
+  <PerfBonusWetSoil>90</PerfBonusWetSoil>
+  <WaterDecay>3</WaterDecay>
+  <WeedProblem>0.2</WeedProblem>
+  <HarvestStateDurationMin>2</HarvestStateDurationMin>
+  <HarvestStateDurationMax>4</HarvestStateDurationMax>
+  <NumLifetimeHarvestables>20</NumLifetimeHarvestables>
+  <NumHarvestablesMin>2</NumHarvestablesMin>
+  <NumHarvestablesMax>4</NumHarvestablesMax>
+  <MedatorName>GardenPlantBush</MedatorName>
+  <Version>0.1</Version>
+</PlantList>
+<PlantList>
+  <PlantName>PeachPlant</PlantName>
+  <LocalizationKeyPlantName>PeachPlant</LocalizationKeyPlantName>
+  <LocalizationKeySeedName>PeachPlantSeed</LocalizationKeySeedName>
+  <LocalizationKeyDescription>PeachPlantDescription</LocalizationKeyDescription>
+  <CodeVersion>BaseGame</CodeVersion>
+  <Rarity>Common</Rarity>
+  <SkillPointsPlant>175</SkillPointsPlant>
+  <SkillPointsHarvest>125</SkillPointsHarvest>
+  <PerfThresholdAvgToGood>95</PerfThresholdAvgToGood>
+  <PerfThresholdGoodToGreat>105</PerfThresholdGoodToGreat>
+  <PerfBonusDrySoil>-40</PerfBonusDrySoil>
+  <PerfBonusNeutralSoil>40</PerfBonusNeutralSoil>
+  <PerfBonusWetSoil>90</PerfBonusWetSoil>
+  <WaterDecay>3</WaterDecay>
+  <WeedProblem>0.2</WeedProblem>
+  <HarvestStateDurationMin>2</HarvestStateDurationMin>
+  <HarvestStateDurationMax>4</HarvestStateDurationMax>
+  <NumLifetimeHarvestables>20</NumLifetimeHarvestables>
+  <NumHarvestablesMin>2</NumHarvestablesMin>
+  <NumHarvestablesMax>4</NumHarvestablesMax>
+  <MedatorName>PlantLargeTree</MedatorName>
+  <Version>0.1</Version>
+</PlantList>
+<PlantList>
+  <PlantName>PearPlant</PlantName>
+  <LocalizationKeyPlantName>PearPlant</LocalizationKeyPlantName>
+  <LocalizationKeySeedName>PearPlantSeed</LocalizationKeySeedName>
+  <LocalizationKeyDescription>PearPlantDescription</LocalizationKeyDescription>
+  <CodeVersion>BaseGame</CodeVersion>
+  <Rarity>Common</Rarity>
+  <SkillPointsPlant>175</SkillPointsPlant>
+  <SkillPointsHarvest>125</SkillPointsHarvest>
+  <PerfThresholdAvgToGood>95</PerfThresholdAvgToGood>
+  <PerfThresholdGoodToGreat>105</PerfThresholdGoodToGreat>
+  <PerfBonusDrySoil>-40</PerfBonusDrySoil>
+  <PerfBonusNeutralSoil>40</PerfBonusNeutralSoil>
+  <PerfBonusWetSoil>90</PerfBonusWetSoil>
+  <WaterDecay>3</WaterDecay>
+  <WeedProblem>0.2</WeedProblem>
+  <HarvestStateDurationMin>2</HarvestStateDurationMin>
+  <HarvestStateDurationMax>4</HarvestStateDurationMax>
+  <NumLifetimeHarvestables>20</NumLifetimeHarvestables>
+  <NumHarvestablesMin>2</NumHarvestablesMin>
+  <NumHarvestablesMax>4</NumHarvestablesMax>
+  <MedatorName>PlantLargeTree</MedatorName>
+  <Version>0.1</Version>
+</PlantList>
+<PlantList>
+  <PlantName>PecanPlant</PlantName>
+  <LocalizationKeyPlantName>PecanPlant</LocalizationKeyPlantName>
+  <LocalizationKeySeedName>PecanPlantSeed</LocalizationKeySeedName>
+  <LocalizationKeyDescription>PecanPlantDescription</LocalizationKeyDescription>
+  <CodeVersion>BaseGame</CodeVersion>
+  <Rarity>Common</Rarity>
+  <SkillPointsPlant>175</SkillPointsPlant>
+  <SkillPointsHarvest>125</SkillPointsHarvest>
+  <PerfThresholdAvgToGood>95</PerfThresholdAvgToGood>
+  <PerfThresholdGoodToGreat>105</PerfThresholdGoodToGreat>
+  <PerfBonusDrySoil>-40</PerfBonusDrySoil>
+  <PerfBonusNeutralSoil>40</PerfBonusNeutralSoil>
+  <PerfBonusWetSoil>90</PerfBonusWetSoil>
+  <WaterDecay>3</WaterDecay>
+  <WeedProblem>0.2</WeedProblem>
+  <HarvestStateDurationMin>2</HarvestStateDurationMin>
+  <HarvestStateDurationMax>4</HarvestStateDurationMax>
+  <NumLifetimeHarvestables>20</NumLifetimeHarvestables>
+  <NumHarvestablesMin>2</NumHarvestablesMin>
+  <NumHarvestablesMax>4</NumHarvestablesMax>
+  <MedatorName>PlantLargeTree</MedatorName>
+  <Version>0.1</Version>
+</PlantList>
+<PlantList>
+  <PlantName>RaspberryPlant</PlantName>
+  <LocalizationKeyPlantName>RaspberryPlant</LocalizationKeyPlantName>
+  <LocalizationKeySeedName>RaspberryPlantSeed</LocalizationKeySeedName>
+  <LocalizationKeyDescription>RaspberryPlantDescription</LocalizationKeyDescription>
+  <CodeVersion>BaseGame</CodeVersion>
+  <Rarity>Common</Rarity>
+  <SkillPointsPlant>175</SkillPointsPlant>
+  <SkillPointsHarvest>125</SkillPointsHarvest>
+  <PerfThresholdAvgToGood>95</PerfThresholdAvgToGood>
+  <PerfThresholdGoodToGreat>105</PerfThresholdGoodToGreat>
+  <PerfBonusDrySoil>-40</PerfBonusDrySoil>
+  <PerfBonusNeutralSoil>40</PerfBonusNeutralSoil>
+  <PerfBonusWetSoil>90</PerfBonusWetSoil>
+  <WaterDecay>3</WaterDecay>
+  <WeedProblem>0.2</WeedProblem>
+  <HarvestStateDurationMin>2</HarvestStateDurationMin>
+  <HarvestStateDurationMax>4</HarvestStateDurationMax>
+  <NumLifetimeHarvestables>20</NumLifetimeHarvestables>
+  <NumHarvestablesMin>2</NumHarvestablesMin>
+  <NumHarvestablesMax>4</NumHarvestablesMax>
+  <MedatorName>GardenPlantBush</MedatorName>
+  <Version>0.1</Version>
+</PlantList>
+<PlantList>
+  <PlantName>StrawberryPlant</PlantName>
+  <LocalizationKeyPlantName>StrawberryPlant</LocalizationKeyPlantName>
+  <LocalizationKeySeedName>StrawberryPlantSeed</LocalizationKeySeedName>
+  <LocalizationKeyDescription>StrawberryPlantDescription</LocalizationKeyDescription>
+  <CodeVersion>BaseGame</CodeVersion>
+  <Rarity>Common</Rarity>
+  <SkillPointsPlant>175</SkillPointsPlant>
+  <SkillPointsHarvest>125</SkillPointsHarvest>
+  <PerfThresholdAvgToGood>95</PerfThresholdAvgToGood>
+  <PerfThresholdGoodToGreat>105</PerfThresholdGoodToGreat>
+  <PerfBonusDrySoil>-40</PerfBonusDrySoil>
+  <PerfBonusNeutralSoil>40</PerfBonusNeutralSoil>
+  <PerfBonusWetSoil>90</PerfBonusWetSoil>
+  <WaterDecay>3</WaterDecay>
+  <WeedProblem>0.2</WeedProblem>
+  <HarvestStateDurationMin>2</HarvestStateDurationMin>
+  <HarvestStateDurationMax>4</HarvestStateDurationMax>
+  <NumLifetimeHarvestables>20</NumLifetimeHarvestables>
+  <NumHarvestablesMin>2</NumHarvestablesMin>
+  <NumHarvestablesMax>4</NumHarvestablesMax>
+  <MedatorName>PlantSmallVine</MedatorName>
+  <Version>0.1</Version>
+</PlantList>
+<PlantList>
+  <PlantName>BlackberryPlant</PlantName>
+  <LocalizationKeyPlantName>BlackberryPlant</LocalizationKeyPlantName>
+  <LocalizationKeySeedName>BlackberryPlantSeed</LocalizationKeySeedName>
+  <LocalizationKeyDescription>BlackberryPlantDescription</LocalizationKeyDescription>
+  <CodeVersion>BaseGame</CodeVersion>
+  <Rarity>Common</Rarity>
+  <SkillPointsPlant>175</SkillPointsPlant>
+  <SkillPointsHarvest>125</SkillPointsHarvest>
+  <PerfThresholdAvgToGood>95</PerfThresholdAvgToGood>
+  <PerfThresholdGoodToGreat>105</PerfThresholdGoodToGreat>
+  <PerfBonusDrySoil>-40</PerfBonusDrySoil>
+  <PerfBonusNeutralSoil>40</PerfBonusNeutralSoil>
+  <PerfBonusWetSoil>90</PerfBonusWetSoil>
+  <WaterDecay>3</WaterDecay>
+  <WeedProblem>0.2</WeedProblem>
+  <HarvestStateDurationMin>2</HarvestStateDurationMin>
+  <HarvestStateDurationMax>4</HarvestStateDurationMax>
+  <NumLifetimeHarvestables>20</NumLifetimeHarvestables>
+  <NumHarvestablesMin>2</NumHarvestablesMin>
+  <NumHarvestablesMax>4</NumHarvestablesMax>
+  <MedatorName>GardenPlantBush</MedatorName>
+  <Version>0.1</Version>
+</PlantList>
+<PlantList>
+  <PlantName>LemonTree</PlantName>
+  <LocalizationKeyPlantName>LemonTree</LocalizationKeyPlantName>
+  <LocalizationKeySeedName>LemonTreeSeed</LocalizationKeySeedName>
+  <LocalizationKeyDescription>LemonTreeDescription</LocalizationKeyDescription>
+  <CodeVersion>BaseGame</CodeVersion>
+  <Rarity>Common</Rarity>
+  <SkillPointsPlant>225</SkillPointsPlant>
+  <SkillPointsHarvest>175</SkillPointsHarvest>
+  <PerfThresholdAvgToGood>65</PerfThresholdAvgToGood>
+  <PerfThresholdGoodToGreat>70</PerfThresholdGoodToGreat>
+  <PerfBonusDrySoil>-40</PerfBonusDrySoil>
+  <PerfBonusNeutralSoil>-5</PerfBonusNeutralSoil>
+  <PerfBonusWetSoil>40</PerfBonusWetSoil>
+  <WaterDecay>3</WaterDecay>
+  <WeedProblem>0.25</WeedProblem>
+  <HarvestStateDurationMin>3</HarvestStateDurationMin>
+  <HarvestStateDurationMax>8</HarvestStateDurationMax>
+  <NumLifetimeHarvestables>40</NumLifetimeHarvestables>
+  <NumHarvestablesMin>3</NumHarvestablesMin>
+  <NumHarvestablesMax>5</NumHarvestablesMax>
+  <MedatorName>PlantLargeTree</MedatorName>
+  <Version>0.1</Version>
+</PlantList>
+<PlantList>
+  <PlantName>EggPlantPlant</PlantName>
+  <LocalizationKeyPlantName>EggPlantPlant</LocalizationKeyPlantName>
+  <LocalizationKeySeedName>EggPlantPlantSeed</LocalizationKeySeedName>
+  <LocalizationKeyDescription>EggPlantPlantDescription</LocalizationKeyDescription>
+  <CodeVersion>BaseGame</CodeVersion>
+  <Rarity>Common</Rarity>
+  <SkillPointsPlant>175</SkillPointsPlant>
+  <SkillPointsHarvest>125</SkillPointsHarvest>
+  <PerfThresholdAvgToGood>95</PerfThresholdAvgToGood>
+  <PerfThresholdGoodToGreat>105</PerfThresholdGoodToGreat>
+  <PerfBonusDrySoil>-40</PerfBonusDrySoil>
+  <PerfBonusNeutralSoil>40</PerfBonusNeutralSoil>
+  <PerfBonusWetSoil>90</PerfBonusWetSoil>
+  <WaterDecay>3</WaterDecay>
+  <WeedProblem>0.2</WeedProblem>
+  <HarvestStateDurationMin>2</HarvestStateDurationMin>
+  <HarvestStateDurationMax>4</HarvestStateDurationMax>
+  <NumLifetimeHarvestables>20</NumLifetimeHarvestables>
+  <NumHarvestablesMin>2</NumHarvestablesMin>
+  <NumHarvestablesMax>4</NumHarvestablesMax>
+  <MedatorName>GardenPlantBush</MedatorName>
+  <Version>0.1</Version>
+</PlantList>
+<PlantList>
+  <PlantName>CornMillPlant</PlantName>
+  <LocalizationKeyPlantName>CornMillPlant</LocalizationKeyPlantName>
+  <LocalizationKeySeedName>CornMillPlantSeed</LocalizationKeySeedName>
+  <LocalizationKeyDescription>CornMillPlantDescription</LocalizationKeyDescription>
+  <CodeVersion>BaseGame</CodeVersion>
+  <Rarity>Common</Rarity>
+  <SkillPointsPlant>175</SkillPointsPlant>
+  <SkillPointsHarvest>125</SkillPointsHarvest>
+  <PerfThresholdAvgToGood>95</PerfThresholdAvgToGood>
+  <PerfThresholdGoodToGreat>105</PerfThresholdGoodToGreat>
+  <PerfBonusDrySoil>-40</PerfBonusDrySoil>
+  <PerfBonusNeutralSoil>40</PerfBonusNeutralSoil>
+  <PerfBonusWetSoil>90</PerfBonusWetSoil>
+  <WaterDecay>3</WaterDecay>
+  <WeedProblem>0.2</WeedProblem>
+  <HarvestStateDurationMin>2</HarvestStateDurationMin>
+  <HarvestStateDurationMax>4</HarvestStateDurationMax>
+  <NumLifetimeHarvestables>20</NumLifetimeHarvestables>
+  <NumHarvestablesMin>2</NumHarvestablesMin>
+  <NumHarvestablesMax>4</NumHarvestablesMax>
+  <MedatorName>GardenPlantBush</MedatorName>
+  <Version>0.1</Version>
+</PlantList>
+<PlantList>
+  <PlantName>CucumberPlant</PlantName>
+  <LocalizationKeyPlantName>CucumberPlant</LocalizationKeyPlantName>
+  <LocalizationKeySeedName>CucumberPlantSeed</LocalizationKeySeedName>
+  <LocalizationKeyDescription>CucumberPlantDescription</LocalizationKeyDescription>
+  <CodeVersion>BaseGame</CodeVersion>
+  <Rarity>Common</Rarity>
+  <SkillPointsPlant>175</SkillPointsPlant>
+  <SkillPointsHarvest>125</SkillPointsHarvest>
+  <PerfThresholdAvgToGood>95</PerfThresholdAvgToGood>
+  <PerfThresholdGoodToGreat>105</PerfThresholdGoodToGreat>
+  <PerfBonusDrySoil>-40</PerfBonusDrySoil>
+  <PerfBonusNeutralSoil>40</PerfBonusNeutralSoil>
+  <PerfBonusWetSoil>90</PerfBonusWetSoil>
+  <WaterDecay>3</WaterDecay>
+  <WeedProblem>0.2</WeedProblem>
+  <HarvestStateDurationMin>2</HarvestStateDurationMin>
+  <HarvestStateDurationMax>4</HarvestStateDurationMax>
+  <NumLifetimeHarvestables>20</NumLifetimeHarvestables>
+  <NumHarvestablesMin>2</NumHarvestablesMin>
+  <NumHarvestablesMax>4</NumHarvestablesMax>
+  <MedatorName>PlantSmallVine</MedatorName>
+  <Version>0.1</Version>
+</PlantList>
+<PlantList>
+  <PlantName>OrangeTree</PlantName>
+  <LocalizationKeyPlantName>OrangeTree</LocalizationKeyPlantName>
+  <LocalizationKeySeedName>OrangeTreeSeed</LocalizationKeySeedName>
+  <LocalizationKeyDescription>OrangeTreeDescription</LocalizationKeyDescription>
+  <CodeVersion>BaseGame</CodeVersion>
+  <Rarity>Common</Rarity>
+  <SkillPointsPlant>175</SkillPointsPlant>
+  <SkillPointsHarvest>125</SkillPointsHarvest>
+  <PerfThresholdAvgToGood>95</PerfThresholdAvgToGood>
+  <PerfThresholdGoodToGreat>105</PerfThresholdGoodToGreat>
+  <PerfBonusDrySoil>-40</PerfBonusDrySoil>
+  <PerfBonusNeutralSoil>40</PerfBonusNeutralSoil>
+  <PerfBonusWetSoil>90</PerfBonusWetSoil>
+  <WaterDecay>3</WaterDecay>
+  <WeedProblem>0.2</WeedProblem>
+  <HarvestStateDurationMin>2</HarvestStateDurationMin>
+  <HarvestStateDurationMax>4</HarvestStateDurationMax>
+  <NumLifetimeHarvestables>20</NumLifetimeHarvestables>
+  <NumHarvestablesMin>2</NumHarvestablesMin>
+  <NumHarvestablesMax>4</NumHarvestablesMax>
+  <MedatorName>PlantLargeTree</MedatorName>
+  <Version>0.1</Version>
+</PlantList>
+</Plants_store>
