@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base>
   <Current_Tuning>
-    <kZoomIncrement value="0.02">
+    <kZoomIncrement value="0.03">
       <!--Zoom Tick amount.-->
     </kZoomIncrement>
     <kRotateIncrement value="0.05">
