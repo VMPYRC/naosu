@@ -1,0 +1,228 @@
+<?xml version="1.0"?>
+<AutoVenuePlacement>
+<SunsetValley>
+  <Venu_Name></Venu_Name>
+  <Lot_Id></Lot_Id>
+  <Lot_Address></Lot_Address>
+  <Lot_Rotation></Lot_Rotation>
+  <ProductVersion></ProductVersion>
+  <PackageName></PackageName>
+ </SunsetValley>
+<SunsetValley>
+  <Venu_Name>CommercialLotSubType</Venu_Name>
+  <Lot_Address>Just for reference</Lot_Address>
+  <Lot_Rotation>Auto,  0, 90, 180, 270</Lot_Rotation>
+  <ProductVersion>EP2</ProductVersion>
+ </SunsetValley>
+<TwinBrook>
+  <Venu_Name></Venu_Name>
+  <Lot_Id></Lot_Id>
+  <Lot_Address></Lot_Address>
+  <Lot_Rotation></Lot_Rotation>
+  <ProductVersion></ProductVersion>
+  <PackageName></PackageName>
+ </TwinBrook>
+<TwinBrook>
+  <Venu_Name>CommercialLotSubType</Venu_Name>
+  <Lot_Address>Just for reference</Lot_Address>
+  <Lot_Rotation>Auto,  0, 90, 180, 270</Lot_Rotation>
+  <ProductVersion>EP5</ProductVersion>
+ </TwinBrook>
+<Bridgeport>
+  <Venu_Name></Venu_Name>
+  <Lot_Id></Lot_Id>
+  <Lot_Address></Lot_Address>
+  <Lot_Rotation>Auto</Lot_Rotation>
+  <ProductVersion></ProductVersion>
+  <PackageName></PackageName>
+ </Bridgeport>
+<Bridgeport>
+  <Venu_Name>CommercialLotSubType</Venu_Name>
+  <Lot_Address>Just for reference</Lot_Address>
+  <Lot_Rotation>Auto,  0, 90, 180, 270</Lot_Rotation>
+  <ProductVersion>EP2</ProductVersion>
+ </Bridgeport>
+<AppaloosaPlains>
+  <Venu_Name></Venu_Name>
+  <Lot_Id></Lot_Id>
+  <Lot_Address></Lot_Address>
+  <Lot_Rotation></Lot_Rotation>
+  <ProductVersion></ProductVersion>
+  <PackageName></PackageName>
+ </AppaloosaPlains>
+<AppaloosaPlains>
+  <Venu_Name>CommercialLotSubType</Venu_Name>
+  <Lot_Address>Just for reference</Lot_Address>
+  <Lot_Rotation>Auto,  0, 90, 180, 270</Lot_Rotation>
+  <ProductVersion>EP5</ProductVersion>
+ </AppaloosaPlains>
+<StarlightShores>
+  <Venu_Name></Venu_Name>
+  <Lot_Id></Lot_Id>
+  <Lot_Address></Lot_Address>
+  <Lot_Rotation></Lot_Rotation>
+  <ProductVersion></ProductVersion>
+  <PackageName></PackageName>
+ </StarlightShores>
+<StarlightShores>
+  <Venu_Name>CommercialLotSubType</Venu_Name>
+  <Lot_Address>Just for reference</Lot_Address>
+  <Lot_Rotation>Auto,  0, 90, 180, 270</Lot_Rotation>
+  <ProductVersion>EP2</ProductVersion>
+ </StarlightShores>
+<MoonlightFalls>
+  <Venu_Name></Venu_Name>
+  <Lot_Id></Lot_Id>
+  <Lot_Address></Lot_Address>
+  <Lot_Rotation></Lot_Rotation>
+  <ProductVersion></ProductVersion>
+  <PackageName></PackageName>
+ </MoonlightFalls>
+<MoonlightFalls>
+  <Venu_Name>CommercialLotSubType</Venu_Name>
+  <Lot_Address>Just for reference</Lot_Address>
+  <Lot_Rotation>Auto,  0, 90, 180, 270</Lot_Rotation>
+  <ProductVersion>EP2</ProductVersion>
+ </MoonlightFalls>
+<IslaParadiso>
+  <Venu_Name></Venu_Name>
+  <Lot_Id></Lot_Id>
+  <Lot_Address></Lot_Address>
+  <Lot_Rotation></Lot_Rotation>
+  <ProductVersion></ProductVersion>
+  <PackageName></PackageName>
+ </IslaParadiso>
+<IslaParadiso>
+  <Venu_Name>CommercialLotSubType</Venu_Name>
+  <Lot_Address>Just for reference</Lot_Address>
+  <Lot_Rotation>Auto,  0, 90, 180, 270</Lot_Rotation>
+  <ProductVersion>EP2</ProductVersion>
+ </IslaParadiso>
+<RiverView>
+  <Venu_Name></Venu_Name>
+  <Lot_Id></Lot_Id>
+  <Lot_Address></Lot_Address>
+  <Lot_Rotation></Lot_Rotation>
+  <ProductVersion></ProductVersion>
+  <PackageName></PackageName>
+ </RiverView>
+<RiverView>
+  <Venu_Name>CommercialLotSubType</Venu_Name>
+  <Lot_Address>Just for reference</Lot_Address>
+  <Lot_Rotation>Auto,  0, 90, 180, 270</Lot_Rotation>
+  <ProductVersion>EP2</ProductVersion>
+ </RiverView>
+<HiddenSprings>
+  <Venu_Name></Venu_Name>
+  <Lot_Id></Lot_Id>
+  <Lot_Address></Lot_Address>
+  <Lot_Rotation></Lot_Rotation>
+  <ProductVersion></ProductVersion>
+  <PackageName></PackageName>
+ </HiddenSprings>
+<HiddenSprings>
+  <Venu_Name>CommercialLotSubType</Venu_Name>
+  <Lot_Address>Just for reference</Lot_Address>
+  <Lot_Rotation>Auto,  0, 90, 180, 270</Lot_Rotation>
+  <ProductVersion>EP2</ProductVersion>
+ </HiddenSprings>
+<BarnacleBay>
+  <Venu_Name></Venu_Name>
+  <Lot_Id></Lot_Id>
+  <Lot_Address></Lot_Address>
+  <Lot_Rotation></Lot_Rotation>
+  <ProductVersion></ProductVersion>
+  <PackageName></PackageName>
+ </BarnacleBay>
+<BarnacleBay>
+  <Venu_Name>CommercialLotSubType</Venu_Name>
+  <Lot_Address>Just for reference</Lot_Address>
+  <Lot_Rotation>Auto,  0, 90, 180, 270</Lot_Rotation>
+  <ProductVersion>EP2</ProductVersion>
+ </BarnacleBay>
+<LunarLakes>
+  <Venu_Name></Venu_Name>
+  <Lot_Id></Lot_Id>
+  <Lot_Address></Lot_Address>
+  <Lot_Rotation></Lot_Rotation>
+  <ProductVersion></ProductVersion>
+  <PackageName></PackageName>
+ </LunarLakes>
+<LunarLakes>
+  <Venu_Name>CommercialLotSubType</Venu_Name>
+  <Lot_Address>Just for reference</Lot_Address>
+  <Lot_Rotation>Auto,  0, 90, 180, 270</Lot_Rotation>
+  <ProductVersion>EP2</ProductVersion>
+ </LunarLakes>
+<SunlitTides>
+  <Venu_Name></Venu_Name>
+  <Lot_Id></Lot_Id>
+  <Lot_Address></Lot_Address>
+  <Lot_Rotation></Lot_Rotation>
+  <ProductVersion></ProductVersion>
+  <PackageName></PackageName>
+ </SunlitTides>
+<SunlitTides>
+  <Venu_Name>CommercialLotSubType</Venu_Name>
+  <Lot_Address>Just for reference</Lot_Address>
+  <Lot_Rotation>Auto,  0, 90, 180, 270</Lot_Rotation>
+  <ProductVersion>EP2</ProductVersion>
+ </SunlitTides>
+<LuckyPalms>
+  <Venu_Name></Venu_Name>
+  <Lot_Id></Lot_Id>
+  <Lot_Address></Lot_Address>
+  <Lot_Rotation></Lot_Rotation>
+  <ProductVersion></ProductVersion>
+  <PackageName></PackageName>
+ </LuckyPalms>
+<LuckyPalms>
+  <Venu_Name>CommercialLotSubType</Venu_Name>
+  <Lot_Address>Just for reference</Lot_Address>
+  <Lot_Rotation>Auto,  0, 90, 180, 270</Lot_Rotation>
+  <ProductVersion>EP2</ProductVersion>
+ </LuckyPalms>
+<MonteVista>
+  <Venu_Name></Venu_Name>
+  <Lot_Id></Lot_Id>
+  <Lot_Address></Lot_Address>
+  <Lot_Rotation></Lot_Rotation>
+  <ProductVersion></ProductVersion>
+  <PackageName></PackageName>
+ </MonteVista>
+<MonteVista>
+  <Venu_Name>CommercialLotSubType</Venu_Name>
+  <Lot_Address>Just for reference</Lot_Address>
+  <Lot_Rotation>Auto,  0, 90, 180, 270</Lot_Rotation>
+  <ProductVersion>EP2</ProductVersion>
+ </MonteVista>
+<AuroraSkies>
+  <Venu_Name></Venu_Name>
+  <Lot_Id></Lot_Id>
+  <Lot_Address></Lot_Address>
+  <Lot_Rotation></Lot_Rotation>
+  <ProductVersion></ProductVersion>
+  <PackageName></PackageName>
+ </AuroraSkies>
+<AuroraSkies>
+  <Venu_Name>CommercialLotSubType</Venu_Name>
+  <Lot_Address>Just for reference</Lot_Address>
+  <Lot_Rotation>Auto,  0, 90, 180, 270</Lot_Rotation>
+  <ProductVersion>EP2</ProductVersion>
+ </AuroraSkies>
+</AutoVenuePlacement>
+<MidnightHollow>
+  <Venu_Name></Venu_Name>
+  <Lot_Id></Lot_Id>
+  <Lot_Address></Lot_Address>
+  <Lot_Rotation></Lot_Rotation>
+  <ProductVersion></ProductVersion>
+  <PackageName></PackageName>
+ </MidnightHollow>
+<MidnightHollow>
+  <Venu_Name>CommercialLotSubType</Venu_Name>
+  <Lot_Address>Just for reference</Lot_Address>
+  <Lot_Rotation>Auto,  0, 90, 180, 270</Lot_Rotation>
+  <ProductVersion>EP2</ProductVersion>
+ </MidnightHollow>
+</AutoVenuePlacement>
