@@ -2405,7 +2405,7 @@
   <Stats>Landmarks</Stats>
   <NameKey>TheatreName</NameKey>
   <Method>AnyOfTheseObjects</Method>
-  <Arg0>RabbitHoles.Theatre</Arg0>
+  <Arg0>Theatre</Arg0>
   <Arg1>)</Arg1>
  </Subjects>
 <Subjects>
@@ -2755,9 +2755,8 @@
   <Value>75</Value>
   <Scale>200</Scale>
   <NameKey>PleadingToSphinxName</NameKey>
-  <Method>InteractionNamed</Method>
-  <Arg0>Plead</Arg0>
-  <Arg1>)</Arg1>
+  <Method>ObjectInstanceName</Method>
+  <Arg0>sculptureFloorEgyptSphinx3x2</Arg0>
  </Subjects>
 <Subjects>
   <Key>TrainingMartialArts</Key>
@@ -3496,7 +3495,7 @@
   <Method>Op_All</Method>
   <Arg0>DropaStoneA</Arg0>
   <Arg1>DropaStoneB</Arg1>
-  <Arg2>DropaaStoneC</Arg2>
+  <Arg2>DropaStoneC</Arg2>
   <Arg3>DropaStoneD</Arg3>
  </Subjects>
 <Subjects>
@@ -4106,8 +4105,8 @@
   <Value>125</Value>
   <Scale>500</Scale>
   <NameKey>GraduationName</NameKey>
-  <Method>InGraduationGown</Method>
-  <Arg0>)</Arg0>
+  <Method>ObjectInstanceName</Method>
+  <Arg0>sculptureOrientationVertical</Arg0>
  </Subjects>
 <Subjects>
   <Key>Caught</Key>
@@ -4381,16 +4380,16 @@
   <Key>ToolsOfTradeObjectsB</Key>
   <MinLevel>-1</MinLevel>
   <Method>AnyOfTheseObjects</Method>
-  <Arg0>StylingStation</Arg0>
+  <Arg0>FirefighterPole</Arg0>
   <Arg1>TattooChair</Arg1>
   <Arg2>Trampoline</Arg2>
-  <Arg3>FirefighterPole</Arg3>
+  <Arg3>MagnifyingGlass</Arg3>
  </Subjects>
 <Subjects>
   <Key>ToolsOfTradeObjectsC</Key>
   <MinLevel>-1</MinLevel>
   <Method>AnyOfTheseObjects</Method>
-  <Arg0>MagnifyingGlass</Arg0>
+  <Arg0>StylingStation</Arg0>
   <Arg1>)</Arg1>
  </Subjects>
 <Subjects>
@@ -4413,8 +4412,6 @@
   <Method>Op_AtLeastOne</Method>
   <Arg0>ToolsOfTradeObjectsA</Arg0>
   <Arg1>ToolsOfTradeObjectsB</Arg1>
-  <Arg2>ToolsOfTradeObjectsC</Arg2>
-  <Arg3>StylistDecorativeObject</Arg3>
  </Subjects>
 <Subjects>
   <Key>FireEngine</Key>
@@ -4465,9 +4462,8 @@
   <Stats>UniqueSims</Stats>
   <NameKey>MakeoverName</NameKey>
   <Method>Op_AtLeastOne</Method>
-  <Arg0>MakeoverSelf</Arg0>
-  <Arg1>GetMakeover</Arg1>
-  <Arg2>)</Arg2>
+  <Arg0>ToolsOfTradeObjectsC</Arg0>
+  <Arg1>StylistDecorativeObject</Arg1>
  </Subjects>
 <Subjects>
   <Key>BrilliantSculpture</Key>
@@ -5299,58 +5295,58 @@
   <SkillLevel>0</SkillLevel>
   <StyleUnlocks>PhotoPlain</StyleUnlocks>
   <SizeUnlocks>Small,SmartPhone,SmartPhoneHorizontal</SizeUnlocks>
-  <BadPhotoChance>0.75</BadPhotoChance>
+  <BadPhotoChance>0</BadPhotoChance>
   <ValueMultiplier>0.3</ValueMultiplier>
  </SkillProgression>
 <SkillProgression>
   <SkillLevel>1</SkillLevel>
-  <BadPhotoChance>0.33</BadPhotoChance>
+  <BadPhotoChance>0</BadPhotoChance>
   <ValueMultiplier>0.3</ValueMultiplier>
  </SkillProgression>
 <SkillProgression>
   <SkillLevel>2</SkillLevel>
   <StyleUnlocks>PhotoGray</StyleUnlocks>
   <SizeUnlocks>Medium</SizeUnlocks>
-  <BadPhotoChance>0.17</BadPhotoChance>
+  <BadPhotoChance>0</BadPhotoChance>
   <ValueMultiplier>0.4</ValueMultiplier>
  </SkillProgression>
 <SkillProgression>
   <SkillLevel>3</SkillLevel>
-  <BadPhotoChance>0.1</BadPhotoChance>
+  <BadPhotoChance>0</BadPhotoChance>
   <ValueMultiplier>0.5</ValueMultiplier>
  </SkillProgression>
 <SkillProgression>
   <SkillLevel>4</SkillLevel>
   <StyleUnlocks>PhotoSepia</StyleUnlocks>
-  <BadPhotoChance>0.05</BadPhotoChance>
+  <BadPhotoChance>0</BadPhotoChance>
   <ValueMultiplier>0.8</ValueMultiplier>
  </SkillProgression>
 <SkillProgression>
   <SkillLevel>5</SkillLevel>
   <SizeUnlocks>Large</SizeUnlocks>
-  <BadPhotoChance>0.05</BadPhotoChance>
+  <BadPhotoChance>0</BadPhotoChance>
   <ValueMultiplier>1</ValueMultiplier>
  </SkillProgression>
 <SkillProgression>
   <SkillLevel>6</SkillLevel>
   <FeatureUnlocks>ZoomUpgrade</FeatureUnlocks>
-  <BadPhotoChance>0.03</BadPhotoChance>
+  <BadPhotoChance>0</BadPhotoChance>
   <ValueMultiplier>1.1</ValueMultiplier>
  </SkillProgression>
 <SkillProgression>
   <SkillLevel>7</SkillLevel>
-  <BadPhotoChance>0.01</BadPhotoChance>
+  <BadPhotoChance>0</BadPhotoChance>
   <ValueMultiplier>1.25</ValueMultiplier>
  </SkillProgression>
 <SkillProgression>
   <SkillLevel>8</SkillLevel>
   <StyleUnlocks>PhotoVignette</StyleUnlocks>
-  <BadPhotoChance>0.01</BadPhotoChance>
+  <BadPhotoChance>0</BadPhotoChance>
   <ValueMultiplier>1.45</ValueMultiplier>
  </SkillProgression>
 <SkillProgression>
   <SkillLevel>9</SkillLevel>
-  <BadPhotoChance>0.01</BadPhotoChance>
+  <BadPhotoChance>0</BadPhotoChance>
   <ValueMultiplier>1.5</ValueMultiplier>
  </SkillProgression>
 <SkillProgression>
