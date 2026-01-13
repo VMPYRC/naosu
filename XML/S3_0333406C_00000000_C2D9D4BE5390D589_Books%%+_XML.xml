@@ -3184,6 +3184,7 @@
   <GeometryState>BookLargeThick</GeometryState>
   <MaterialState>bookNonFiction</MaterialState>
   <AllowedWorldTypes>Future</AllowedWorldTypes>
+  <CodeVersion>EP11</CodeVersion>
  </BookGeneral>
 <BookGeneral>
   <Title>EP11FlavorBook2</Title>
@@ -3194,6 +3195,7 @@
   <GeometryState>BookMediumThick</GeometryState>
   <MaterialState>bookMystery</MaterialState>
   <AllowedWorldTypes>Future</AllowedWorldTypes>
+  <CodeVersion>EP11</CodeVersion>
  </BookGeneral>
 <BookGeneral>
   <Title>EP11FlavorBook3</Title>
@@ -3204,6 +3206,7 @@
   <GeometryState>BookSmallThin</GeometryState>
   <MaterialState>bookChildrens</MaterialState>
   <AllowedWorldTypes>Future</AllowedWorldTypes>
+  <CodeVersion>EP11</CodeVersion>
  </BookGeneral>
 <BookGeneral>
   <Title>EP11FlavorBook4</Title>
@@ -3214,6 +3217,7 @@
   <GeometryState>BookMediumThick</GeometryState>
   <MaterialState>bookFantasy</MaterialState>
   <AllowedWorldTypes>Future</AllowedWorldTypes>
+  <CodeVersion>EP11</CodeVersion>
  </BookGeneral>
 <BookGeneral>
   <Title>EP11FlavorBook5</Title>
@@ -3224,6 +3228,7 @@
   <GeometryState>BookMediumThin</GeometryState>
   <MaterialState>bookHumor</MaterialState>
   <AllowedWorldTypes>Future</AllowedWorldTypes>
+  <CodeVersion>EP11</CodeVersion>
  </BookGeneral>
 <BookGeneral>
   <Title>EP11FlavorBook6</Title>
@@ -3234,6 +3239,7 @@
   <GeometryState>BookLargeThick</GeometryState>
   <MaterialState>bookHistorical</MaterialState>
   <AllowedWorldTypes>Future</AllowedWorldTypes>
+  <CodeVersion>EP11</CodeVersion>
  </BookGeneral>
 <BookGeneral>
   <Title>EP11FlavorBook7</Title>
@@ -3244,6 +3250,7 @@
   <GeometryState>BookMediumThin</GeometryState>
   <MaterialState>bookHumor</MaterialState>
   <AllowedWorldTypes>Future</AllowedWorldTypes>
+  <CodeVersion>EP11</CodeVersion>
  </BookGeneral>
 <BookGeneral>
   <Title>EP11FlavorBook8</Title>
@@ -3254,6 +3261,7 @@
   <GeometryState>BookLargeThick</GeometryState>
   <MaterialState>bookBiography</MaterialState>
   <AllowedWorldTypes>Future</AllowedWorldTypes>
+  <CodeVersion>EP11</CodeVersion>
  </BookGeneral>
 <BookGeneral>
   <Title>EP11FlavorBook9</Title>
@@ -3264,6 +3272,7 @@
   <GeometryState>BookSmallThin</GeometryState>
   <MaterialState>bookRomance</MaterialState>
   <AllowedWorldTypes>Future</AllowedWorldTypes>
+  <CodeVersion>EP11</CodeVersion>
  </BookGeneral>
 <BookGeneral>
   <Title>EP11FlavorBook10</Title>
@@ -3274,6 +3283,7 @@
   <GeometryState>BookSmallThin</GeometryState>
   <MaterialState>bookChildrens</MaterialState>
   <AllowedWorldTypes>Future</AllowedWorldTypes>
+  <CodeVersion>EP11</CodeVersion>
  </BookGeneral>
 <BookGeneral>
   <Title>EP11FlavorBook11</Title>
@@ -3284,6 +3294,7 @@
   <GeometryState>BookMediumThin</GeometryState>
   <MaterialState>bookBiography</MaterialState>
   <AllowedWorldTypes>Future</AllowedWorldTypes>
+  <CodeVersion>EP11</CodeVersion>
  </BookGeneral>
 <BookGeneral>
   <Title>EP11FlavorBook12</Title>
@@ -3294,6 +3305,7 @@
   <GeometryState>BookLargeThick</GeometryState>
   <MaterialState>bookNonFiction</MaterialState>
   <AllowedWorldTypes>Future</AllowedWorldTypes>
+  <CodeVersion>EP11</CodeVersion>
  </BookGeneral>
 <BookGeneral>
   <Title>EP11FlavorBook13</Title>
@@ -3304,6 +3316,7 @@
   <GeometryState>BookMediumThin</GeometryState>
   <MaterialState>bookBiography</MaterialState>
   <AllowedWorldTypes>Future</AllowedWorldTypes>
+  <CodeVersion>EP11</CodeVersion>
  </BookGeneral>
 <BookGeneral>
   <Title>EP11FlavorBook14</Title>
@@ -3314,6 +3327,7 @@
   <GeometryState>BookLargeThick</GeometryState>
   <MaterialState>bookRomance</MaterialState>
   <AllowedWorldTypes>Future</AllowedWorldTypes>
+  <CodeVersion>EP11</CodeVersion>
  </BookGeneral>
 <BookGeneral>
   <Title>EP11FlavorBook15</Title>
@@ -3324,6 +3338,7 @@
   <GeometryState>BookMediumThin</GeometryState>
   <MaterialState>bookNonFiction</MaterialState>
   <AllowedWorldTypes>Future</AllowedWorldTypes>
+  <CodeVersion>EP11</CodeVersion>
  </BookGeneral>
 <BookGeneral>
   <Title>EP11FlavorBook16</Title>
@@ -3334,6 +3349,7 @@
   <GeometryState>BookSmallThin</GeometryState>
   <MaterialState>bookChildrens</MaterialState>
   <AllowedWorldTypes>Future</AllowedWorldTypes>
+  <CodeVersion>EP11</CodeVersion>
  </BookGeneral>
 <BookGeneral>
   <Title>EP11FlavorBook17</Title>
@@ -3344,6 +3360,7 @@
   <GeometryState>BookSmallThin</GeometryState>
   <MaterialState>bookNonFiction</MaterialState>
   <AllowedWorldTypes>Future</AllowedWorldTypes>
+  <CodeVersion>EP11</CodeVersion>
  </BookGeneral>
 <BookGeneral>
   <Title>EP11FlavorBook18</Title>
@@ -3354,6 +3371,7 @@
   <GeometryState>BookMediumThick</GeometryState>
   <MaterialState>bookVaudeville</MaterialState>
   <AllowedWorldTypes>Future</AllowedWorldTypes>
+  <CodeVersion>EP11</CodeVersion>
  </BookGeneral>
 <BookGeneral>
   <Title>EP11FlavorBook19</Title>
@@ -3364,6 +3382,7 @@
   <GeometryState>BookMediumThin</GeometryState>
   <MaterialState>bookHumor</MaterialState>
   <AllowedWorldTypes>Future</AllowedWorldTypes>
+  <CodeVersion>EP11</CodeVersion>
  </BookGeneral>
 <BookGeneral>
   <Title>EP11FlavorBook20</Title>
@@ -3374,6 +3393,7 @@
   <GeometryState>BookMediumThin</GeometryState>
   <MaterialState>bookPrenatal</MaterialState>
   <AllowedWorldTypes>Future</AllowedWorldTypes>
+  <CodeVersion>EP11</CodeVersion>
  </BookGeneral>
 <BookToddler>
   <Title>Test</Title>
