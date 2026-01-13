@@ -30,7 +30,7 @@
   <MinHuntWeight>1</MinHuntWeight>
   <MaxHuntWeight>10</MaxHuntWeight>
   <EdibleRawAnimation></EdibleRawAnimation>
- </Fish>
+</Fish>
 <Fish>
   <Name>Minnow</Name>
   <Description>MinnowDesc</Description>
@@ -50,14 +50,14 @@
   <Model_Name>fishMinnow</Model_Name>
   <Fertilizer_Value>10</Fertilizer_Value>
   <Fertilizer_Days>4</Fertilizer_Days>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <FishBowlMaterialState>fishBowlMinnow</FishBowlMaterialState>
   <Rarity>Common</Rarity>
   <MinHuntSkillLevel>1</MinHuntSkillLevel>
   <MaxHuntSkillLevel>10</MaxHuntSkillLevel>
   <MinHuntWeight>10</MinHuntWeight>
   <MaxHuntWeight>1</MaxHuntWeight>
- </Fish>
+</Fish>
 <Fish>
   <Name>Anchovy</Name>
   <Description>AnchovyDesc</Description>
@@ -84,7 +84,7 @@
   <MaxHuntSkillLevel>10</MaxHuntSkillLevel>
   <MinHuntWeight>10</MinHuntWeight>
   <MaxHuntWeight>1</MaxHuntWeight>
- </Fish>
+</Fish>
 <Fish>
   <Name>Goldfish</Name>
   <Description>GoldfishDesc</Description>
@@ -112,7 +112,7 @@
   <MinHuntWeight>10</MinHuntWeight>
   <MaxHuntWeight>1</MaxHuntWeight>
   <EdibleRawAnimation>ingredient4</EdibleRawAnimation>
- </Fish>
+</Fish>
 <Fish>
   <Name>AlleyCatfish</Name>
   <Description>AlleyCatfishDesc</Description>
@@ -140,7 +140,7 @@
   <MinHuntWeight>1</MinHuntWeight>
   <MaxHuntWeight>10</MaxHuntWeight>
   <EdibleRawAnimation>ingredient3</EdibleRawAnimation>
- </Fish>
+</Fish>
 <Fish>
   <Name>Jellyfish</Name>
   <Description>JellyfishDesc</Description>
@@ -160,7 +160,7 @@
   <Model_Name>fishJellyfish</Model_Name>
   <Fertilizer_Value>10</Fertilizer_Value>
   <Fertilizer_Days>4</Fertilizer_Days>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <FishBowlMaterialState>fishBowlJellyfish</FishBowlMaterialState>
   <Rarity>Common</Rarity>
   <MinHuntSkillLevel>1</MinHuntSkillLevel>
@@ -168,7 +168,7 @@
   <MinHuntWeight>10</MinHuntWeight>
   <MaxHuntWeight>1</MaxHuntWeight>
   <EdibleRawAnimation>ingredient1</EdibleRawAnimation>
- </Fish>
+</Fish>
 <Fish>
   <Name>RainbowTrout</Name>
   <Description>RainbowTroutDesc</Description>
@@ -196,7 +196,7 @@
   <MinHuntWeight>10</MinHuntWeight>
   <MaxHuntWeight>1</MaxHuntWeight>
   <EdibleRawAnimation>fish7</EdibleRawAnimation>
- </Fish>
+</Fish>
 <Fish>
   <Name>RedHerring</Name>
   <Description>RedHerringDesc</Description>
@@ -216,7 +216,7 @@
   <Model_Name>fishRedHerring</Model_Name>
   <Fertilizer_Value>15</Fertilizer_Value>
   <Fertilizer_Days>4</Fertilizer_Days>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <FishBowlMaterialState>fishBowlRedHerring</FishBowlMaterialState>
   <Rarity>Common</Rarity>
   <MinHuntSkillLevel>2</MinHuntSkillLevel>
@@ -224,7 +224,7 @@
   <MinHuntWeight>10</MinHuntWeight>
   <MaxHuntWeight>1</MaxHuntWeight>
   <EdibleRawAnimation>ingredient2</EdibleRawAnimation>
- </Fish>
+</Fish>
 <Fish>
   <Name>Tuna</Name>
   <Description>TunaDesc</Description>
@@ -252,7 +252,7 @@
   <MinHuntWeight>10</MinHuntWeight>
   <MaxHuntWeight>1</MaxHuntWeight>
   <EdibleRawAnimation>fish</EdibleRawAnimation>
- </Fish>
+</Fish>
 <Fish>
   <Name>TragicClownfish</Name>
   <Description>TragicClownfishDesc</Description>
@@ -272,7 +272,7 @@
   <Model_Name>fishTragicClownfish</Model_Name>
   <Fertilizer_Value>15</Fertilizer_Value>
   <Fertilizer_Days>4</Fertilizer_Days>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <FishBowlMaterialState>fishBowlTragicClownfish</FishBowlMaterialState>
   <Rarity>Uncommon</Rarity>
   <MinHuntSkillLevel>3</MinHuntSkillLevel>
@@ -280,7 +280,7 @@
   <MinHuntWeight>1</MinHuntWeight>
   <MaxHuntWeight>10</MaxHuntWeight>
   <EdibleRawAnimation>fish4</EdibleRawAnimation>
- </Fish>
+</Fish>
 <Fish>
   <Name>SiameseCatfish</Name>
   <Description>SiameseCatfishDesc</Description>
@@ -300,7 +300,7 @@
   <Model_Name>fishSiameseCatfish</Model_Name>
   <Fertilizer_Value>15</Fertilizer_Value>
   <Fertilizer_Days>4</Fertilizer_Days>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <FishBowlMaterialState>fishBowlSiamesesCatfish</FishBowlMaterialState>
   <Rarity>Uncommon</Rarity>
   <MinHuntSkillLevel>3</MinHuntSkillLevel>
@@ -308,7 +308,7 @@
   <MinHuntWeight>1</MinHuntWeight>
   <MaxHuntWeight>10</MaxHuntWeight>
   <EdibleRawAnimation>fish</EdibleRawAnimation>
- </Fish>
+</Fish>
 <Fish>
   <Name>Piranha</Name>
   <Description>PiranhaDesc</Description>
@@ -328,7 +328,7 @@
   <Model_Name>fishPiranha</Model_Name>
   <Fertilizer_Value>15</Fertilizer_Value>
   <Fertilizer_Days>4</Fertilizer_Days>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <FishBowlMaterialState>fishBowlPiranha</FishBowlMaterialState>
   <Rarity>Common</Rarity>
   <MinHuntSkillLevel>4</MinHuntSkillLevel>
@@ -336,7 +336,7 @@
   <MinHuntWeight>10</MinHuntWeight>
   <MaxHuntWeight>1</MaxHuntWeight>
   <EdibleRawAnimation>fish</EdibleRawAnimation>
- </Fish>
+</Fish>
 <Fish>
   <Name>Blowfish</Name>
   <Description>BlowfishDesc</Description>
@@ -356,14 +356,14 @@
   <Model_Name>fishBlowfish</Model_Name>
   <Fertilizer_Value>15</Fertilizer_Value>
   <Fertilizer_Days>4</Fertilizer_Days>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <FishBowlMaterialState>fishBowlBlowfish</FishBowlMaterialState>
   <Rarity>Uncommon</Rarity>
   <MinHuntSkillLevel>4</MinHuntSkillLevel>
   <MaxHuntSkillLevel>10</MaxHuntSkillLevel>
   <MinHuntWeight>1</MinHuntWeight>
   <MaxHuntWeight>10</MaxHuntWeight>
- </Fish>
+</Fish>
 <Fish>
   <Name>Salmon</Name>
   <Description>SalmonDesc</Description>
@@ -391,7 +391,7 @@
   <MinHuntWeight>1</MinHuntWeight>
   <MaxHuntWeight>10</MaxHuntWeight>
   <EdibleRawAnimation>fish</EdibleRawAnimation>
- </Fish>
+</Fish>
 <Fish>
   <Name>BlackGoldfish</Name>
   <Description>BlackGoldfishDesc</Description>
@@ -411,7 +411,7 @@
   <Model_Name>fishBlackGoldfish</Model_Name>
   <Fertilizer_Value>12</Fertilizer_Value>
   <Fertilizer_Days>3</Fertilizer_Days>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <FishBowlMaterialState>fishBowlBlackGoldfish</FishBowlMaterialState>
   <Rarity>Common</Rarity>
   <MinHuntSkillLevel>5</MinHuntSkillLevel>
@@ -419,7 +419,7 @@
   <MinHuntWeight>1</MinHuntWeight>
   <MaxHuntWeight>10</MaxHuntWeight>
   <EdibleRawAnimation>fish8</EdibleRawAnimation>
- </Fish>
+</Fish>
 <Fish>
   <Name>Shark</Name>
   <Description>SharkDesc</Description>
@@ -439,7 +439,7 @@
   <Model_Name>fishShark</Model_Name>
   <Fertilizer_Value>20</Fertilizer_Value>
   <Fertilizer_Days>4</Fertilizer_Days>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <FishBowlMaterialState>fishBowlShark</FishBowlMaterialState>
   <Rarity>Uncommon</Rarity>
   <MinHuntSkillLevel>6</MinHuntSkillLevel>
@@ -447,7 +447,7 @@
   <MinHuntWeight>1</MinHuntWeight>
   <MaxHuntWeight>10</MaxHuntWeight>
   <EdibleRawAnimation>fish2</EdibleRawAnimation>
- </Fish>
+</Fish>
 <Fish>
   <Name>Swordfish</Name>
   <Description>SwordfishDesc</Description>
@@ -475,7 +475,7 @@
   <MinHuntWeight>1</MinHuntWeight>
   <MaxHuntWeight>10</MaxHuntWeight>
   <EdibleRawAnimation>fish1</EdibleRawAnimation>
- </Fish>
+</Fish>
 <Fish>
   <Name>Angelfish</Name>
   <Description>AngelFishDesc</Description>
@@ -495,7 +495,7 @@
   <Model_Name>fishAngelfish</Model_Name>
   <Fertilizer_Value>25</Fertilizer_Value>
   <Fertilizer_Days>4</Fertilizer_Days>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <FishBowlMaterialState>fishBowlAngelfish</FishBowlMaterialState>
   <Rarity>Uncommon</Rarity>
   <MinHuntSkillLevel>7</MinHuntSkillLevel>
@@ -503,7 +503,7 @@
   <MinHuntWeight>1</MinHuntWeight>
   <MaxHuntWeight>10</MaxHuntWeight>
   <EdibleRawAnimation>ingredient5</EdibleRawAnimation>
- </Fish>
+</Fish>
 <Fish>
   <Name>Vampirefish</Name>
   <Description>VampireFishDesc</Description>
@@ -523,7 +523,7 @@
   <Model_Name>fishVampireFish</Model_Name>
   <Fertilizer_Value>25</Fertilizer_Value>
   <Fertilizer_Days>3</Fertilizer_Days>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <FishBowlMaterialState>fishBowlVampirefish</FishBowlMaterialState>
   <Rarity>Rare</Rarity>
   <MinHuntSkillLevel>7</MinHuntSkillLevel>
@@ -531,7 +531,7 @@
   <MinHuntWeight>1</MinHuntWeight>
   <MaxHuntWeight>10</MaxHuntWeight>
   <EdibleRawAnimation>fish3</EdibleRawAnimation>
- </Fish>
+</Fish>
 <Fish>
   <Name>Robotfish</Name>
   <Description>RobotFishDesc</Description>
@@ -549,14 +549,14 @@
   <EffectSize>Large</EffectSize>
   <Ingredient_Key>Robotfish</Ingredient_Key>
   <Model_Name>fishRobotFish</Model_Name>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <FishBowlMaterialState>fishBowlRobotfish</FishBowlMaterialState>
   <Rarity>Rare</Rarity>
   <MinHuntSkillLevel>8</MinHuntSkillLevel>
   <MaxHuntSkillLevel>10</MaxHuntSkillLevel>
   <MinHuntWeight>1</MinHuntWeight>
   <MaxHuntWeight>10</MaxHuntWeight>
- </Fish>
+</Fish>
 <Fish>
   <Name>Lobster</Name>
   <Description>LobsterDesc</Description>
@@ -584,7 +584,7 @@
   <MinHuntWeight>1</MinHuntWeight>
   <MaxHuntWeight>10</MaxHuntWeight>
   <EdibleRawAnimation>fish5</EdibleRawAnimation>
- </Fish>
+</Fish>
 <Fish>
   <Name>Deathfish</Name>
   <Description>DeathfishDesc</Description>
@@ -604,14 +604,14 @@
   <Model_Name>fishDeathfish</Model_Name>
   <Fertilizer_Value>-200</Fertilizer_Value>
   <Fertilizer_Days>4</Fertilizer_Days>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <FishBowlMaterialState>fishBowlDeathfish</FishBowlMaterialState>
   <Rarity>Rare</Rarity>
   <MinHuntSkillLevel>9</MinHuntSkillLevel>
   <MaxHuntSkillLevel>10</MaxHuntSkillLevel>
   <MinHuntWeight>1</MinHuntWeight>
   <MaxHuntWeight>10</MaxHuntWeight>
- </Fish>
+</Fish>
 <Fish>
   <Name>MummyFish</Name>
   <Description>MummyFishDesc</Description>
@@ -631,17 +631,16 @@
   <Model_Name>fishMummy</Model_Name>
   <Fertilizer_Value>25</Fertilizer_Value>
   <Fertilizer_Days>3</Fertilizer_Days>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <FishBowlMaterialState>fishBowlVampirefish</FishBowlMaterialState>
   <CodeVersion>EP1</CodeVersion>
   <DataVersion>EP1</DataVersion>
-  <RequiredWorld>Egypt</RequiredWorld>
   <Rarity>Rare</Rarity>
   <MinHuntSkillLevel>7</MinHuntSkillLevel>
   <MaxHuntSkillLevel>10</MaxHuntSkillLevel>
   <MinHuntWeight>1</MinHuntWeight>
   <MaxHuntWeight>4</MaxHuntWeight>
- </Fish>
+</Fish>
 <Fish>
   <Name>Crocodile</Name>
   <Description>CrocodileDesc</Description>
@@ -665,13 +664,12 @@
   <FishBowlMaterialState>fishBowlPiranha</FishBowlMaterialState>
   <CodeVersion>EP1</CodeVersion>
   <DataVersion>EP1</DataVersion>
-  <RequiredWorld>Egypt</RequiredWorld>
   <Rarity>Uncommon</Rarity>
   <MinHuntSkillLevel>5</MinHuntSkillLevel>
   <MaxHuntSkillLevel>10</MaxHuntSkillLevel>
   <MinHuntWeight>1</MinHuntWeight>
   <MaxHuntWeight>10</MaxHuntWeight>
- </Fish>
+</Fish>
 <Fish>
   <Name>Crawfish</Name>
   <Description>CrawfishDesc</Description>
@@ -695,13 +693,12 @@
   <FishBowlMaterialState>fishBowlLobster</FishBowlMaterialState>
   <CodeVersion>EP1</CodeVersion>
   <DataVersion>EP1</DataVersion>
-  <RequiredWorld>France</RequiredWorld>
   <Rarity>Uncommon</Rarity>
   <MinHuntSkillLevel>4</MinHuntSkillLevel>
   <MaxHuntSkillLevel>10</MaxHuntSkillLevel>
   <MinHuntWeight>1</MinHuntWeight>
   <MaxHuntWeight>10</MaxHuntWeight>
- </Fish>
+</Fish>
 <Fish>
   <Name>Frogs</Name>
   <Description>FrogsDesc</Description>
@@ -721,17 +718,16 @@
   <Model_Name>fishFrog</Model_Name>
   <Fertilizer_Value>5</Fertilizer_Value>
   <Fertilizer_Days>3</Fertilizer_Days>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <FishBowlMaterialState>fishBowlTuna</FishBowlMaterialState>
   <CodeVersion>EP1</CodeVersion>
   <DataVersion>EP1</DataVersion>
-  <RequiredWorld>France</RequiredWorld>
   <Rarity>Common</Rarity>
   <MinHuntSkillLevel>1</MinHuntSkillLevel>
   <MaxHuntSkillLevel>10</MaxHuntSkillLevel>
   <MinHuntWeight>10</MinHuntWeight>
   <MaxHuntWeight>1</MaxHuntWeight>
- </Fish>
+</Fish>
 <Fish>
   <Name>DragonFish</Name>
   <Description>DragonFishDesc</Description>
@@ -751,17 +747,16 @@
   <Model_Name>fishDragon</Model_Name>
   <Fertilizer_Value>25</Fertilizer_Value>
   <Fertilizer_Days>3</Fertilizer_Days>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <FishBowlMaterialState>fishBowlTragicClownfish</FishBowlMaterialState>
   <CodeVersion>EP1</CodeVersion>
   <DataVersion>EP1</DataVersion>
-  <RequiredWorld>China</RequiredWorld>
   <Rarity>Rare</Rarity>
   <MinHuntSkillLevel>8</MinHuntSkillLevel>
   <MaxHuntSkillLevel>10</MaxHuntSkillLevel>
   <MinHuntWeight>1</MinHuntWeight>
   <MaxHuntWeight>10</MaxHuntWeight>
- </Fish>
+</Fish>
 <Fish>
   <Name>DoitsuKoi</Name>
   <Description>DoitsuKoiDesc</Description>
@@ -785,14 +780,13 @@
   <FishBowlMaterialState>fishBowlGoldFish</FishBowlMaterialState>
   <CodeVersion>EP1</CodeVersion>
   <DataVersion>EP1</DataVersion>
-  <RequiredWorld>China</RequiredWorld>
   <Rarity>Common</Rarity>
   <MinHuntSkillLevel>1</MinHuntSkillLevel>
   <MaxHuntSkillLevel>10</MaxHuntSkillLevel>
   <MinHuntWeight>10</MinHuntWeight>
   <MaxHuntWeight>1</MaxHuntWeight>
   <EdibleRawAnimation>fish</EdibleRawAnimation>
- </Fish>
+</Fish>
 <Fish>
   <Name>KawarimonoKoi</Name>
   <Description>KawarimonoKoiDesc</Description>
@@ -816,14 +810,13 @@
   <FishBowlMaterialState>fishBowlSalmon</FishBowlMaterialState>
   <CodeVersion>EP1</CodeVersion>
   <DataVersion>EP1</DataVersion>
-  <RequiredWorld>China</RequiredWorld>
   <Rarity>Common</Rarity>
   <MinHuntSkillLevel>2</MinHuntSkillLevel>
   <MaxHuntSkillLevel>10</MaxHuntSkillLevel>
   <MinHuntWeight>10</MinHuntWeight>
   <MaxHuntWeight>1</MaxHuntWeight>
   <EdibleRawAnimation>fish</EdibleRawAnimation>
- </Fish>
+</Fish>
 <Fish>
   <Name>OchibaKoi</Name>
   <Description>OchibaKoiDesc</Description>
@@ -843,18 +836,17 @@
   <Model_Name>fishKoiOchiba</Model_Name>
   <Fertilizer_Value>5</Fertilizer_Value>
   <Fertilizer_Days>3</Fertilizer_Days>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <FishBowlMaterialState>fishBowlRainbowTrout</FishBowlMaterialState>
   <CodeVersion>EP1</CodeVersion>
   <DataVersion>EP1</DataVersion>
-  <RequiredWorld>China</RequiredWorld>
   <Rarity>Uncommon</Rarity>
   <MinHuntSkillLevel>4</MinHuntSkillLevel>
   <MaxHuntSkillLevel>10</MaxHuntSkillLevel>
   <MinHuntWeight>1</MinHuntWeight>
   <MaxHuntWeight>10</MaxHuntWeight>
   <EdibleRawAnimation>fish</EdibleRawAnimation>
- </Fish>
+</Fish>
 <Fish>
   <Name>TanchoKoi</Name>
   <Description>TanchoKoiDesc</Description>
@@ -874,18 +866,17 @@
   <Model_Name>fishKoiTancho</Model_Name>
   <Fertilizer_Value>5</Fertilizer_Value>
   <Fertilizer_Days>3</Fertilizer_Days>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <FishBowlMaterialState>fishBowlAlleyCatfish</FishBowlMaterialState>
   <CodeVersion>EP1</CodeVersion>
   <DataVersion>EP1</DataVersion>
-  <RequiredWorld>China</RequiredWorld>
   <Rarity>Uncommon</Rarity>
   <MinHuntSkillLevel>6</MinHuntSkillLevel>
   <MaxHuntSkillLevel>10</MaxHuntSkillLevel>
   <MinHuntWeight>1</MinHuntWeight>
   <MaxHuntWeight>10</MaxHuntWeight>
   <EdibleRawAnimation>fish</EdibleRawAnimation>
- </Fish>
+</Fish>
 <Fish>
   <Name>Snails</Name>
   <Description>SnailsDesc</Description>
@@ -905,17 +896,16 @@
   <Model_Name>fishSnail</Model_Name>
   <Fertilizer_Value>5</Fertilizer_Value>
   <Fertilizer_Days>3</Fertilizer_Days>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <FishBowlMaterialState>fishBowlRobotfish</FishBowlMaterialState>
   <CodeVersion>EP1</CodeVersion>
   <DataVersion>EP1</DataVersion>
-  <RequiredWorld>France</RequiredWorld>
   <Rarity>Uncommon</Rarity>
   <MinHuntSkillLevel>2</MinHuntSkillLevel>
   <MaxHuntSkillLevel>10</MaxHuntSkillLevel>
   <MinHuntWeight>1</MinHuntWeight>
   <MaxHuntWeight>10</MaxHuntWeight>
- </Fish>
+</Fish>
 <Fish>
   <Name>KissingGourami</Name>
   <Description>KissingGouramiDesc</Description>
@@ -944,7 +934,7 @@
   <MaxHuntSkillLevel>10</MaxHuntSkillLevel>
   <MinHuntWeight>10</MinHuntWeight>
   <MaxHuntWeight>1</MaxHuntWeight>
- </Fish>
+</Fish>
 <Fish>
   <Name>SewerTrilobite</Name>
   <Description>SewerTrilobiteDesc</Description>
@@ -964,7 +954,7 @@
   <Model_Name>fishSewerTrilobite</Model_Name>
   <Fertilizer_Value>15</Fertilizer_Value>
   <Fertilizer_Days>3</Fertilizer_Days>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <FishBowlMaterialState>fishBowlShark</FishBowlMaterialState>
   <CodeVersion>EP3</CodeVersion>
   <DataVersion>EP3</DataVersion>
@@ -973,7 +963,7 @@
   <MaxHuntSkillLevel>10</MaxHuntSkillLevel>
   <MinHuntWeight>10</MinHuntWeight>
   <MaxHuntWeight>1</MaxHuntWeight>
- </Fish>
+</Fish>
 <Fish>
   <Name>SeaSludge</Name>
   <Description>SeaSludgeDesc</Description>
@@ -993,7 +983,7 @@
   <Model_Name>fishSeaSludge</Model_Name>
   <Fertilizer_Value>25</Fertilizer_Value>
   <Fertilizer_Days>4</Fertilizer_Days>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <FishBowlMaterialState>fishBowlBlowfish</FishBowlMaterialState>
   <CodeVersion>EP3</CodeVersion>
   <DataVersion>EP3</DataVersion>
@@ -1002,7 +992,7 @@
   <MaxHuntSkillLevel>10</MaxHuntSkillLevel>
   <MinHuntWeight>10</MinHuntWeight>
   <MaxHuntWeight>1</MaxHuntWeight>
- </Fish>
+</Fish>
 <Fish>
   <Name>StarfishPurple</Name>
   <Description>StarfishPurpleDesc</Description>
@@ -1022,7 +1012,7 @@
   <Model_Name>fishStarfishLinckia</Model_Name>
   <Fertilizer_Value>15</Fertilizer_Value>
   <Fertilizer_Days>3</Fertilizer_Days>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <FishBowlMaterialState>fishBowlSalmon</FishBowlMaterialState>
   <CodeVersion>EP6</CodeVersion>
   <DataVersion>EP6</DataVersion>
@@ -1031,7 +1021,7 @@
   <MaxHuntSkillLevel>10</MaxHuntSkillLevel>
   <MinHuntWeight>1</MinHuntWeight>
   <MaxHuntWeight>10</MaxHuntWeight>
- </Fish>
+</Fish>
 <Fish>
   <Name>StarfishOrange</Name>
   <Description>StarfishOrangeDesc</Description>
@@ -1060,7 +1050,7 @@
   <MaxHuntSkillLevel>10</MaxHuntSkillLevel>
   <MinHuntWeight>1</MinHuntWeight>
   <MaxHuntWeight>10</MaxHuntWeight>
- </Fish>
+</Fish>
 <Fish>
   <Name>StarfishSilver</Name>
   <Description>StarfishSilverDesc</Description>
@@ -1080,7 +1070,7 @@
   <Model_Name>fishStarfishNinja</Model_Name>
   <Fertilizer_Value>20</Fertilizer_Value>
   <Fertilizer_Days>4</Fertilizer_Days>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <FishBowlMaterialState>fishBowlRobotfish</FishBowlMaterialState>
   <CodeVersion>EP6</CodeVersion>
   <DataVersion>EP6</DataVersion>
@@ -1089,7 +1079,7 @@
   <MaxHuntSkillLevel>10</MaxHuntSkillLevel>
   <MinHuntWeight>10</MinHuntWeight>
   <MaxHuntWeight>1</MaxHuntWeight>
- </Fish>
+</Fish>
 <Fish>
   <Name>Toad</Name>
   <Description>ToadDesc</Description>
@@ -1109,7 +1099,7 @@
   <Model_Name>fishToad</Model_Name>
   <Fertilizer_Value>5</Fertilizer_Value>
   <Fertilizer_Days>3</Fertilizer_Days>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <FishBowlMaterialState>fishBowlTuna</FishBowlMaterialState>
   <CodeVersion>EP7</CodeVersion>
   <DataVersion>EP7</DataVersion>
@@ -1118,7 +1108,7 @@
   <MaxHuntSkillLevel>10</MaxHuntSkillLevel>
   <MinHuntWeight>10</MinHuntWeight>
   <MaxHuntWeight>1</MaxHuntWeight>
- </Fish>
+</Fish>
 <Fish>
   <Name>LuminousSalamander</Name>
   <Description>LuminousSalamanderDesc</Description>
@@ -1138,7 +1128,7 @@
   <Model_Name>fishLuminousSalamander</Model_Name>
   <Fertilizer_Value>5</Fertilizer_Value>
   <Fertilizer_Days>3</Fertilizer_Days>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <FishBowlMaterialState>fishBowlLobster</FishBowlMaterialState>
   <CodeVersion>EP7</CodeVersion>
   <DataVersion>EP7</DataVersion>
@@ -1148,7 +1138,7 @@
   <MinHuntWeight>10</MinHuntWeight>
   <MaxHuntWeight>1</MaxHuntWeight>
   <EdibleRawAnimation>fish6</EdibleRawAnimation>
- </Fish>
+</Fish>
 <Fish>
   <Name>FairyDamsel</Name>
   <Description>FairyDamselDesc</Description>
@@ -1168,7 +1158,7 @@
   <Model_Name>fishFairyDamsel</Model_Name>
   <Fertilizer_Value>10</Fertilizer_Value>
   <Fertilizer_Days>4</Fertilizer_Days>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <FishBowlMaterialState>fishBowlRainbowTrout</FishBowlMaterialState>
   <CodeVersion>EP7</CodeVersion>
   <DataVersion>EP7</DataVersion>
@@ -1177,7 +1167,7 @@
   <MaxHuntSkillLevel>10</MaxHuntSkillLevel>
   <MinHuntWeight>1</MinHuntWeight>
   <MaxHuntWeight>10</MaxHuntWeight>
- </Fish>
+</Fish>
 <Fish>
   <Name>SeaUrchin</Name>
   <Description>SeaUrchinDesc</Description>
@@ -1196,7 +1186,7 @@
   <Model_Name>fishSeaurchin</Model_Name>
   <Fertilizer_Value>5</Fertilizer_Value>
   <Fertilizer_Days>3</Fertilizer_Days>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <FishBowlMaterialState>fishBowlTuna</FishBowlMaterialState>
   <CodeVersion>EP10</CodeVersion>
   <DataVersion>EP10</DataVersion>
@@ -1205,7 +1195,7 @@
   <MaxHuntSkillLevel>0</MaxHuntSkillLevel>
   <MinHuntWeight>0</MinHuntWeight>
   <MaxHuntWeight>0</MaxHuntWeight>
- </Fish>
+</Fish>
 <Fish>
   <Name>Anemone</Name>
   <Description>AnemoneDesc</Description>
@@ -1224,7 +1214,7 @@
   <Model_Name>fishAnemone</Model_Name>
   <Fertilizer_Value>5</Fertilizer_Value>
   <Fertilizer_Days>3</Fertilizer_Days>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <FishBowlMaterialState>fishBowlTuna</FishBowlMaterialState>
   <CodeVersion>EP10</CodeVersion>
   <DataVersion>EP10</DataVersion>
@@ -1233,7 +1223,7 @@
   <MaxHuntSkillLevel>0</MaxHuntSkillLevel>
   <MinHuntWeight>0</MinHuntWeight>
   <MaxHuntWeight>0</MaxHuntWeight>
- </Fish>
+</Fish>
 <Fish>
   <Name>Polyp</Name>
   <Description>PolypDesc</Description>
@@ -1252,7 +1242,7 @@
   <Model_Name>fishPolyp</Model_Name>
   <Fertilizer_Value>5</Fertilizer_Value>
   <Fertilizer_Days>3</Fertilizer_Days>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <FishBowlMaterialState>fishBowlTuna</FishBowlMaterialState>
   <CodeVersion>EP10</CodeVersion>
   <DataVersion>EP10</DataVersion>
@@ -1261,7 +1251,7 @@
   <MaxHuntSkillLevel>0</MaxHuntSkillLevel>
   <MinHuntWeight>0</MinHuntWeight>
   <MaxHuntWeight>0</MaxHuntWeight>
- </Fish>
+</Fish>
 <Fish>
   <Name>HermitCrab</Name>
   <Description>HermitCrabDesc</Description>
@@ -1280,7 +1270,7 @@
   <Model_Name>FishHermitCrab</Model_Name>
   <Fertilizer_Value>5</Fertilizer_Value>
   <Fertilizer_Days>3</Fertilizer_Days>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <FishBowlMaterialState>fishBowlTuna</FishBowlMaterialState>
   <CodeVersion>EP10</CodeVersion>
   <DataVersion>EP10</DataVersion>
@@ -1289,7 +1279,7 @@
   <MaxHuntSkillLevel>0</MaxHuntSkillLevel>
   <MinHuntWeight>0</MinHuntWeight>
   <MaxHuntWeight>0</MaxHuntWeight>
- </Fish>
+</Fish>
 <Fish>
   <Name>Octopus</Name>
   <Description>OctopusDesc</Description>
@@ -1308,7 +1298,7 @@
   <Model_Name>FishOctopus</Model_Name>
   <Fertilizer_Value>10</Fertilizer_Value>
   <Fertilizer_Days>3</Fertilizer_Days>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <FishBowlMaterialState>fishBowlTuna</FishBowlMaterialState>
   <CodeVersion>EP10</CodeVersion>
   <DataVersion>EP10</DataVersion>
@@ -1317,7 +1307,7 @@
   <MaxHuntSkillLevel>0</MaxHuntSkillLevel>
   <MinHuntWeight>0</MinHuntWeight>
   <MaxHuntWeight>0</MaxHuntWeight>
- </Fish>
+</Fish>
 <Fish>
   <Name>Squid</Name>
   <Description>SquidDesc</Description>
@@ -1336,7 +1326,7 @@
   <Model_Name>FishSquid</Model_Name>
   <Fertilizer_Value>10</Fertilizer_Value>
   <Fertilizer_Days>3</Fertilizer_Days>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <FishBowlMaterialState>fishBowlTuna</FishBowlMaterialState>
   <CodeVersion>EP10</CodeVersion>
   <DataVersion>EP10</DataVersion>
@@ -1345,7 +1335,7 @@
   <MaxHuntSkillLevel>0</MaxHuntSkillLevel>
   <MinHuntWeight>0</MinHuntWeight>
   <MaxHuntWeight>0</MaxHuntWeight>
- </Fish>
+</Fish>
 <Fish>
   <Name>Eel</Name>
   <Description>EelDesc</Description>
@@ -1364,7 +1354,7 @@
   <Model_Name>FishEel</Model_Name>
   <Fertilizer_Value>15</Fertilizer_Value>
   <Fertilizer_Days>3</Fertilizer_Days>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <FishBowlMaterialState>fishBowlTuna</FishBowlMaterialState>
   <CodeVersion>EP10</CodeVersion>
   <DataVersion>EP10</DataVersion>
@@ -1373,7 +1363,7 @@
   <MaxHuntSkillLevel>0</MaxHuntSkillLevel>
   <MinHuntWeight>0</MinHuntWeight>
   <MaxHuntWeight>0</MaxHuntWeight>
- </Fish>
+</Fish>
 <Fish>
   <Name>Seahorse</Name>
   <Description>SeahorseDesc</Description>
@@ -1392,7 +1382,7 @@
   <Model_Name>FishSeahorse</Model_Name>
   <Fertilizer_Value>5</Fertilizer_Value>
   <Fertilizer_Days>3</Fertilizer_Days>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <FishBowlMaterialState>fishBowlTuna</FishBowlMaterialState>
   <CodeVersion>EP10</CodeVersion>
   <DataVersion>EP10</DataVersion>
@@ -1401,7 +1391,7 @@
   <MaxHuntSkillLevel>0</MaxHuntSkillLevel>
   <MinHuntWeight>0</MinHuntWeight>
   <MaxHuntWeight>0</MaxHuntWeight>
- </Fish>
+</Fish>
 <Fish>
   <Name>ThreeEyedFish</Name>
   <Description>ThreeEyedFishDesc</Description>
@@ -1421,17 +1411,16 @@
   <Model_Name>Fish3Eyed</Model_Name>
   <Fertilizer_Value>10</Fertilizer_Value>
   <Fertilizer_Days>4</Fertilizer_Days>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <FishBowlMaterialState>fishBowlThreeEyedFish</FishBowlMaterialState>
   <CodeVersion>EP11</CodeVersion>
   <DataVersion>EP11</DataVersion>
-  <RequiredWorld>FutureWorld</RequiredWorld>
   <Rarity>Common</Rarity>
   <MinHuntSkillLevel>1</MinHuntSkillLevel>
   <MaxHuntSkillLevel>10</MaxHuntSkillLevel>
   <MinHuntWeight>10</MinHuntWeight>
   <MaxHuntWeight>1</MaxHuntWeight>
- </Fish>
+</Fish>
 <Fish>
   <Name>RainbowSnail</Name>
   <Description>RainbowSnailDesc</Description>
@@ -1451,22 +1440,21 @@
   <Model_Name>fishSnailRainbow</Model_Name>
   <Fertilizer_Value>5</Fertilizer_Value>
   <Fertilizer_Days>3</Fertilizer_Days>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <FishBowlMaterialState>fishBowlRainbowTrout</FishBowlMaterialState>
   <CodeVersion>EP11</CodeVersion>
   <DataVersion>EP11</DataVersion>
-  <RequiredWorld>FutureWorld</RequiredWorld>
   <Rarity>Common</Rarity>
   <MinHuntSkillLevel>2</MinHuntSkillLevel>
   <MaxHuntSkillLevel>10</MaxHuntSkillLevel>
   <MinHuntWeight>1</MinHuntWeight>
   <MaxHuntWeight>10</MaxHuntWeight>
- </Fish>
+</Fish>
 <Spawner>
   <SpawnerClassName></SpawnerClassName>
   <InactiveFish>Minnow</InactiveFish>
   <InactiveProbability>1</InactiveProbability>
-  <AvgLength>30</AvgLength>
+  <AvgLength>1</AvgLength>
   <MaxRange>1</MaxRange>
   <ActiveMaxFish>0</ActiveMaxFish>
   <ActiveFish></ActiveFish>
@@ -1475,517 +1463,517 @@
   <HourActive>-1</HourActive>
   <HourDepletionStarts>-1</HourDepletionStarts>
   <HourInactive>-1</HourInactive>
- </Spawner>
+</Spawner>
 <Spawner>
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner1</SpawnerClassName>
-  <InactiveFish>None, Box,  Anchovy, Jellyfish, RedHerring, Blowfish, Salmon, Swordfish, StarFishOrange</InactiveFish>
-  <InactiveProbability>8,2,10,15,10,5,14,15,4</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <InactiveFish>None,Box,Anchovy,Jellyfish,RedHerring,Blowfish,Salmon,Swordfish,StarFishOrange</InactiveFish>
+  <InactiveProbability>1,100,100,100,100,100,100,100,100</InactiveProbability>
+  <AvgLength>1</AvgLength>
   <MaxRange>10</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
-  <ActiveFish>None, Box,  Anchovy, Jellyfish, RedHerring,Blowfish, Salmon, Swordfish, StarFishOrange</ActiveFish>
-  <ActiveProbability>10,2,10,15,10,10,20,25,10</ActiveProbability>
-  <ActiveVfx>fishanchovyactive, fishanchovyactive, fishblowfishactive</ActiveVfx>
+  <ActiveFish>None,Box,Anchovy,Jellyfish,RedHerring,Blowfish,Salmon,Swordfish,StarFishOrange</ActiveFish>
+  <ActiveProbability>1,100,100,100,100,100,100,100,100</ActiveProbability>
+  <ActiveVfx>fishanchovyactive,fishanchovyactive,fishblowfishactive</ActiveVfx>
   <HourActive>4</HourActive>
   <HourDepletionStarts>6</HourDepletionStarts>
- </Spawner>
+</Spawner>
 <Spawner>
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner2</SpawnerClassName>
-  <InactiveFish>None, Box,  Anchovy, Jellyfish, RedHerring,Tuna, TragicClownfish, Shark, Lobster</InactiveFish>
-  <InactiveProbability>8,2,10,9,10,15,5,5,10</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <InactiveFish>None,Box,Anchovy,Jellyfish,RedHerring,Tuna,TragicClownfish,Shark,Lobster</InactiveFish>
+  <InactiveProbability>1,100,100,100,100,100,100,100,100</InactiveProbability>
+  <AvgLength>1</AvgLength>
   <MaxRange>10</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
-  <ActiveFish>None, Box,  Anchovy, Jellyfish, RedHerring,Tuna, TragicClownfish, Shark, Lobster</ActiveFish>
-  <ActiveProbability>10,2,10,9,10,15,10,15,20</ActiveProbability>
+  <ActiveFish>None,Box,Anchovy,Jellyfish,RedHerring,Tuna,TragicClownfish,Shark,Lobster</ActiveFish>
+  <ActiveProbability>1,100,100,100,100,100,100,100,100</ActiveProbability>
   <ActiveVfx>fishTunaactive,fishtragicclownfishactive,fishsharkactive</ActiveVfx>
   <HourActive>4</HourActive>
   <HourDepletionStarts>6</HourDepletionStarts>
- </Spawner>
+</Spawner>
 <Spawner>
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner3</SpawnerClassName>
-  <InactiveFish>None, Box,  AlleyCatfish, RedHerring,TragicClownfish, Tuna, SiameseCatfish, Shark, Lobster, StarFishPurple, LuminousSalamander</InactiveFish>
-  <InactiveProbability>8, 2, 15, 10, 5, 10, 15, 11, 10, 8, 8</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <InactiveFish>None,Box,AlleyCatfish,RedHerring,TragicClownfish,Tuna,SiameseCatfish,Shark,Lobster,StarFishPurple,LuminousSalamander</InactiveFish>
+  <InactiveProbability>1,100,100,100,100,100,100,100,100,100,100</InactiveProbability>
+  <AvgLength>1</AvgLength>
   <MaxRange>10</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
-  <ActiveFish>None, Box,  AlleyCatfish, RedHerring,Tuna, TragicClownfish, SiameseCatfish, Shark, Lobster, StarFishPurple,LuminousSalamander</ActiveFish>
-  <ActiveProbability>10, 2, 25, 5, 10, 6, 25, 15, 10, 15, 15</ActiveProbability>
-  <ActiveVfx>fishsharkactive, fishalleycatfishactive, fishsiamesecatfishactive</ActiveVfx>
+  <ActiveFish>None,Box,AlleyCatfish,RedHerring,Tuna,TragicClownfish,SiameseCatfish,Shark,Lobster,StarFishPurple,LuminousSalamander</ActiveFish>
+  <ActiveProbability>1,100,100,100,100,100,100,100,100,100,100</ActiveProbability>
+  <ActiveVfx>fishsharkactive,fishalleycatfishactive,fishsiamesecatfishactive</ActiveVfx>
   <HourActive>4</HourActive>
   <HourDepletionStarts>6</HourDepletionStarts>
- </Spawner>
+</Spawner>
 <Spawner>
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner4</SpawnerClassName>
-  <InactiveFish>None, Box,  Jellyfish, RedHerring,Blowfish, Angelfish, Swordfish, LuminousSalamander</InactiveFish>
-  <InactiveProbability>8, 2, 15, 10, 15, 10, 15, 15</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <InactiveFish>None,Box,Jellyfish,RedHerring,Blowfish,Angelfish,Swordfish,LuminousSalamander</InactiveFish>
+  <InactiveProbability>1,100,100,100,100,100,100,100</InactiveProbability>
+  <AvgLength>1</AvgLength>
   <MaxRange>10</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
-  <ActiveFish>None, Box,  Jellyfish, RedHerring,Blowfish, Angelfish, Swordfish,LuminousSalamander,FairyDamsel</ActiveFish>
-  <ActiveProbability>10, 2, 25, 5, 25, 15, 25,15,5</ActiveProbability>
-  <ActiveVfx>fishblowfishactive, fishjellyfishactive, fishjellyfishactive</ActiveVfx>
+  <ActiveFish>None,Box,Jellyfish,RedHerring,Blowfish,Angelfish,Swordfish,LuminousSalamander,FairyDamsel</ActiveFish>
+  <ActiveProbability>1,100,100,100,100,100,100,100,100</ActiveProbability>
+  <ActiveVfx>fishblowfishactive,fishjellyfishactive,fishjellyfishactive</ActiveVfx>
   <HourActive>4</HourActive>
   <HourDepletionStarts>6</HourDepletionStarts>
- </Spawner>
+</Spawner>
 <Spawner>
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner5</SpawnerClassName>
-  <InactiveFish>None, Box, RedHerring, TragicClownfish, Blowfish, Shark, Angelfish, StarFishSilver, LuminousSalamander, FairyDamsel</InactiveFish>
-  <InactiveProbability>10, 1, 5, 15, 10, 15, 15, 5, 5, 10</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <InactiveFish>None,Box,RedHerring,TragicClownfish,Blowfish,Shark,Angelfish,StarFishSilver,LuminousSalamander,FairyDamsel</InactiveFish>
+  <InactiveProbability>1,100,100,100,100,100,100,100,100,100</InactiveProbability>
+  <AvgLength>1</AvgLength>
   <MaxRange>10</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
-  <ActiveFish>None, Box, RedHerring, TragicClownfish, Blowfish, Shark, Angelfish, StarFishSilver, LuminousSalamander, FairyDamsel</ActiveFish>
-  <ActiveProbability>10, 1, 5, 25, 15, 25, 25, 5, 10, 25</ActiveProbability>
-  <ActiveVfx>fishblowfishactive, fishsharkactive, fishtragicclownfishactive</ActiveVfx>
+  <ActiveFish>None,Box,RedHerring,TragicClownfish,Blowfish,Shark,Angelfish,StarFishSilver,LuminousSalamander,FairyDamsel</ActiveFish>
+  <ActiveProbability>1,100,100,100,100,100,100,100,100,100</ActiveProbability>
+  <ActiveVfx>fishblowfishactive,fishsharkactive,fishtragicclownfishactive</ActiveVfx>
   <HourActive>4</HourActive>
   <HourDepletionStarts>6</HourDepletionStarts>
- </Spawner>
+</Spawner>
 <Spawner>
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner6</SpawnerClassName>
-  <InactiveFish>None,Box,  Minnow, Goldfish, RainbowTrout, RedHerring,SiameseCatfish, BlackGoldfish, Toad</InactiveFish>
-  <InactiveProbability>8, 2, 10, 9, 15, 10, 5, 10, 10</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <InactiveFish>None,Box,Minnow,Goldfish,RainbowTrout,RedHerring,SiameseCatfish,BlackGoldfish,Toad</InactiveFish>
+  <InactiveProbability>1,100,100,100,100,100,100,100,100</InactiveProbability>
+  <AvgLength>1</AvgLength>
   <MaxRange>5</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
-  <ActiveFish>None,Box,  Minnow, Goldfish, RainbowTrout, RedHerring,SiameseCatfish, BlackGoldfish,Toad</ActiveFish>
-  <ActiveProbability>10, 2, 10, 15, 20,10, 10, 15, 15</ActiveProbability>
-  <ActiveVfx>fishminnowactive, fishsiamesecatfishactive, fishblackgoldfishactive</ActiveVfx>
+  <ActiveFish>None,Box,Minnow,Goldfish,RainbowTrout,RedHerring,SiameseCatfish,BlackGoldfish,Toad</ActiveFish>
+  <ActiveProbability>1,100,100,100,100,100,100,100,100</ActiveProbability>
+  <ActiveVfx>fishminnowactive,fishsiamesecatfishactive,fishblackgoldfishactive</ActiveVfx>
   <HourActive>4</HourActive>
   <HourDepletionStarts>6</HourDepletionStarts>
- </Spawner>
+</Spawner>
 <Spawner>
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner7</SpawnerClassName>
-  <InactiveFish>None, Box,  Minnow, Goldfish, RedHerring,Salmon, Angelfish, Lobster, Toad</InactiveFish>
-  <InactiveProbability>8, 2, 10, 10, 10, 15, 5, 5, 10</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <InactiveFish>None,Box,Minnow,Goldfish,RedHerring,Salmon,Angelfish,Lobster,Toad</InactiveFish>
+  <InactiveProbability>1,100,100,100,100,100,100,100,100</InactiveProbability>
+  <AvgLength>1</AvgLength>
   <MaxRange>5</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
-  <ActiveFish>None, Box,  Minnow, Goldfish, RedHerring,Salmon, Angelfish, Lobster, Toad</ActiveFish>
-  <ActiveProbability>10, 2, 15, 20, 10, 25, 10, 10, 15</ActiveProbability>
-  <ActiveVfx>fishangelfishactive, fishgoldfishactive, fishminnowactive</ActiveVfx>
+  <ActiveFish>None,Box,Minnow,Goldfish,RedHerring,Salmon,Angelfish,Lobster,Toad</ActiveFish>
+  <ActiveProbability>1,100,100,100,100,100,100,100,100</ActiveProbability>
+  <ActiveVfx>fishangelfishactive,fishgoldfishactive,fishminnowactive</ActiveVfx>
   <HourActive>4</HourActive>
   <HourDepletionStarts>6</HourDepletionStarts>
- </Spawner>
+</Spawner>
 <Spawner>
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner8</SpawnerClassName>
-  <InactiveFish>None,Box, Goldfish, RainbowTrout, RedHerring,Piranha, Shark, Lobster, LuminousSalamander</InactiveFish>
-  <InactiveProbability>8, 2, 10, 15, 5, 20, 5, 11, 10</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <InactiveFish>None,Box,Goldfish,RainbowTrout,RedHerring,Piranha,Shark,Lobster,LuminousSalamander</InactiveFish>
+  <InactiveProbability>1,100,100,100,100,100,100,100,100</InactiveProbability>
+  <AvgLength>1</AvgLength>
   <MaxRange>5</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
-  <ActiveFish>None,Box, Goldfish, RainbowTrout, RedHerring,Piranha, Shark, Lobster, LuminousSalamander</ActiveFish>
-  <ActiveProbability>10, 2, 10, 15, 5, 30, 20, 30, 15</ActiveProbability>
-  <ActiveVfx>fishgoldfishactive, fishgoldfishactive, fishsharkactive</ActiveVfx>
+  <ActiveFish>None,Box,Goldfish,RainbowTrout,RedHerring,Piranha,Shark,Lobster,LuminousSalamander</ActiveFish>
+  <ActiveProbability>1,100,100,100,100,100,100,100,100</ActiveProbability>
+  <ActiveVfx>fishgoldfishactive,fishgoldfishactive,fishsharkactive</ActiveVfx>
   <HourActive>4</HourActive>
   <HourDepletionStarts>6</HourDepletionStarts>
- </Spawner>
+</Spawner>
 <Spawner>
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner9</SpawnerClassName>
-  <InactiveFish>None,Box, AlleyCatfish, RainbowTrout, RedHerring,Salmon, Angelfish, LuminousSalamander,Toad</InactiveFish>
-  <InactiveProbability>8, 2, 15, 15, 5, 10, 15, 10, 5</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <InactiveFish>None,Box,AlleyCatfish,RainbowTrout,RedHerring,Salmon,Angelfish,LuminousSalamander,Toad</InactiveFish>
+  <InactiveProbability>1,100,100,100,100,100,100,100,100</InactiveProbability>
+  <AvgLength>1</AvgLength>
   <MaxRange>5</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
-  <ActiveFish>None,Box, AlleyCatfish, RainbowTrout, RedHerring,Salmon, Angelfish, LuminousSalamander,Toad</ActiveFish>
-  <ActiveProbability>10, 2,  20, 15, 5, 10, 25, 30,10</ActiveProbability>
-  <ActiveVfx>fishsalmonactive, fishangelfishactive, fishalleycatfishactive</ActiveVfx>
+  <ActiveFish>None,Box,AlleyCatfish,RainbowTrout,RedHerring,Salmon,Angelfish,LuminousSalamander,Toad</ActiveFish>
+  <ActiveProbability>1,100,100,100,100,100,100,100,100</ActiveProbability>
+  <ActiveVfx>fishsalmonactive,fishangelfishactive,fishalleycatfishactive</ActiveVfx>
   <HourActive>4</HourActive>
   <HourDepletionStarts>6</HourDepletionStarts>
- </Spawner>
+</Spawner>
 <Spawner>
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner10</SpawnerClassName>
-  <InactiveFish>None,Box,RedHerring, Piranha, BlackGoldfish, Shark, Angelfish, Vampirefish, Lobster</InactiveFish>
-  <InactiveProbability>8, 1, 5, 20, 10, 11, 25, 2, 10</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <InactiveFish>None,Box,RedHerring,Piranha,BlackGoldfish,Shark,Angelfish,Vampirefish,Lobster</InactiveFish>
+  <InactiveProbability>1,100,100,100,100,100,100,100,100</InactiveProbability>
+  <AvgLength>1</AvgLength>
   <MaxRange>5</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
-  <ActiveFish>None,Box,RedHerring, Piranha, BlackGoldfish, Shark, Angelfish, Vampirefish, Lobster</ActiveFish>
-  <ActiveProbability>10, 1, 5, 20, 10, 11, 25, 5, 15</ActiveProbability>
-  <ActiveVfx>fishsharkactive, fishpiranhaactive, fishpiranhaactive,</ActiveVfx>
+  <ActiveFish>None,Box,RedHerring,Piranha,BlackGoldfish,Shark,Angelfish,Vampirefish,Lobster</ActiveFish>
+  <ActiveProbability>1,100,100,100,100,100,100,100,100</ActiveProbability>
+  <ActiveVfx>fishsharkactive,fishpiranhaactive,fishpiranhaactive,</ActiveVfx>
   <HourActive>4</HourActive>
   <HourDepletionStarts>6</HourDepletionStarts>
- </Spawner>
+</Spawner>
 <Spawner>
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner11</SpawnerClassName>
-  <InactiveFish>None, Box, RedHerring, BlackGoldfish, VampireFish, RobotFish</InactiveFish>
-  <InactiveProbability>60, 4, 40, 50, 2, 5</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <InactiveFish>None,Box,RedHerring,BlackGoldfish,VampireFish,RobotFish</InactiveFish>
+  <InactiveProbability>1,100,100,100,100,100</InactiveProbability>
+  <AvgLength>1</AvgLength>
   <MaxRange>5</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
-  <ActiveFish>None, Box, RedHerring, BlackGoldfish, VampireFish, RobotFish</ActiveFish>
-  <ActiveProbability>10, 3, 40, 50, 5, 10</ActiveProbability>
-  <ActiveVfx>fishredherringactive, fishblackgoldfishactive</ActiveVfx>
+  <ActiveFish>None,Box,RedHerring,BlackGoldfish,VampireFish,RobotFish</ActiveFish>
+  <ActiveProbability>1,100,100,100,100,100</ActiveProbability>
+  <ActiveVfx>fishredherringactive,fishblackgoldfishactive</ActiveVfx>
   <HourActive>4</HourActive>
   <HourDepletionStarts>6</HourDepletionStarts>
- </Spawner>
+</Spawner>
 <Spawner>
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner12</SpawnerClassName>
-  <InactiveFish>None,Box,RedHerring, VampireFish</InactiveFish>
-  <InactiveProbability>100, 5,40, 5</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <InactiveFish>None,Box,RedHerring,VampireFish</InactiveFish>
+  <InactiveProbability>1,100,100,100</InactiveProbability>
+  <AvgLength>1</AvgLength>
   <MaxRange>5</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
-  <ActiveFish>None,Box,VampireFish, Deathfish</ActiveFish>
-  <ActiveProbability>50, 2, 5, 10</ActiveProbability>
+  <ActiveFish>None,Box,VampireFish,Deathfish</ActiveFish>
+  <ActiveProbability>1,100,100,100</ActiveProbability>
   <ActiveVfx>fishdeathfishactive</ActiveVfx>
   <HourActive>0</HourActive>
   <HourDepletionStarts>0</HourDepletionStarts>
   <HourInactive>5</HourInactive>
- </Spawner>
+</Spawner>
 <Spawner>
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner13</SpawnerClassName>
-  <InactiveFish>None, Box, Minnow, Goldfish, RainbowTrout, RedHerring, Salmon</InactiveFish>
-  <InactiveProbability>15,2,10,10,10,5,10</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <InactiveFish>None,Box,Minnow,Goldfish,RainbowTrout,RedHerring,Salmon</InactiveFish>
+  <InactiveProbability>1,100,100,100,100,100,100</InactiveProbability>
+  <AvgLength>1</AvgLength>
   <MaxRange>46</MaxRange>
   <HourActive>-1</HourActive>
   <HourDepletionStarts>-1</HourDepletionStarts>
- </Spawner>
+</Spawner>
 <Spawner>
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner14</SpawnerClassName>
-  <InactiveFish>None, Box, Anchovy, Jellyfish, RedHerring, Tuna, Salmon, Swordfish,TragicClownfish</InactiveFish>
-  <InactiveProbability>15,2,10,10,5,10,10,10,3</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <InactiveFish>None,Box,Anchovy,Jellyfish,RedHerring,Tuna,Salmon,Swordfish,TragicClownfish</InactiveFish>
+  <InactiveProbability>1,100,100,100,100,100,100,100,100</InactiveProbability>
+  <AvgLength>1</AvgLength>
   <MaxRange>46</MaxRange>
   <HourActive>-1</HourActive>
   <HourDepletionStarts>-1</HourDepletionStarts>
- </Spawner>
+</Spawner>
 <Spawner>
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner15</SpawnerClassName>
-  <InactiveFish>None, Box, Frogs, AlleyCatfish, RedHerring,SiameseCatfish, Crocodile, Toad</InactiveFish>
-  <InactiveProbability>8,2,15,15,10,5,11,15</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <InactiveFish>None,Box,Frogs,AlleyCatfish,RedHerring,SiameseCatfish,Crocodile,Toad</InactiveFish>
+  <InactiveProbability>1,100,100,100,100,100,100,100</InactiveProbability>
+  <AvgLength>1</AvgLength>
   <MaxRange>5</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
-  <ActiveFish>None, Box, Frogs, AlleyCatfish, RedHerring,SiameseCatfish, Crocodile, Toad</ActiveFish>
-  <ActiveProbability>10,2,15,20,10,10,20,15</ActiveProbability>
-  <ActiveVfx>fishfrogactive, fishalleycatfishactive, fishcrocodileactive</ActiveVfx>
+  <ActiveFish>None,Box,Frogs,AlleyCatfish,RedHerring,SiameseCatfish,Crocodile,Toad</ActiveFish>
+  <ActiveProbability>1,100,100,100,100,100,100,100</ActiveProbability>
+  <ActiveVfx>fishfrogactive,fishalleycatfishactive,fishcrocodileactive</ActiveVfx>
   <HourActive>4</HourActive>
   <HourDepletionStarts>6</HourDepletionStarts>
- </Spawner>
+</Spawner>
 <Spawner>
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner16</SpawnerClassName>
-  <InactiveFish>None, Box, Frogs, AlleyCatfish, RedHerring, SiameseCatfish, Crocodile, Toad</InactiveFish>
-  <InactiveProbability>8,2,5,15,5,11,15,5</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <InactiveFish>None,Box,Frogs,AlleyCatfish,RedHerring,SiameseCatfish,Crocodile,Toad</InactiveFish>
+  <InactiveProbability>1,100,100,100,100,100,100,100</InactiveProbability>
+  <AvgLength>1</AvgLength>
   <MaxRange>5</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
-  <ActiveFish>None, Box, Frogs, AlleyCatfish, RedHerring, SiameseCatfish, Crocodile, Toad</ActiveFish>
-  <ActiveProbability>10,2,5,20,5,16,20,5</ActiveProbability>
-  <ActiveVfx>fishalleycatfishactive, fishsiamesecatfishactive, fishcrocodileactive</ActiveVfx>
+  <ActiveFish>None,Box,Frogs,AlleyCatfish,RedHerring,SiameseCatfish,Crocodile,Toad</ActiveFish>
+  <ActiveProbability>1,100,100,100,100,100,100,100</ActiveProbability>
+  <ActiveVfx>fishalleycatfishactive,fishsiamesecatfishactive,fishcrocodileactive</ActiveVfx>
   <HourActive>4</HourActive>
   <HourDepletionStarts>6</HourDepletionStarts>
- </Spawner>
+</Spawner>
 <Spawner>
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner17</SpawnerClassName>
-  <InactiveFish>None, Box, AlleyCatfish, RedHerring,SiameseCatfish, Salmon, Crocodile</InactiveFish>
-  <InactiveProbability>8,2,15,10,10,11,15</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <InactiveFish>None,Box,AlleyCatfish,RedHerring,SiameseCatfish,Salmon,Crocodile</InactiveFish>
+  <InactiveProbability>1,100,100,100,100,100,100</InactiveProbability>
+  <AvgLength>1</AvgLength>
   <MaxRange>10</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
-  <ActiveFish>None, Box, AlleyCatfish, RedHerring,SiameseCatfish, Salmon, Crocodile</ActiveFish>
-  <ActiveProbability>10,2,20,10,15,20,25</ActiveProbability>
-  <ActiveVfx>fishalleycatfishactive, fishsalmonactive, fishcrocodileactive</ActiveVfx>
+  <ActiveFish>None,Box,AlleyCatfish,RedHerring,SiameseCatfish,Salmon,Crocodile</ActiveFish>
+  <ActiveProbability>1,100,100,100,100,100,100</ActiveProbability>
+  <ActiveVfx>fishalleycatfishactive,fishsalmonactive,fishcrocodileactive</ActiveVfx>
   <HourActive>4</HourActive>
   <HourDepletionStarts>6</HourDepletionStarts>
- </Spawner>
+</Spawner>
 <Spawner>
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner18</SpawnerClassName>
-  <InactiveFish>None, Box, AlleyCatfish, RedHerring, SiameseCatfish, Salmon, Crocodile, Lobster</InactiveFish>
-  <InactiveProbability>8,2,10,5,15,10,20,15</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <InactiveFish>None,Box,AlleyCatfish,RedHerring,SiameseCatfish,Salmon,Crocodile,Lobster</InactiveFish>
+  <InactiveProbability>1,100,100,100,100,100,100,100</InactiveProbability>
+  <AvgLength>1</AvgLength>
   <MaxRange>10</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
-  <ActiveFish>None, Box, AlleyCatfish, RedHerring, SiameseCatfish, Salmon, Crocodile, Lobster</ActiveFish>
-  <ActiveProbability>10,2,15,5,25,15,40,20</ActiveProbability>
-  <ActiveVfx>fishsiamesecatfishactive, fishcrocodileactive</ActiveVfx>
+  <ActiveFish>None,Box,AlleyCatfish,RedHerring,SiameseCatfish,Salmon,Crocodile,Lobster</ActiveFish>
+  <ActiveProbability>1,100,100,100,100,100,100,100</ActiveProbability>
+  <ActiveVfx>fishsiamesecatfishactive,fishcrocodileactive</ActiveVfx>
   <HourActive>4</HourActive>
   <HourDepletionStarts>6</HourDepletionStarts>
- </Spawner>
+</Spawner>
 <Spawner>
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner19</SpawnerClassName>
-  <InactiveFish>None, Box, MummyFish</InactiveFish>
-  <InactiveProbability>100, 4, 20</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <InactiveFish>None,Box,MummyFish</InactiveFish>
+  <InactiveProbability>1,100,100</InactiveProbability>
+  <AvgLength>1</AvgLength>
   <MaxRange>5</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
-  <ActiveFish>None, Box, MummyFish</ActiveFish>
-  <ActiveProbability>50, 1, 35</ActiveProbability>
-  <ActiveVfx>fishmummyfishactive, fishmummyfishactive</ActiveVfx>
+  <ActiveFish>None,Box,MummyFish</ActiveFish>
+  <ActiveProbability>1,100,100</ActiveProbability>
+  <ActiveVfx>fishmummyfishactive,fishmummyfishactive</ActiveVfx>
   <HourActive>4</HourActive>
   <HourDepletionStarts>6</HourDepletionStarts>
- </Spawner>
+</Spawner>
 <Spawner>
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner20</SpawnerClassName>
-  <InactiveFish>None, Box, DoitsuKoi, Goldfish, RedHerring, KawarimonoKoi, Angelfish</InactiveFish>
-  <InactiveProbability>8,2,15,10,15,15,5</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <InactiveFish>None,Box,DoitsuKoi,Goldfish,RedHerring,KawarimonoKoi,Angelfish</InactiveFish>
+  <InactiveProbability>1,100,100,100,100,100,100</InactiveProbability>
+  <AvgLength>1</AvgLength>
   <MaxRange>5</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
-  <ActiveFish>None, Box, DoitsuKoi, Goldfish, RedHerring, KawarimonoKoi, Angelfish</ActiveFish>
-  <ActiveProbability>10,2,20,10,25,20,10</ActiveProbability>
-  <ActiveVfx>fishdoitsuikoiactive, fishredherringactive, fishkawarimmonokoiactive</ActiveVfx>
+  <ActiveFish>None,Box,DoitsuKoi,Goldfish,RedHerring,KawarimonoKoi,Angelfish</ActiveFish>
+  <ActiveProbability>1,100,100,100,100,100,100</ActiveProbability>
+  <ActiveVfx>fishdoitsuikoiactive,fishredherringactive,fishkawarimmonokoiactive</ActiveVfx>
   <HourActive>4</HourActive>
   <HourDepletionStarts>6</HourDepletionStarts>
- </Spawner>
+</Spawner>
 <Spawner>
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner21</SpawnerClassName>
-  <InactiveFish>None, Box, RedHerring, KawarimonoKoi, OchibaKoi, BlackGoldfish, Angelfish</InactiveFish>
-  <InactiveProbability>8,2,5,10,15,15,11</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <InactiveFish>None,Box,RedHerring,KawarimonoKoi,OchibaKoi,BlackGoldfish,Angelfish</InactiveFish>
+  <InactiveProbability>1,100,100,100,100,100,100</InactiveProbability>
+  <AvgLength>1</AvgLength>
   <MaxRange>5</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
-  <ActiveFish>None, Box, RedHerring, KawarimonoKoi, OchibaKoi, BlackGoldfish, Angelfish</ActiveFish>
-  <ActiveProbability>10,2,5,15,25,25,16</ActiveProbability>
-  <ActiveVfx>fishochibakoiactive, fishblackgoldfishactive, fishangelfishactive</ActiveVfx>
+  <ActiveFish>None,Box,RedHerring,KawarimonoKoi,OchibaKoi,BlackGoldfish,Angelfish</ActiveFish>
+  <ActiveProbability>1,100,100,100,100,100,100</ActiveProbability>
+  <ActiveVfx>fishochibakoiactive,fishblackgoldfishactive,fishangelfishactive</ActiveVfx>
   <HourActive>4</HourActive>
   <HourDepletionStarts>6</HourDepletionStarts>
- </Spawner>
+</Spawner>
 <Spawner>
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner22</SpawnerClassName>
-  <InactiveFish>None, Box, RedHerring, KawarimonoKoi, OchibaKoi, BlackGoldfish, TanchoKoi, DragonFish</InactiveFish>
-  <InactiveProbability>8,2,5,15,10,15,11,1</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <InactiveFish>None,Box,RedHerring,KawarimonoKoi,OchibaKoi,BlackGoldfish,TanchoKoi,DragonFish</InactiveFish>
+  <InactiveProbability>1,100,100,100,100,100,100,100</InactiveProbability>
+  <AvgLength>1</AvgLength>
   <MaxRange>5</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
-  <ActiveFish>None, Box, RedHerring, KawarimonoKoi, OchibaKoi, BlackGoldfish, TanchoKoi, DragonFish</ActiveFish>
-  <ActiveProbability>10,2,5,25,15,25,21,3</ActiveProbability>
-  <ActiveVfx>fishkawarimonokoiactive, fishblackgoldfishactive, fishtanchokoiactive</ActiveVfx>
+  <ActiveFish>None,Box,RedHerring,KawarimonoKoi,OchibaKoi,BlackGoldfish,TanchoKoi,DragonFish</ActiveFish>
+  <ActiveProbability>1,100,100,100,100,100,100,100</ActiveProbability>
+  <ActiveVfx>fishkawarimonokoiactive,fishblackgoldfishactive,fishtanchokoiactive</ActiveVfx>
   <HourActive>4</HourActive>
   <HourDepletionStarts>6</HourDepletionStarts>
- </Spawner>
+</Spawner>
 <Spawner>
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner23</SpawnerClassName>
-  <InactiveFish>None, Box, Goldfish, KawarimonoKoi, TanchoKoi</InactiveFish>
-  <InactiveProbability>15,1,25,15,11</InactiveProbability>
-  <AvgLength>90</AvgLength>
+  <InactiveFish>None,Box,Goldfish,KawarimonoKoi,TanchoKoi</InactiveFish>
+  <InactiveProbability>1,100,100,100,100</InactiveProbability>
+  <AvgLength>1</AvgLength>
   <MaxRange>3</MaxRange>
   <HourActive>-1</HourActive>
   <HourDepletionStarts>-1</HourDepletionStarts>
- </Spawner>
+</Spawner>
 <Spawner>
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner24</SpawnerClassName>
-  <InactiveFish>None, Box, DoitsuKoi, OchibaKoi, TanchoKoi</InactiveFish>
-  <InactiveProbability>15,1,15,15,11</InactiveProbability>
-  <AvgLength>90</AvgLength>
+  <InactiveFish>None,Box,DoitsuKoi,OchibaKoi,TanchoKoi</InactiveFish>
+  <InactiveProbability>1,100,100,100,100</InactiveProbability>
+  <AvgLength>1</AvgLength>
   <MaxRange>3</MaxRange>
   <HourActive>-1</HourActive>
   <HourDepletionStarts>-1</HourDepletionStarts>
- </Spawner>
+</Spawner>
 <Spawner>
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner25</SpawnerClassName>
-  <InactiveFish>None, Box, TanchoKoi, DragonFish</InactiveFish>
-  <InactiveProbability>100,4,20,20</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <InactiveFish>None,Box,TanchoKoi,DragonFish</InactiveFish>
+  <InactiveProbability>1,100,100,100</InactiveProbability>
+  <AvgLength>1</AvgLength>
   <MaxRange>5</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
-  <ActiveFish>None, Box, TanchoKoi, DragonFish</ActiveFish>
-  <ActiveProbability>50,2,25,25</ActiveProbability>
-  <ActiveVfx>fishtanchokoiactive, fishdragonfishactive</ActiveVfx>
+  <ActiveFish>None,Box,TanchoKoi,DragonFish</ActiveFish>
+  <ActiveProbability>1,100,100,100</ActiveProbability>
+  <ActiveVfx>fishtanchokoiactive,fishdragonfishactive</ActiveVfx>
   <HourActive>4</HourActive>
   <HourDepletionStarts>6</HourDepletionStarts>
- </Spawner>
+</Spawner>
 <Spawner>
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner26</SpawnerClassName>
-  <InactiveFish>None, Box, Frogs, RainbowTrout, RedHerring, Snails, Crawfish, Toad</InactiveFish>
-  <InactiveProbability>8,2,15,15,15,10,5,15</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <InactiveFish>None,Box,Frogs,RainbowTrout,RedHerring,Snails,Crawfish,Toad</InactiveFish>
+  <InactiveProbability>1,100,100,100,100,100,100,100</InactiveProbability>
+  <AvgLength>1</AvgLength>
   <MaxRange>5</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
-  <ActiveFish>None, Box, Frogs, RainbowTrout, RedHerring, Snails, Crawfish, Toad</ActiveFish>
-  <ActiveProbability>10,2,25,25,15,14,9,25</ActiveProbability>
-  <ActiveVfx>fishfrogsactive, fishrainbowtroutactive, fishredherringactive</ActiveVfx>
+  <ActiveFish>None,Box,Frogs,RainbowTrout,RedHerring,Snails,Crawfish,Toad</ActiveFish>
+  <ActiveProbability>1,100,100,100,100,100,100,100</ActiveProbability>
+  <ActiveVfx>fishfrogsactive,fishrainbowtroutactive,fishredherringactive</ActiveVfx>
   <HourActive>4</HourActive>
   <HourDepletionStarts>6</HourDepletionStarts>
- </Spawner>
+</Spawner>
 <Spawner>
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner27</SpawnerClassName>
-  <InactiveFish>None, Box, Frogs, RainbowTrout, RedHerring, Snails, Crawfish, Toad</InactiveFish>
-  <InactiveProbability>8,2,15,10,15,15,5,15</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <InactiveFish>None,Box,Frogs,RainbowTrout,RedHerring,Snails,Crawfish,Toad</InactiveFish>
+  <InactiveProbability>1,100,100,100,100,100,100,100</InactiveProbability>
+  <AvgLength>1</AvgLength>
   <MaxRange>5</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
-  <ActiveFish>None, Box, Frogs, RainbowTrout, RedHerring, Snails, Crawfish, Toad</ActiveFish>
-  <ActiveProbability>10,2,25,15,25,25,10,25</ActiveProbability>
-  <ActiveVfx>fishfrogsactive, fishredherringactive</ActiveVfx>
+  <ActiveFish>None,Box,Frogs,RainbowTrout,RedHerring,Snails,Crawfish,Toad</ActiveFish>
+  <ActiveProbability>1,100,100,100,100,100,100,100</ActiveProbability>
+  <ActiveVfx>fishfrogsactive,fishredherringactive</ActiveVfx>
   <HourActive>4</HourActive>
   <HourDepletionStarts>6</HourDepletionStarts>
- </Spawner>
+</Spawner>
 <Spawner>
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner28</SpawnerClassName>
-  <InactiveFish>None, Box, Frogs, RainbowTrout, RedHerring, Snails, Crawfish, BlackGoldfish, Toad</InactiveFish>
-  <InactiveProbability>8,2,10,15,5,15,15,5,10</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <InactiveFish>None,Box,Frogs,RainbowTrout,RedHerring,Snails,Crawfish,BlackGoldfish,Toad</InactiveFish>
+  <InactiveProbability>1,100,100,100,100,100,100,100,100</InactiveProbability>
+  <AvgLength>1</AvgLength>
   <MaxRange>5</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
-  <ActiveFish>None, Box, Frogs, RainbowTrout, RedHerring, Snails, Crawfish, BlackGoldfish, Toad</ActiveFish>
-  <ActiveProbability>10,2,15,25,10,25,25,10,15</ActiveProbability>
-  <ActiveVfx>fishrainbowtroutactive, fishredherringactive</ActiveVfx>
+  <ActiveFish>None,Box,Frogs,RainbowTrout,RedHerring,Snails,Crawfish,BlackGoldfish,Toad</ActiveFish>
+  <ActiveProbability>1,100,100,100,100,100,100,100,100</ActiveProbability>
+  <ActiveVfx>fishrainbowtroutactive,fishredherringactive</ActiveVfx>
   <HourActive>4</HourActive>
   <HourDepletionStarts>6</HourDepletionStarts>
- </Spawner>
+</Spawner>
 <Spawner>
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner29</SpawnerClassName>
-  <InactiveFish>None, Box, Frogs, RedHerring, Snails, Crawfish, BlackGoldfish, Toad</InactiveFish>
-  <InactiveProbability>8,2,10,5,15,15,15,10</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <InactiveFish>None,Box,Frogs,RedHerring,Snails,Crawfish,BlackGoldfish,Toad</InactiveFish>
+  <InactiveProbability>1,100,100,100,100,100,100,100</InactiveProbability>
+  <AvgLength>1</AvgLength>
   <MaxRange>5</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
-  <ActiveFish>None, Box, Frogs, RedHerring, Snails, Crawfish, BlackGoldfish, Toad</ActiveFish>
-  <ActiveProbability>10,2,15,5,25,25,25,15</ActiveProbability>
-  <ActiveVfx>fishfrogsactive, fishredherringactive, fishblackgoldfishactive</ActiveVfx>
+  <ActiveFish>None,Box,Frogs,RedHerring,Snails,Crawfish,BlackGoldfish,Toad</ActiveFish>
+  <ActiveProbability>1,100,100,100,100,100,100,100</ActiveProbability>
+  <ActiveVfx>fishfrogsactive,fishredherringactive,fishblackgoldfishactive</ActiveVfx>
   <HourActive>4</HourActive>
   <HourDepletionStarts>6</HourDepletionStarts>
- </Spawner>
+</Spawner>
 <Spawner>
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner30</SpawnerClassName>
-  <InactiveFish>None, Box, Frogs, Minnow, Toad</InactiveFish>
-  <InactiveProbability>5,5,25,15,5</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <InactiveFish>None,Box,Frogs,Minnow,Toad</InactiveFish>
+  <InactiveProbability>5,100,100,100,100</InactiveProbability>
+  <AvgLength>1</AvgLength>
   <MaxRange>5</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
-  <ActiveFish>None, Box, Frogs, Minnow, Toad</ActiveFish>
-  <ActiveProbability>3,10,35,15,35</ActiveProbability>
-  <ActiveVfx>fishfrogsactive, fishminnowactive</ActiveVfx>
+  <ActiveFish>None,Box,Frogs,Minnow,Toad</ActiveFish>
+  <ActiveProbability>1,100,100,100,100</ActiveProbability>
+  <ActiveVfx>fishfrogsactive,fishminnowactive</ActiveVfx>
   <HourActive>4</HourActive>
   <HourDepletionStarts>6</HourDepletionStarts>
- </Spawner>
+</Spawner>
 <Spawner>
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner32</SpawnerClassName>
-  <InactiveFish>None, Box,  Minnow, Goldfish, RainbowTrout, RedHerring,SiameseCatfish, BlackGoldfish, KissingGourami</InactiveFish>
-  <InactiveProbability>8, 2,  10, 9, 15, 10,5, 10, 15</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <InactiveFish>None,Box,Minnow,Goldfish,RainbowTrout,RedHerring,SiameseCatfish,BlackGoldfish,KissingGourami</InactiveFish>
+  <InactiveProbability>1,100,100,100,100,100,100,100,100</InactiveProbability>
+  <AvgLength>1</AvgLength>
   <MaxRange>5</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
-  <ActiveFish>None, Box,  Minnow, Goldfish, RainbowTrout, RedHerring,SiameseCatfish, BlackGoldfish, KissingGourami</ActiveFish>
-  <ActiveProbability>8, 2,  10, 9, 15, 10,5, 15, 30</ActiveProbability>
-  <ActiveVfx>fishblackgoldfishactive, fishkissinggouramiactive</ActiveVfx>
+  <ActiveFish>None,Box,Minnow,Goldfish,RainbowTrout,RedHerring,SiameseCatfish,BlackGoldfish,KissingGourami</ActiveFish>
+  <ActiveProbability>1,100,100,100,100,100,100,100,100</ActiveProbability>
+  <ActiveVfx>fishblackgoldfishactive,fishkissinggouramiactive</ActiveVfx>
   <HourActive>4</HourActive>
   <HourDepletionStarts>6</HourDepletionStarts>
- </Spawner>
+</Spawner>
 <Spawner>
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner33</SpawnerClassName>
-  <InactiveFish>None, Box,  Anchovy, Jellyfish, RedHerring,Tuna, TragicClownfish, Shark, Lobster, SewerTrilobite</InactiveFish>
-  <InactiveProbability>8,2,10,9,10,15,5,5,10, 15</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <InactiveFish>None,Box,Anchovy,Jellyfish,RedHerring,Tuna,TragicClownfish,Shark,Lobster,SewerTrilobite</InactiveFish>
+  <InactiveProbability>1,100,100,100,100,100,100,100,100,100</InactiveProbability>
+  <AvgLength>1</AvgLength>
   <MaxRange>5</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
-  <ActiveFish>None, Box,  Anchovy, Jellyfish, RedHerring,Tuna, TragicClownfish, Shark, Lobster, SewerTrilobite</ActiveFish>
-  <ActiveProbability>8,2,10,9,10,15,5,5,15, 30</ActiveProbability>
-  <ActiveVfx>fishsharkactive, fishtunaactive</ActiveVfx>
+  <ActiveFish>None,Box,Anchovy,Jellyfish,RedHerring,Tuna,TragicClownfish,Shark,Lobster,SewerTrilobite</ActiveFish>
+  <ActiveProbability>1,100,100,100,100,100,100,100,100,100</ActiveProbability>
+  <ActiveVfx>fishsharkactive,fishtunaactive</ActiveVfx>
   <HourActive>4</HourActive>
   <HourDepletionStarts>6</HourDepletionStarts>
- </Spawner>
+</Spawner>
 <Spawner>
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner34</SpawnerClassName>
-  <InactiveFish>None, Box,  Anchovy, Jellyfish, RedHerring, Blowfish, Salmon, Swordfish, SeaSludge</InactiveFish>
-  <InactiveProbability>8,2,10,15,10,5,14,15, 15</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <InactiveFish>None,Box,Anchovy,Jellyfish,RedHerring,Blowfish,Salmon,Swordfish,SeaSludge</InactiveFish>
+  <InactiveProbability>1,100,100,100,100,100,100,100,100</InactiveProbability>
+  <AvgLength>1</AvgLength>
   <MaxRange>5</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
-  <ActiveFish>None, Box,  Anchovy, Jellyfish, RedHerring, Blowfish, Salmon, Swordfish, SeaSludge</ActiveFish>
-  <ActiveProbability>8,2,10,15,10,5,14,20, 30</ActiveProbability>
-  <ActiveVfx>fishsalmonactive, fishswordfishactive</ActiveVfx>
+  <ActiveFish>None,Box,Anchovy,Jellyfish,RedHerring,Blowfish,Salmon,Swordfish,SeaSludge</ActiveFish>
+  <ActiveProbability>1,100,100,100,100,100,100,100,100</ActiveProbability>
+  <ActiveVfx>fishsalmonactive,fishswordfishactive</ActiveVfx>
   <HourActive>4</HourActive>
   <HourDepletionStarts>6</HourDepletionStarts>
- </Spawner>
+</Spawner>
 <Spawner>
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner35</SpawnerClassName>
-  <InactiveFish>None, Box,  ThreeEyedFish, Lobster, AlleyCatfish</InactiveFish>
-  <InactiveProbability>5,5,25,15,15</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <InactiveFish>None,Box,ThreeEyedFish,Lobster,AlleyCatfish</InactiveFish>
+  <InactiveProbability>1,100,100,100,100</InactiveProbability>
+  <AvgLength>1</AvgLength>
   <MaxRange>5</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
-  <ActiveFish>None, Box,  ThreeEyedFish, Lobster, AlleyCatfish</ActiveFish>
-  <ActiveProbability>3,10,35,15,15</ActiveProbability>
-  <ActiveVfx>fishThreeEyedFishactive, fishTrashActive, fishalleycatfishactive</ActiveVfx>
+  <ActiveFish>None,Box,ThreeEyedFish,Lobster,AlleyCatfish</ActiveFish>
+  <ActiveProbability>1,100,100,100,100</ActiveProbability>
+  <ActiveVfx>fishThreeEyedFishactive,fishTrashActive,fishalleycatfishactive</ActiveVfx>
   <HourActive>4</HourActive>
   <HourDepletionStarts>6</HourDepletionStarts>
- </Spawner>
+</Spawner>
 <Spawner>
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner36</SpawnerClassName>
-  <InactiveFish>None, Box, Goldfish, RainbowTrout, RainbowSnail</InactiveFish>
-  <InactiveProbability>8,2,15,5,15</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <InactiveFish>None,Box,Goldfish,RainbowTrout,RainbowSnail</InactiveFish>
+  <InactiveProbability>1,100,100,100,100</InactiveProbability>
+  <AvgLength>1</AvgLength>
   <MaxRange>5</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
-  <ActiveFish>None, Box, Goldfish, RainbowTrout, RainbowSnail</ActiveFish>
-  <ActiveProbability>3,2,15,15,25</ActiveProbability>
-  <ActiveVfx>fishgoldfishactive, fishrainbowtroutactive, fishRainbowSnailActive</ActiveVfx>
+  <ActiveFish>None,Box,Goldfish,RainbowTrout,RainbowSnail</ActiveFish>
+  <ActiveProbability>1,100,100,100,100</ActiveProbability>
+  <ActiveVfx>fishgoldfishactive,fishrainbowtroutactive,fishRainbowSnailActive</ActiveVfx>
   <HourActive>4</HourActive>
   <HourDepletionStarts>6</HourDepletionStarts>
- </Spawner>
+</Spawner>
 <GlobalSpawner>
   <WaterAffected>7</WaterAffected>
   <Fish>Minnow</Fish>
   <Probability>1</Probability>
-  <AvgLength>60</AvgLength>
+  <AvgLength>1</AvgLength>
   <WorldName></WorldName>
- </GlobalSpawner>
+</GlobalSpawner>
 <GlobalSpawner>
   <WaterAffected>1</WaterAffected>
-  <Fish>None, Box, Minnow, Goldfish, TragicClownFish, BlackGoldfish, Shark, Toad</Fish>
-  <Probability>50,2, 10, 10, 5, 5, 1, 10</Probability>
-  <AvgLength>60</AvgLength>
+  <Fish>None,Box,Minnow,Goldfish,TragicClownFish,BlackGoldfish,Shark,Toad</Fish>
+  <Probability>1,100,100,100,100,100,100,100</Probability>
+  <AvgLength>1</AvgLength>
   <WorldName>SunsetValley</WorldName>
- </GlobalSpawner>
+</GlobalSpawner>
 <GlobalSpawner>
   <WaterAffected>2</WaterAffected>
-  <Fish>None, Box, Minnow, Goldfish, RainbowTrout, RedHerring, Salmon, KissingGourami, Toad</Fish>
-  <Probability>15,2,10,10,10,5,10, 8, 10</Probability>
-  <AvgLength>60</AvgLength>
+  <Fish>None,Box,Minnow,Goldfish,RainbowTrout,RedHerring,Salmon,KissingGourami,Toad</Fish>
+  <Probability>1,100,100,100,100,100,100,100,100</Probability>
+  <AvgLength>1</AvgLength>
   <WorldName>SunsetValley</WorldName>
- </GlobalSpawner>
+</GlobalSpawner>
 <GlobalSpawner>
   <WaterAffected>4</WaterAffected>
-  <Fish>None, Box, Anchovy, Jellyfish, RedHerring, Tuna, Salmon, Swordfish,TragicClownfish, SewerTrilobite, SeaSludge</Fish>
-  <Probability>15,2,10,10,5,10,10,10,3, 8, 8</Probability>
-  <AvgLength>60</AvgLength>
+  <Fish>None,Box,Anchovy,Jellyfish,RedHerring,Tuna,Salmon,Swordfish,TragicClownfish,SewerTrilobite,SeaSludge</Fish>
+  <Probability>1,100,100,100,100,100,100,100,100,100,100</Probability>
+  <AvgLength>1</AvgLength>
   <WorldName>SunsetValley</WorldName>
- </GlobalSpawner>
+</GlobalSpawner>
 <GlobalSpawner>
   <WaterAffected>2</WaterAffected>
-  <Fish>None, Box, Minnow, AlleyCatfish,RedHerring, Crocodile, LuminousSalamander</Fish>
-  <Probability>15,2,10,10,5,7,7</Probability>
-  <AvgLength>60</AvgLength>
+  <Fish>None,Box,Minnow,AlleyCatfish,RedHerring,Crocodile,LuminousSalamander</Fish>
+  <Probability>1,100,100,100,100,100,100</Probability>
+  <AvgLength>1</AvgLength>
   <WorldName>Egypt</WorldName>
- </GlobalSpawner>
+</GlobalSpawner>
 <GlobalSpawner>
   <WaterAffected>4</WaterAffected>
-  <Fish>None, Box, Minnow, AlleyCatfish,RedHerring,Salmon,Crocodile</Fish>
-  <Probability>15,2,10,10,5,10,7</Probability>
-  <AvgLength>60</AvgLength>
+  <Fish>None,Box,Minnow,AlleyCatfish,RedHerring,Salmon,Crocodile</Fish>
+  <Probability>1,100,100,100,100,100,100</Probability>
+  <AvgLength>1</AvgLength>
   <WorldName>Egypt</WorldName>
- </GlobalSpawner>
+</GlobalSpawner>
 <GlobalSpawner>
   <WaterAffected>2</WaterAffected>
-  <Fish>None, Box,Goldfish, RedHerring,DoitsuKoi,KawarimonoKoi,LuminousSalamander</Fish>
-  <Probability>15,2,10,5,10,10,10</Probability>
-  <AvgLength>60</AvgLength>
+  <Fish>None,Box,Goldfish,RedHerring,DoitsuKoi,KawarimonoKoi,LuminousSalamander</Fish>
+  <Probability>1,100,100,100,100,100,100</Probability>
+  <AvgLength>1</AvgLength>
   <WorldName>China</WorldName>
- </GlobalSpawner>
+</GlobalSpawner>
 <GlobalSpawner>
   <WaterAffected>4</WaterAffected>
-  <Fish>None, Box,Goldfish, RedHerring,DoitsuKoi,KawarimonoKoi</Fish>
-  <Probability>15,2,10,5,10,10</Probability>
-  <AvgLength>60</AvgLength>
+  <Fish>None,Box,Goldfish,RedHerring,DoitsuKoi,KawarimonoKoi</Fish>
+  <Probability>1,100,100,100,100,100</Probability>
+  <AvgLength>1</AvgLength>
   <WorldName>China</WorldName>
- </GlobalSpawner>
+</GlobalSpawner>
 <GlobalSpawner>
   <WaterAffected>2</WaterAffected>
-  <Fish>None, Box, Minnow, RainbowTrout, RedHerring, Frogs, Snails, Toad</Fish>
-  <Probability>15,2,10,10,5,10,10,5</Probability>
-  <AvgLength>60</AvgLength>
+  <Fish>None,Box,Minnow,RainbowTrout,RedHerring,Frogs,Snails,Toad</Fish>
+  <Probability>1,100,100,100,100,100,100,100</Probability>
+  <AvgLength>1</AvgLength>
   <WorldName>France</WorldName>
- </GlobalSpawner>
+</GlobalSpawner>
 <GlobalSpawner>
   <WaterAffected>4</WaterAffected>
-  <Fish>None, Box, Minnow, RainbowTrout, RedHerring, Frogs, Snails, LuminousSalamander</Fish>
-  <Probability>15,2,10,10,5,10,10,10</Probability>
-  <AvgLength>60</AvgLength>
+  <Fish>None,Box,Minnow,RainbowTrout,RedHerring,Frogs,Snails,LuminousSalamander</Fish>
+  <Probability>1,100,100,100,100,100,100,100</Probability>
+  <AvgLength>1</AvgLength>
   <WorldName>France</WorldName>
- </GlobalSpawner>
+</GlobalSpawner>
 <BoxItems>
   <ItemDbName></ItemDbName>
   <Happy>True</Happy>
@@ -1993,153 +1981,153 @@
   <AllowedWorldType>Undefined</AllowedWorldType>
   <AllowedWorldNames></AllowedWorldNames>
   <ProductVersion></ProductVersion>
- </BoxItems>
+</BoxItems>
 <BoxItems>
   <ItemDbName>ComputerLaptop</ItemDbName>
   <Happy>True</Happy>
   <RelativeProbability>6</RelativeProbability>
   <ProductVersion>BaseGame</ProductVersion>
- </BoxItems>
+</BoxItems>
 <BoxItems>
   <ItemDbName>RubberDucky</ItemDbName>
   <Happy>False</Happy>
   <RelativeProbability>40</RelativeProbability>
   <ProductVersion>BaseGame</ProductVersion>
- </BoxItems>
+</BoxItems>
 <BoxItems>
   <ItemDbName>musicalInstrumentGuitar</ItemDbName>
   <Happy>True</Happy>
   <RelativeProbability>13</RelativeProbability>
   <ProductVersion>BaseGame</ProductVersion>
- </BoxItems>
+</BoxItems>
 <BoxItems>
   <ItemDbName>BubbleBath</ItemDbName>
   <Happy>False</Happy>
   <RelativeProbability>32</RelativeProbability>
   <ProductVersion>BaseGame</ProductVersion>
- </BoxItems>
+</BoxItems>
 <BoxItems>
   <ItemDbName>CandleSingle</ItemDbName>
   <Happy>False</Happy>
   <RelativeProbability>32</RelativeProbability>
   <ProductVersion>BaseGame</ProductVersion>
- </BoxItems>
+</BoxItems>
 <BoxItems>
   <ItemDbName>FoodBirthdayCake</ItemDbName>
   <Happy>False</Happy>
   <RelativeProbability>32</RelativeProbability>
   <ProductVersion>BaseGame</ProductVersion>
- </BoxItems>
+</BoxItems>
 <BoxItems>
   <ItemDbName>StereoCheapContemporary</ItemDbName>
   <Happy>True</Happy>
   <RelativeProbability>13</RelativeProbability>
   <ProductVersion>BaseGame</ProductVersion>
- </BoxItems>
+</BoxItems>
 <BoxItems>
   <ItemDbName>FlameFruit</ItemDbName>
   <Happy>True</Happy>
   <RelativeProbability>8</RelativeProbability>
   <ProductVersion>BaseGame</ProductVersion>
- </BoxItems>
+</BoxItems>
 <BoxItems>
   <ItemDbName>DeathFlower</ItemDbName>
   <Happy>True</Happy>
   <RelativeProbability>12</RelativeProbability>
   <ProductVersion>BaseGame</ProductVersion>
- </BoxItems>
+</BoxItems>
 <BoxItems>
   <ItemDbName>MoneyTreeSeed</ItemDbName>
   <Happy>True</Happy>
   <RelativeProbability>10</RelativeProbability>
   <ProductVersion>BaseGame</ProductVersion>
- </BoxItems>
+</BoxItems>
 <BoxItems>
   <ItemDbName>OmniPlantSeed</ItemDbName>
   <Happy>True</Happy>
   <RelativeProbability>0</RelativeProbability>
   <ProductVersion>BaseGame</ProductVersion>
- </BoxItems>
+</BoxItems>
 <BoxItems>
   <ItemDbName>GardenGnome</ItemDbName>
   <Happy>False</Happy>
   <RelativeProbability>20</RelativeProbability>
   <ProductVersion>BaseGame</ProductVersion>
- </BoxItems>
+</BoxItems>
 <BoxItems>
   <ItemDbName>MagicGnome</ItemDbName>
   <Happy>True</Happy>
   <RelativeProbability>12</RelativeProbability>
   <AllowedWorldType>Base</AllowedWorldType>
   <ProductVersion>BaseGame</ProductVersion>
- </BoxItems>
+</BoxItems>
 <BoxItems>
   <ItemDbName>MagicGnomeEgypt</ItemDbName>
   <Happy>True</Happy>
   <RelativeProbability>12</RelativeProbability>
   <AllowedWorldNames>Egypt</AllowedWorldNames>
   <ProductVersion>EP1</ProductVersion>
- </BoxItems>
+</BoxItems>
 <BoxItems>
   <ItemDbName>MagicGnomeChina</ItemDbName>
   <Happy>True</Happy>
   <RelativeProbability>12</RelativeProbability>
   <AllowedWorldNames>China</AllowedWorldNames>
   <ProductVersion>EP1</ProductVersion>
- </BoxItems>
+</BoxItems>
 <BoxItems>
   <ItemDbName>MagicGnomeFrance</ItemDbName>
   <Happy>True</Happy>
   <RelativeProbability>12</RelativeProbability>
   <AllowedWorldNames>France</AllowedWorldNames>
   <ProductVersion>EP1</ProductVersion>
- </BoxItems>
+</BoxItems>
 <BoxItems>
   <ItemDbName>ARMummySnacks</ItemDbName>
   <Happy>False</Happy>
   <RelativeProbability>18</RelativeProbability>
   <AllowedWorldType>Vacation</AllowedWorldType>
   <ProductVersion>EP1</ProductVersion>
- </BoxItems>
+</BoxItems>
 <BoxItems>
   <ItemDbName>ARSandsOfUnderstanding</ItemDbName>
   <Happy>True</Happy>
   <RelativeProbability>18</RelativeProbability>
   <AllowedWorldType>Vacation</AllowedWorldType>
   <ProductVersion>EP1</ProductVersion>
- </BoxItems>
+</BoxItems>
 <BoxItems>
   <ItemDbName>ARSkeletonKey</ItemDbName>
   <Happy>True</Happy>
   <RelativeProbability>14</RelativeProbability>
   <AllowedWorldType>Vacation</AllowedWorldType>
   <ProductVersion>EP1</ProductVersion>
- </BoxItems>
+</BoxItems>
 <BoxItems>
   <ItemDbName>ARMasterThiefsCoin</ItemDbName>
   <Happy>True</Happy>
   <RelativeProbability>4</RelativeProbability>
   <AllowedWorldType>Vacation</AllowedWorldType>
   <ProductVersion>EP1</ProductVersion>
- </BoxItems>
+</BoxItems>
 <BoxItems>
   <ItemDbName>ARLiquidCouragePotion</ItemDbName>
   <Happy>True</Happy>
   <RelativeProbability>18</RelativeProbability>
   <AllowedWorldType>Vacation</AllowedWorldType>
   <ProductVersion>EP1</ProductVersion>
- </BoxItems>
+</BoxItems>
 <BoxItems>
   <ItemDbName>ARTearOfHorus</ItemDbName>
   <Happy>True</Happy>
   <RelativeProbability>2</RelativeProbability>
   <AllowedWorldNames>Egypt</AllowedWorldNames>
   <ProductVersion>EP1</ProductVersion>
- </BoxItems>
+</BoxItems>
 <BoxItems>
   <ItemDbName>AREscapeDust</ItemDbName>
   <Happy>True</Happy>
   <RelativeProbability>20</RelativeProbability>
   <ProductVersion>EP1</ProductVersion>
- </BoxItems>
+</BoxItems>
 </Fishing>
