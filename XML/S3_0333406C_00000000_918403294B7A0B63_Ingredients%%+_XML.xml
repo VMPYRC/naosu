@@ -32,14 +32,14 @@
   <WerewolfEdibleRaw>False</WerewolfEdibleRaw>
   <PostIngestionBuff>Undefined</PostIngestionBuff>
   <PostIngestionBuffOrigin>None</PostIngestionBuffOrigin>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Ingredient</Ingredient_Key>
   <Ingredient_Name>Ingredient</Ingredient_Name>
   <Abstract>x</Abstract>
   <Parent>ROOT</Parent>
   <Model_Name>Ingredient</Model_Name>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Cheese</Ingredient_Key>
   <Ingredient_Name>Cheese</Ingredient_Name>
@@ -56,26 +56,26 @@
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Marshmallow</Ingredient_Key>
   <Ingredient_Name>Marshmallow</Ingredient_Name>
   <Rarity>ExtraordinarilyUnusual</Rarity>
   <Parent>Ingredient</Parent>
   <Model_Name>marshmellow</Model_Name>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <PetSpeciesThatCanEatOffGround>AllDogs</PetSpeciesThatCanEatOffGround>
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Meat</Ingredient_Key>
   <Ingredient_Name>Meat</Ingredient_Name>
   <Abstract>x</Abstract>
   <Parent>Ingredient</Parent>
   <Model_Name>Meat</Model_Name>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Burger Patty</Ingredient_Key>
   <Ingredient_Name>BurgerPatty</Ingredient_Name>
@@ -93,7 +93,7 @@
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
   <WerewolfEdibleRaw>True</WerewolfEdibleRaw>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Steak</Ingredient_Key>
   <Ingredient_Name>Steak</Ingredient_Name>
@@ -111,7 +111,7 @@
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
   <WerewolfEdibleRaw>True</WerewolfEdibleRaw>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Hot Dogs</Ingredient_Key>
   <Ingredient_Name>HotDogs</Ingredient_Name>
@@ -126,7 +126,7 @@
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
   <WerewolfEdibleRaw>True</WerewolfEdibleRaw>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Turkey</Ingredient_Key>
   <Ingredient_Name>Turkey</Ingredient_Name>
@@ -141,7 +141,7 @@
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
   <WerewolfEdibleRaw>True</WerewolfEdibleRaw>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Egg</Ingredient_Key>
   <Ingredient_Name>Egg</Ingredient_Name>
@@ -158,10 +158,10 @@
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Fish</Ingredient_Key>
   <Ingredient_Name>Fish</Ingredient_Name>
@@ -170,7 +170,7 @@
   <Model_Name>Fish</Model_Name>
   <PetSpeciesThatCanEatOffGround>AllDogs,Cats</PetSpeciesThatCanEatOffGround>
   <WerewolfEdibleRaw>True</WerewolfEdibleRaw>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Vegetable</Ingredient_Key>
   <Ingredient_Name>Vegetable</Ingredient_Name>
@@ -179,7 +179,7 @@
   <Model_Name>Vegetable</Model_Name>
   <PetSpeciesThatCanEatOffGround>Horses,AB</PetSpeciesThatCanEatOffGround>
   <PetSpeciesThatCanEatOffPlant>Horses,AB</PetSpeciesThatCanEatOffPlant>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Lettuce</Ingredient_Key>
   <Ingredient_Name>Lettuce</Ingredient_Name>
@@ -197,7 +197,7 @@
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Tomato</Ingredient_Key>
   <Ingredient_Name>Tomato</Ingredient_Name>
@@ -215,7 +215,7 @@
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Onion</Ingredient_Key>
   <Ingredient_Name>Onion</Ingredient_Name>
@@ -234,7 +234,7 @@
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Bell Pepper</Ingredient_Key>
   <Ingredient_Name>BellPepper</Ingredient_Name>
@@ -253,7 +253,7 @@
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Garlic</Ingredient_Key>
   <Ingredient_Name>Garlic</Ingredient_Name>
@@ -276,7 +276,7 @@
   <IsEdible>True</IsEdible>
   <PostIngestionBuff>GarlicBreath</PostIngestionBuff>
   <PostIngestionBuffOrigin>FromEatingGarlic</PostIngestionBuffOrigin>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Potato</Ingredient_Key>
   <Ingredient_Name>Potato</Ingredient_Name>
@@ -295,7 +295,7 @@
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Fruit</Ingredient_Key>
   <Ingredient_Name>Fruit</Ingredient_Name>
@@ -306,7 +306,7 @@
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Grape</Ingredient_Key>
   <Ingredient_Name>Grape</Ingredient_Name>
@@ -318,7 +318,7 @@
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Apple</Ingredient_Key>
   <Ingredient_Name>Apple</Ingredient_Name>
@@ -339,7 +339,7 @@
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Lime</Ingredient_Key>
   <Ingredient_Name>Lime</Ingredient_Name>
@@ -358,7 +358,7 @@
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Flame Fruit</Ingredient_Key>
   <Ingredient_Name>FlameFruit</Ingredient_Name>
@@ -374,11 +374,11 @@
   <Nectar_Value>18</Nectar_Value>
   <AncientNectarWeight>1</AncientNectarWeight>
   <Price>18</Price>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Grapes</Ingredient_Key>
   <Ingredient_Name>Grapes</Ingredient_Name>
@@ -397,7 +397,7 @@
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Watermelon</Ingredient_Key>
   <Ingredient_Name>Watermelon</Ingredient_Name>
@@ -416,7 +416,7 @@
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Lifefruit</Ingredient_Key>
   <Ingredient_Name>Lifefruit</Ingredient_Name>
@@ -433,18 +433,17 @@
   <DrinkQuality_Max>0.1</DrinkQuality_Max>
   <AncientNectarWeight>1</AncientNectarWeight>
   <Price>25</Price>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <PetSpeciesThatCanEatOffGround>AllDogs,Horses,AB</PetSpeciesThatCanEatOffGround>
   <PetSpeciesThatCanEatOffPlant>Horses,AB</PetSpeciesThatCanEatOffPlant>
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Grapes Char</Ingredient_Key>
   <Ingredient_Name>GrapesChar</Ingredient_Name>
   <CodeVersion>EP1</CodeVersion>
-  <RequiredWorld>France</RequiredWorld>
   <Rarity>Common</Rarity>
   <UiTab>Produce</UiTab>
   <Parent>Grape</Parent>
@@ -462,12 +461,11 @@
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Grapes Mer</Ingredient_Key>
   <Ingredient_Name>GrapesMer</Ingredient_Name>
   <CodeVersion>EP1</CodeVersion>
-  <RequiredWorld>France</RequiredWorld>
   <Rarity>Common</Rarity>
   <UiTab>Produce</UiTab>
   <Parent>Grape</Parent>
@@ -485,12 +483,11 @@
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Grapes Blanc</Ingredient_Key>
   <Ingredient_Name>GrapesBlanc</Ingredient_Name>
   <CodeVersion>EP1</CodeVersion>
-  <RequiredWorld>France</RequiredWorld>
   <Rarity>Uncommon</Rarity>
   <UiTab>Produce</UiTab>
   <Parent>Grape</Parent>
@@ -501,19 +498,18 @@
   <Nectar_Value>8</Nectar_Value>
   <AncientNectarWeight>12</AncientNectarWeight>
   <Price>7</Price>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <CanBeSoldInNectarRegister>False</CanBeSoldInNectarRegister>
   <PetSpeciesThatCanEatOffGround>AllDogs,Horses,AB</PetSpeciesThatCanEatOffGround>
   <PetSpeciesThatCanEatOffPlant>AllDogs,Horses,AB</PetSpeciesThatCanEatOffPlant>
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Grapes Blue</Ingredient_Key>
   <Ingredient_Name>GrapesBlue</Ingredient_Name>
   <CodeVersion>EP1</CodeVersion>
-  <RequiredWorld>France</RequiredWorld>
   <Rarity>Uncommon</Rarity>
   <UiTab>Produce</UiTab>
   <Parent>Grape</Parent>
@@ -524,19 +520,18 @@
   <Nectar_Value>10</Nectar_Value>
   <AncientNectarWeight>12</AncientNectarWeight>
   <Price>8</Price>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <CanBeSoldInNectarRegister>False</CanBeSoldInNectarRegister>
   <PetSpeciesThatCanEatOffGround>AllDogs,Horses,AB</PetSpeciesThatCanEatOffGround>
   <PetSpeciesThatCanEatOffPlant>AllDogs,Horses,AB</PetSpeciesThatCanEatOffPlant>
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Grapes Cab</Ingredient_Key>
   <Ingredient_Name>GrapesCab</Ingredient_Name>
   <CodeVersion>EP1</CodeVersion>
-  <RequiredWorld>France</RequiredWorld>
   <Rarity>Rare</Rarity>
   <UiTab>Produce</UiTab>
   <Parent>Grape</Parent>
@@ -547,19 +542,18 @@
   <Nectar_Value>12</Nectar_Value>
   <AncientNectarWeight>12</AncientNectarWeight>
   <Price>10</Price>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <CanBeSoldInNectarRegister>False</CanBeSoldInNectarRegister>
   <PetSpeciesThatCanEatOffGround>AllDogs,Horses,AB</PetSpeciesThatCanEatOffGround>
   <PetSpeciesThatCanEatOffPlant>AllDogs,Horses,AB</PetSpeciesThatCanEatOffPlant>
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Grapes Pin</Ingredient_Key>
   <Ingredient_Name>GrapesPin</Ingredient_Name>
   <CodeVersion>EP1</CodeVersion>
-  <RequiredWorld>France</RequiredWorld>
   <Rarity>Rare</Rarity>
   <UiTab>Produce</UiTab>
   <Parent>Grape</Parent>
@@ -570,19 +564,18 @@
   <Nectar_Value>16</Nectar_Value>
   <AncientNectarWeight>12</AncientNectarWeight>
   <Price>13</Price>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <CanBeSoldInNectarRegister>False</CanBeSoldInNectarRegister>
   <PetSpeciesThatCanEatOffGround>AllDogs,Horses,AB</PetSpeciesThatCanEatOffGround>
   <PetSpeciesThatCanEatOffPlant>AllDogs,Horses,AB</PetSpeciesThatCanEatOffPlant>
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Pomegranate</Ingredient_Key>
   <Ingredient_Name>Pomegranate</Ingredient_Name>
   <CodeVersion>EP1</CodeVersion>
-  <RequiredWorld>Egypt</RequiredWorld>
   <Rarity>Uncommon</Rarity>
   <UiTab>Produce</UiTab>
   <Parent>Fruit</Parent>
@@ -599,12 +592,11 @@
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Plum</Ingredient_Key>
   <Ingredient_Name>Plum</Ingredient_Name>
   <CodeVersion>EP1</CodeVersion>
-  <RequiredWorld>China</RequiredWorld>
   <Rarity>Uncommon</Rarity>
   <UiTab>Produce</UiTab>
   <Parent>Fruit</Parent>
@@ -621,12 +613,11 @@
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Pomelo</Ingredient_Key>
   <Ingredient_Name>Pomelo</Ingredient_Name>
   <CodeVersion>EP1</CodeVersion>
-  <RequiredWorld>China</RequiredWorld>
   <Rarity>Rare</Rarity>
   <UiTab>Produce</UiTab>
   <Parent>Fruit</Parent>
@@ -643,12 +634,11 @@
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Cherries</Ingredient_Key>
   <Ingredient_Name>Cherries</Ingredient_Name>
   <CodeVersion>EP1</CodeVersion>
-  <RequiredWorld>Egypt</RequiredWorld>
   <Rarity>Rare</Rarity>
   <UiTab>Produce</UiTab>
   <Parent>Fruit</Parent>
@@ -665,7 +655,7 @@
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>VampireFruit</Ingredient_Key>
   <Ingredient_Name>VampireFruit</Ingredient_Name>
@@ -686,55 +676,55 @@
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>foodEatCookieRainbow</Ingredient_Key>
   <Ingredient_Name>foodEatCookieRainbow</Ingredient_Name>
   <DataVersion>EP4</DataVersion>
   <Parent>Ingredient</Parent>
   <Model_Name>foodEatCookieRainbow</Model_Name>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <PetSpeciesThatCanEatOffGround>AllDogs</PetSpeciesThatCanEatOffGround>
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>foodEatCookieSpaceship</Ingredient_Key>
   <Ingredient_Name>foodEatCookieSpaceship</Ingredient_Name>
   <DataVersion>EP4</DataVersion>
   <Parent>Ingredient</Parent>
   <Model_Name>foodEatCookieSpaceship</Model_Name>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <PetSpeciesThatCanEatOffGround>AllDogs</PetSpeciesThatCanEatOffGround>
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>foodEatCupcake</Ingredient_Key>
   <Ingredient_Name>foodEatCupcake</Ingredient_Name>
   <DataVersion>EP4</DataVersion>
   <Parent>Ingredient</Parent>
   <Model_Name>foodEatCupcake</Model_Name>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <PetSpeciesThatCanEatOffGround>AllDogs</PetSpeciesThatCanEatOffGround>
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>foodEatDonut</Ingredient_Key>
   <Ingredient_Name>foodEatDonut</Ingredient_Name>
   <DataVersion>EP4</DataVersion>
   <Parent>Ingredient</Parent>
   <Model_Name>foodEatDonut</Model_Name>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <PetSpeciesThatCanEatOffGround>AllDogs</PetSpeciesThatCanEatOffGround>
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>horseFertilizer</Ingredient_Key>
   <Ingredient_Name>horseFertilizer</Ingredient_Name>
@@ -745,11 +735,11 @@
   <Fertilizer_Value>10</Fertilizer_Value>
   <Fertilizer_Days>3</Fertilizer_Days>
   <Price>0</Price>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>False</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>unicornFertilizer</Ingredient_Key>
   <Ingredient_Name>unicornFertilizer</Ingredient_Name>
@@ -760,11 +750,11 @@
   <Fertilizer_Value>15</Fertilizer_Value>
   <Fertilizer_Days>3</Fertilizer_Days>
   <Price>0</Price>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>False</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Carrot</Ingredient_Key>
   <Ingredient_Name>Carrot</Ingredient_Name>
@@ -784,7 +774,7 @@
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>horseGranola</Ingredient_Key>
   <Ingredient_Name>horseGranola</Ingredient_Name>
@@ -792,13 +782,13 @@
   <Parent>Ingredient</Parent>
   <Model_Name>foodEatGourmetPetFoodHorse</Model_Name>
   <Thumbnail_Model_Name>foodEatGourmetPetFoodHorse</Thumbnail_Model_Name>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <PetSpeciesThatCanEatOffGround>Horses</PetSpeciesThatCanEatOffGround>
   <PetSpeciesThatCanEatOffPlant>Horses</PetSpeciesThatCanEatOffPlant>
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Banana</Ingredient_Key>
   <Ingredient_Name>Banana</Ingredient_Name>
@@ -816,7 +806,7 @@
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Tofu</Ingredient_Key>
   <Ingredient_Name>Tofu</Ingredient_Name>
@@ -829,7 +819,7 @@
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Honey</Ingredient_Key>
   <Ingredient_Name>Honey</Ingredient_Name>
@@ -845,7 +835,7 @@
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>BeesWax</Ingredient_Key>
   <Ingredient_Name>BeesWax</Ingredient_Name>
@@ -854,11 +844,11 @@
   <Model_Name>beesWax</Model_Name>
   <Thumbnail_Model_Name>beesWax</Thumbnail_Model_Name>
   <Price>35</Price>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>False</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Truffles</Ingredient_Key>
   <Ingredient_Name>Truffles</Ingredient_Name>
@@ -876,7 +866,7 @@
   <IsMushrooms>True</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>White Caps</Ingredient_Key>
   <Ingredient_Name>WhiteCaps</Ingredient_Name>
@@ -894,7 +884,7 @@
   <IsMushrooms>True</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Porcinis</Ingredient_Key>
   <Ingredient_Name>Porcinis</Ingredient_Name>
@@ -912,7 +902,7 @@
   <IsMushrooms>True</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Glow Orbs</Ingredient_Key>
   <Ingredient_Name>GlowOrbs</Ingredient_Name>
@@ -925,12 +915,12 @@
   <Fertilizer_Value>20</Fertilizer_Value>
   <Fertilizer_Days>6</Fertilizer_Days>
   <Price>64</Price>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <IsMushrooms>True</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <SpawnInLunarCycle>full</SpawnInLunarCycle>
   <IsEdible>False</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Spotlight Mushrooms</Ingredient_Key>
   <Ingredient_Name>SpotlightMushrooms</Ingredient_Name>
@@ -943,11 +933,11 @@
   <Fertilizer_Value>15</Fertilizer_Value>
   <Fertilizer_Days>4</Fertilizer_Days>
   <Price>38</Price>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <IsMushrooms>True</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>False</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Red Toadstools</Ingredient_Key>
   <Ingredient_Name>RedToadstools</Ingredient_Name>
@@ -960,11 +950,11 @@
   <Fertilizer_Value>10</Fertilizer_Value>
   <Fertilizer_Days>6</Fertilizer_Days>
   <Price>20</Price>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <IsMushrooms>True</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>False</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Mycenas</Ingredient_Key>
   <Ingredient_Name>Mycenas</Ingredient_Name>
@@ -977,11 +967,11 @@
   <Fertilizer_Value>12</Fertilizer_Value>
   <Fertilizer_Days>5</Fertilizer_Days>
   <Price>33</Price>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <IsMushrooms>True</IsMushrooms>
   <SpawnAtNightOnly>True</SpawnAtNightOnly>
   <IsEdible>False</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Ghost Chili</Ingredient_Key>
   <Ingredient_Name>GhostChili</Ingredient_Name>
@@ -999,7 +989,7 @@
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Mandrake</Ingredient_Key>
   <Ingredient_Name>Mandrake</Ingredient_Name>
@@ -1012,11 +1002,11 @@
   <Fertilizer_Value>5</Fertilizer_Value>
   <Fertilizer_Days>3</Fertilizer_Days>
   <Price>6</Price>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>False</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Red Valerian</Ingredient_Key>
   <Ingredient_Name>RedValerian</Ingredient_Name>
@@ -1029,11 +1019,11 @@
   <Fertilizer_Value>5</Fertilizer_Value>
   <Fertilizer_Days>3</Fertilizer_Days>
   <Price>6</Price>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>False</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Wolfsbane</Ingredient_Key>
   <Ingredient_Name>Wolfsbane</Ingredient_Name>
@@ -1046,11 +1036,11 @@
   <Fertilizer_Value>10</Fertilizer_Value>
   <Fertilizer_Days>3</Fertilizer_Days>
   <Price>13</Price>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>False</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Pumpkin</Ingredient_Key>
   <Ingredient_Name>Pumpkin</Ingredient_Name>
@@ -1069,7 +1059,7 @@
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>False</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Ginseng</Ingredient_Key>
   <Ingredient_Name>Ginseng</Ingredient_Name>
@@ -1089,7 +1079,7 @@
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>SweetGrass</Ingredient_Key>
   <Ingredient_Name>SweetGrass</Ingredient_Name>
@@ -1109,7 +1099,7 @@
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Cinnamon</Ingredient_Key>
   <Ingredient_Name>Cinnamon</Ingredient_Name>
@@ -1129,7 +1119,7 @@
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Basil</Ingredient_Key>
   <Ingredient_Name>Basil</Ingredient_Name>
@@ -1149,7 +1139,7 @@
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Lavender</Ingredient_Key>
   <Ingredient_Name>Lavender</Ingredient_Name>
@@ -1169,7 +1159,7 @@
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Peppermint</Ingredient_Key>
   <Ingredient_Name>Peppermint</Ingredient_Name>
@@ -1189,7 +1179,7 @@
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Wonderpetal</Ingredient_Key>
   <Ingredient_Name>Wonderpetal</Ingredient_Name>
@@ -1209,7 +1199,7 @@
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Chamomile</Ingredient_Key>
   <Ingredient_Name>Chamomile</Ingredient_Name>
@@ -1229,7 +1219,7 @@
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Bumbleleaf</Ingredient_Key>
   <Ingredient_Name>Bumbleleaf</Ingredient_Name>
@@ -1249,7 +1239,7 @@
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Greenleaf</Ingredient_Key>
   <Ingredient_Name>Greenleaf</Ingredient_Name>
@@ -1269,7 +1259,7 @@
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Licorice</Ingredient_Key>
   <Ingredient_Name>Licorice</Ingredient_Name>
@@ -1289,7 +1279,7 @@
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Buzzberry</Ingredient_Key>
   <Ingredient_Name>Buzzberry</Ingredient_Name>
@@ -1309,7 +1299,7 @@
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>KonaBean</Ingredient_Key>
   <Ingredient_Name>KonaBean</Ingredient_Name>
@@ -1329,7 +1319,7 @@
   <IsEdible>True</IsEdible>
   <PostIngestionBuff>OrganicKonaLiftBuzz</PostIngestionBuff>
   <PostIngestionBuffOrigin>FromEatingCoffeeBean</PostIngestionBuffOrigin>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>BlackBean</Ingredient_Key>
   <Ingredient_Name>BlackBean</Ingredient_Name>
@@ -1349,7 +1339,7 @@
   <IsEdible>True</IsEdible>
   <PostIngestionBuff>OrganicMidnightMudBuzz</PostIngestionBuff>
   <PostIngestionBuffOrigin>FromEatingCoffeeBean</PostIngestionBuffOrigin>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>ElderSwan</Ingredient_Key>
   <Ingredient_Name>ElderSwan</Ingredient_Name>
@@ -1369,7 +1359,7 @@
   <IsEdible>True</IsEdible>
   <PostIngestionBuff>OrganicOldJoeBuzz</PostIngestionBuff>
   <PostIngestionBuffOrigin>FromEatingCoffeeBean</PostIngestionBuffOrigin>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>ExpensiveBerry</Ingredient_Key>
   <Ingredient_Name>ExpensiveBerry</Ingredient_Name>
@@ -1389,7 +1379,7 @@
   <IsEdible>True</IsEdible>
   <PostIngestionBuff>OrganicCatCreationBuzz</PostIngestionBuff>
   <PostIngestionBuffOrigin>FromEatingCoffeeBean</PostIngestionBuffOrigin>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>MauiBean</Ingredient_Key>
   <Ingredient_Name>MauiBean</Ingredient_Name>
@@ -1409,7 +1399,7 @@
   <IsEdible>True</IsEdible>
   <PostIngestionBuff>OrganicSlappucinoBuzz</PostIngestionBuff>
   <PostIngestionBuffOrigin>FromEatingCoffeeBean</PostIngestionBuffOrigin>
- </Data>
+</Data>
 <Data>
   <Ingredient_Key>Kelp</Ingredient_Key>
   <Ingredient_Name>Kelp</Ingredient_Name>
@@ -1423,6 +1413,333 @@
   <CanBuyFromStore>True</CanBuyFromStore>
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
-  <IsEdible>False</IsEdible>
- </Data>
+  <IsEdible>True</IsEdible>
+</Data>
 </Ingredients>
+<Ingredients_store>
+<Data>
+  <Ingredient_Key>Blackberry</Ingredient_Key>
+  <Ingredient_Name>Blackberry</Ingredient_Name>
+  <CodeVersion>BaseGame</CodeVersion>
+  <DataVersion>BaseGame</DataVersion>
+  <Rarity>Common</Rarity>
+  <UiTab>Produce</UiTab>
+  <Parent>Fruit</Parent>
+  <Model_Name>blackberryStore</Model_Name>
+  <Plant_Name>BlackberryPlant</Plant_Name>
+  <Fertilizer_Value>5</Fertilizer_Value>
+  <Fertilizer_Days>4</Fertilizer_Days>
+  <Nectar_Value>3</Nectar_Value>
+  <DrinkQuality_Min>0.005</DrinkQuality_Min>
+  <DrinkQuality_Max>0.05</DrinkQuality_Max>
+  <AncientNectarWeight>2</AncientNectarWeight>
+  <Price>4</Price>
+  <CanBuyFromStore>True</CanBuyFromStore>
+  <PetSpeciesThatCanEatOffGround>Horses</PetSpeciesThatCanEatOffGround>
+  <PetSpeciesThatCanEatOffPlant>Horses</PetSpeciesThatCanEatOffPlant>
+  <IsMushrooms>False</IsMushrooms>
+  <SpawnAtNightOnly>False</SpawnAtNightOnly>
+  <IsEdible>True</IsEdible>
+  <Version>0.1</Version>
+</Data>
+<Data>
+  <Ingredient_Key>Blueberry</Ingredient_Key>
+  <Ingredient_Name>Blueberry</Ingredient_Name>
+  <CodeVersion>BaseGame</CodeVersion>
+  <DataVersion>BaseGame</DataVersion>
+  <Rarity>Common</Rarity>
+  <UiTab>Produce</UiTab>
+  <Parent>Fruit</Parent>
+  <Model_Name>blueberryStore</Model_Name>
+  <Plant_Name>BlueberryPlant</Plant_Name>
+  <Fertilizer_Value>5</Fertilizer_Value>
+  <Fertilizer_Days>4</Fertilizer_Days>
+  <Nectar_Value>3</Nectar_Value>
+  <DrinkQuality_Min>0.005</DrinkQuality_Min>
+  <DrinkQuality_Max>0.05</DrinkQuality_Max>
+  <AncientNectarWeight>2</AncientNectarWeight>
+  <Price>4</Price>
+  <CanBuyFromStore>True</CanBuyFromStore>
+  <PetSpeciesThatCanEatOffGround>Horses</PetSpeciesThatCanEatOffGround>
+  <PetSpeciesThatCanEatOffPlant>Horses</PetSpeciesThatCanEatOffPlant>
+  <IsMushrooms>False</IsMushrooms>
+  <SpawnAtNightOnly>False</SpawnAtNightOnly>
+  <IsEdible>True</IsEdible>
+  <Version>0.1</Version>
+</Data>
+<Data>
+  <Ingredient_Key>Cocoa</Ingredient_Key>
+  <Ingredient_Name>Cocoa</Ingredient_Name>
+  <CodeVersion>BaseGame</CodeVersion>
+  <DataVersion>BaseGame</DataVersion>
+  <Rarity>Common</Rarity>
+  <UiTab>Produce</UiTab>
+  <Parent>Fruit</Parent>
+  <Model_Name>cocoaStore</Model_Name>
+  <Plant_Name>CocoaPlant</Plant_Name>
+  <Fertilizer_Value>5</Fertilizer_Value>
+  <Fertilizer_Days>4</Fertilizer_Days>
+  <Nectar_Value>3</Nectar_Value>
+  <DrinkQuality_Min>0.005</DrinkQuality_Min>
+  <DrinkQuality_Max>0.05</DrinkQuality_Max>
+  <AncientNectarWeight>2</AncientNectarWeight>
+  <Price>4</Price>
+  <CanBuyFromStore>True</CanBuyFromStore>
+  <PetSpeciesThatCanEatOffGround>Horses</PetSpeciesThatCanEatOffGround>
+  <PetSpeciesThatCanEatOffPlant>Horses</PetSpeciesThatCanEatOffPlant>
+  <IsMushrooms>False</IsMushrooms>
+  <SpawnAtNightOnly>False</SpawnAtNightOnly>
+  <IsEdible>True</IsEdible>
+  <Version>0.1</Version>
+</Data>
+<Data>
+  <Ingredient_Key>CornMill</Ingredient_Key>
+  <Ingredient_Name>CornMill</Ingredient_Name>
+  <CodeVersion>BaseGame</CodeVersion>
+  <DataVersion>BaseGame</DataVersion>
+  <Rarity>Common</Rarity>
+  <UiTab>Produce</UiTab>
+  <Parent>Vegetable</Parent>
+  <Model_Name>cornStore</Model_Name>
+  <Plant_Name>CornMillPlant</Plant_Name>
+  <Fertilizer_Value>5</Fertilizer_Value>
+  <Fertilizer_Days>4</Fertilizer_Days>
+  <Nectar_Value>3</Nectar_Value>
+  <DrinkQuality_Min>0.005</DrinkQuality_Min>
+  <DrinkQuality_Max>0.05</DrinkQuality_Max>
+  <AncientNectarWeight>2</AncientNectarWeight>
+  <Price>4</Price>
+  <CanBuyFromStore>True</CanBuyFromStore>
+  <PetSpeciesThatCanEatOffGround>Horses</PetSpeciesThatCanEatOffGround>
+  <PetSpeciesThatCanEatOffPlant>Horses</PetSpeciesThatCanEatOffPlant>
+  <IsMushrooms>False</IsMushrooms>
+  <SpawnAtNightOnly>False</SpawnAtNightOnly>
+  <IsEdible>True</IsEdible>
+  <Version>0.1</Version>
+</Data>
+<Data>
+  <Ingredient_Key>Cucumber</Ingredient_Key>
+  <Ingredient_Name>Cucumber</Ingredient_Name>
+  <CodeVersion>BaseGame</CodeVersion>
+  <DataVersion>BaseGame</DataVersion>
+  <Rarity>Common</Rarity>
+  <UiTab>Produce</UiTab>
+  <Parent>Vegetable</Parent>
+  <Model_Name>cucumberStore</Model_Name>
+  <Plant_Name>CucumberPlant</Plant_Name>
+  <Fertilizer_Value>5</Fertilizer_Value>
+  <Fertilizer_Days>4</Fertilizer_Days>
+  <Nectar_Value>3</Nectar_Value>
+  <DrinkQuality_Min>0.005</DrinkQuality_Min>
+  <DrinkQuality_Max>0.05</DrinkQuality_Max>
+  <AncientNectarWeight>2</AncientNectarWeight>
+  <Price>4</Price>
+  <CanBuyFromStore>True</CanBuyFromStore>
+  <PetSpeciesThatCanEatOffGround>Horses</PetSpeciesThatCanEatOffGround>
+  <PetSpeciesThatCanEatOffPlant>Horses</PetSpeciesThatCanEatOffPlant>
+  <IsMushrooms>False</IsMushrooms>
+  <SpawnAtNightOnly>False</SpawnAtNightOnly>
+  <IsEdible>True</IsEdible>
+  <Version>0.1</Version>
+</Data>
+<Data>
+  <Ingredient_Key>EggPlant</Ingredient_Key>
+  <Ingredient_Name>EggPlant</Ingredient_Name>
+  <CodeVersion>BaseGame</CodeVersion>
+  <DataVersion>BaseGame</DataVersion>
+  <Rarity>Common</Rarity>
+  <UiTab>Produce</UiTab>
+  <Parent>Vegetable</Parent>
+  <Model_Name>EggPlant</Model_Name>
+  <Plant_Name>EggPlantPlant</Plant_Name>
+  <Fertilizer_Value>5</Fertilizer_Value>
+  <Fertilizer_Days>4</Fertilizer_Days>
+  <Nectar_Value>3</Nectar_Value>
+  <DrinkQuality_Min>0.005</DrinkQuality_Min>
+  <DrinkQuality_Max>0.05</DrinkQuality_Max>
+  <AncientNectarWeight>2</AncientNectarWeight>
+  <Price>4</Price>
+  <CanBuyFromStore>True</CanBuyFromStore>
+  <PetSpeciesThatCanEatOffGround>Horses</PetSpeciesThatCanEatOffGround>
+  <PetSpeciesThatCanEatOffPlant>Horses</PetSpeciesThatCanEatOffPlant>
+  <IsMushrooms>False</IsMushrooms>
+  <SpawnAtNightOnly>False</SpawnAtNightOnly>
+  <IsEdible>True</IsEdible>
+  <Version>0.1</Version>
+</Data>
+<Data>
+  <Ingredient_Key>Lemon</Ingredient_Key>
+  <Ingredient_Name>Lemon</Ingredient_Name>
+  <CodeVersion>BaseGame</CodeVersion>
+  <DataVersion>BaseGame</DataVersion>
+  <Rarity>Common</Rarity>
+  <UiTab>Produce</UiTab>
+  <Parent>Fruit</Parent>
+  <Model_Name>Lemon</Model_Name>
+  <Plant_Name>LemonTree</Plant_Name>
+  <Fertilizer_Value>5</Fertilizer_Value>
+  <Fertilizer_Days>4</Fertilizer_Days>
+  <Nectar_Value>3</Nectar_Value>
+  <DrinkQuality_Min>0.005</DrinkQuality_Min>
+  <DrinkQuality_Max>0.05</DrinkQuality_Max>
+  <AncientNectarWeight>2</AncientNectarWeight>
+  <Price>4</Price>
+  <CanBuyFromStore>True</CanBuyFromStore>
+  <PetSpeciesThatCanEatOffGround>Horses</PetSpeciesThatCanEatOffGround>
+  <PetSpeciesThatCanEatOffPlant>Horses</PetSpeciesThatCanEatOffPlant>
+  <IsMushrooms>False</IsMushrooms>
+  <SpawnAtNightOnly>False</SpawnAtNightOnly>
+  <IsEdible>True</IsEdible>
+  <Version>0.1</Version>
+</Data>
+<Data>
+  <Ingredient_Key>Orange</Ingredient_Key>
+  <Ingredient_Name>Orange</Ingredient_Name>
+  <CodeVersion>BaseGame</CodeVersion>
+  <DataVersion>BaseGame</DataVersion>
+  <Rarity>Common</Rarity>
+  <UiTab>Produce</UiTab>
+  <Parent>Fruit</Parent>
+  <Model_Name>orangeStore</Model_Name>
+  <Plant_Name>OrangeTree</Plant_Name>
+  <Fertilizer_Value>5</Fertilizer_Value>
+  <Fertilizer_Days>4</Fertilizer_Days>
+  <Nectar_Value>3</Nectar_Value>
+  <DrinkQuality_Min>0.005</DrinkQuality_Min>
+  <DrinkQuality_Max>0.05</DrinkQuality_Max>
+  <AncientNectarWeight>2</AncientNectarWeight>
+  <Price>4</Price>
+  <CanBuyFromStore>True</CanBuyFromStore>
+  <PetSpeciesThatCanEatOffGround>Horses</PetSpeciesThatCanEatOffGround>
+  <PetSpeciesThatCanEatOffPlant>Horses</PetSpeciesThatCanEatOffPlant>
+  <IsMushrooms>False</IsMushrooms>
+  <SpawnAtNightOnly>False</SpawnAtNightOnly>
+  <IsEdible>True</IsEdible>
+  <Version>0.1</Version>
+</Data>
+<Data>
+  <Ingredient_Key>Peach</Ingredient_Key>
+  <Ingredient_Name>Peach</Ingredient_Name>
+  <CodeVersion>BaseGame</CodeVersion>
+  <DataVersion>BaseGame</DataVersion>
+  <Rarity>Common</Rarity>
+  <UiTab>Produce</UiTab>
+  <Parent>Fruit</Parent>
+  <Model_Name>peachStore</Model_Name>
+  <Plant_Name>PeachPlant</Plant_Name>
+  <Fertilizer_Value>5</Fertilizer_Value>
+  <Fertilizer_Days>4</Fertilizer_Days>
+  <Nectar_Value>3</Nectar_Value>
+  <DrinkQuality_Min>0.005</DrinkQuality_Min>
+  <DrinkQuality_Max>0.05</DrinkQuality_Max>
+  <AncientNectarWeight>2</AncientNectarWeight>
+  <Price>4</Price>
+  <CanBuyFromStore>True</CanBuyFromStore>
+  <PetSpeciesThatCanEatOffGround>Horses</PetSpeciesThatCanEatOffGround>
+  <PetSpeciesThatCanEatOffPlant>Horses</PetSpeciesThatCanEatOffPlant>
+  <IsMushrooms>False</IsMushrooms>
+  <SpawnAtNightOnly>False</SpawnAtNightOnly>
+  <IsEdible>True</IsEdible>
+  <Version>0.1</Version>
+</Data>
+<Data>
+  <Ingredient_Key>Pear</Ingredient_Key>
+  <Ingredient_Name>Pear</Ingredient_Name>
+  <CodeVersion>BaseGame</CodeVersion>
+  <DataVersion>BaseGame</DataVersion>
+  <Rarity>Common</Rarity>
+  <UiTab>Produce</UiTab>
+  <Parent>Fruit</Parent>
+  <Model_Name>pearStore</Model_Name>
+  <Plant_Name>PearPlant</Plant_Name>
+  <Fertilizer_Value>5</Fertilizer_Value>
+  <Fertilizer_Days>4</Fertilizer_Days>
+  <Nectar_Value>3</Nectar_Value>
+  <DrinkQuality_Min>0.005</DrinkQuality_Min>
+  <DrinkQuality_Max>0.05</DrinkQuality_Max>
+  <AncientNectarWeight>2</AncientNectarWeight>
+  <Price>4</Price>
+  <CanBuyFromStore>True</CanBuyFromStore>
+  <PetSpeciesThatCanEatOffGround>Horses</PetSpeciesThatCanEatOffGround>
+  <PetSpeciesThatCanEatOffPlant>Horses</PetSpeciesThatCanEatOffPlant>
+  <IsMushrooms>False</IsMushrooms>
+  <SpawnAtNightOnly>False</SpawnAtNightOnly>
+  <IsEdible>True</IsEdible>
+  <Version>0.1</Version>
+</Data>
+<Data>
+  <Ingredient_Key>Pecan</Ingredient_Key>
+  <Ingredient_Name>Pecan</Ingredient_Name>
+  <CodeVersion>BaseGame</CodeVersion>
+  <DataVersion>BaseGame</DataVersion>
+  <Rarity>Common</Rarity>
+  <UiTab>Produce</UiTab>
+  <Parent>Fruit</Parent>
+  <Model_Name>pecanStore</Model_Name>
+  <Plant_Name>PecanPlant</Plant_Name>
+  <Fertilizer_Value>5</Fertilizer_Value>
+  <Fertilizer_Days>4</Fertilizer_Days>
+  <Nectar_Value>3</Nectar_Value>
+  <DrinkQuality_Min>0.005</DrinkQuality_Min>
+  <DrinkQuality_Max>0.05</DrinkQuality_Max>
+  <AncientNectarWeight>2</AncientNectarWeight>
+  <Price>4</Price>
+  <CanBuyFromStore>True</CanBuyFromStore>
+  <PetSpeciesThatCanEatOffGround>Horses</PetSpeciesThatCanEatOffGround>
+  <PetSpeciesThatCanEatOffPlant>Horses</PetSpeciesThatCanEatOffPlant>
+  <IsMushrooms>False</IsMushrooms>
+  <SpawnAtNightOnly>False</SpawnAtNightOnly>
+  <IsEdible>True</IsEdible>
+  <Version>0.1</Version>
+</Data>
+<Data>
+  <Ingredient_Key>Raspberry</Ingredient_Key>
+  <Ingredient_Name>Raspberry</Ingredient_Name>
+  <CodeVersion>BaseGame</CodeVersion>
+  <DataVersion>BaseGame</DataVersion>
+  <Rarity>Common</Rarity>
+  <UiTab>Produce</UiTab>
+  <Parent>Fruit</Parent>
+  <Model_Name>raspberryStore</Model_Name>
+  <Plant_Name>RaspberryPlant</Plant_Name>
+  <Fertilizer_Value>5</Fertilizer_Value>
+  <Fertilizer_Days>4</Fertilizer_Days>
+  <Nectar_Value>3</Nectar_Value>
+  <DrinkQuality_Min>0.005</DrinkQuality_Min>
+  <DrinkQuality_Max>0.05</DrinkQuality_Max>
+  <AncientNectarWeight>2</AncientNectarWeight>
+  <Price>4</Price>
+  <CanBuyFromStore>True</CanBuyFromStore>
+  <PetSpeciesThatCanEatOffGround>Horses</PetSpeciesThatCanEatOffGround>
+  <PetSpeciesThatCanEatOffPlant>Horses</PetSpeciesThatCanEatOffPlant>
+  <IsMushrooms>False</IsMushrooms>
+  <SpawnAtNightOnly>False</SpawnAtNightOnly>
+  <IsEdible>True</IsEdible>
+  <Version>0.1</Version>
+</Data>
+<Data>
+  <Ingredient_Key>Strawberry</Ingredient_Key>
+  <Ingredient_Name>Strawberry</Ingredient_Name>
+  <CodeVersion>BaseGame</CodeVersion>
+  <DataVersion>BaseGame</DataVersion>
+  <Rarity>Common</Rarity>
+  <UiTab>Produce</UiTab>
+  <Parent>Fruit</Parent>
+  <Model_Name>strawberryStore</Model_Name>
+  <Plant_Name>StrawberryPlant</Plant_Name>
+  <Fertilizer_Value>5</Fertilizer_Value>
+  <Fertilizer_Days>4</Fertilizer_Days>
+  <Nectar_Value>3</Nectar_Value>
+  <DrinkQuality_Min>0.005</DrinkQuality_Min>
+  <DrinkQuality_Max>0.05</DrinkQuality_Max>
+  <AncientNectarWeight>2</AncientNectarWeight>
+  <Price>4</Price>
+  <CanBuyFromStore>True</CanBuyFromStore>
+  <PetSpeciesThatCanEatOffGround>Horses</PetSpeciesThatCanEatOffGround>
+  <PetSpeciesThatCanEatOffPlant>Horses</PetSpeciesThatCanEatOffPlant>
+  <IsMushrooms>False</IsMushrooms>
+  <SpawnAtNightOnly>False</SpawnAtNightOnly>
+  <IsEdible>True</IsEdible>
+  <Version>0.1</Version>
+</Data>
+</Ingredients_store>
