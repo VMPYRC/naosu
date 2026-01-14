@@ -126,7 +126,6 @@
   <MaxSkillLevel>3</MaxSkillLevel>
   <Commodity>SkillDancing</Commodity>
   <Physical>True</Physical>
-  <Hidden>True</Hidden>
   <Level_1>1000</Level_1>
   <Level_2>1000</Level_2>
   <Level_3>1000</Level_3>
@@ -139,7 +138,6 @@
   <MaxSkillLevel>2</MaxSkillLevel>
   <Commodity>SkillDiving</Commodity>
   <Physical>True</Physical>
-  <Hidden>True</Hidden>
   <HiddenWithSkillProgress>True</HiddenWithSkillProgress>
   <Level_2_Text>DivingLevelTwo</Level_2_Text>
   <Level_1>80</Level_1>
@@ -324,7 +322,6 @@
   <MaxSkillLevel>10</MaxSkillLevel>
   <Commodity>SkillDominoes</Commodity>
   <Mental>True</Mental>
-  <Hidden>True</Hidden>
   <LogicSkillBoost>True</LogicSkillBoost>
   <AvailableAgeSpecies>C,T,Y,A,E</AvailableAgeSpecies>
  </SkillList>
@@ -336,7 +333,6 @@
   <MaxSkillLevel>10</MaxSkillLevel>
   <Commodity>SkillChess</Commodity>
   <Mental>True</Mental>
-  <Hidden>True</Hidden>
   <LogicSkillBoost>True</LogicSkillBoost>
   <AvailableAgeSpecies>C,T,Y,A,E</AvailableAgeSpecies>
  </SkillList>
@@ -348,7 +344,6 @@
   <MaxSkillLevel>10</MaxSkillLevel>
   <Commodity>SkillHacking</Commodity>
   <Mental>True</Mental>
-  <Hidden>True</Hidden>
   <LogicSkillBoost>True</LogicSkillBoost>
   <AvailableAgeSpecies>C,T,Y,A,E</AvailableAgeSpecies>
  </SkillList>
@@ -361,7 +356,6 @@
   <MaxSkillLevel>10</MaxSkillLevel>
   <Commodity>SkillMooch</Commodity>
   <Mental>True</Mental>
-  <Hidden>True</Hidden>
   <LogicSkillBoost>True</LogicSkillBoost>
   <AvailableAgeSpecies>C,T,Y,A,E</AvailableAgeSpecies>
  </SkillList>
@@ -371,7 +365,6 @@
   <Hex>VideoGame</Hex>
   <MaxSkillLevel>10</MaxSkillLevel>
   <Commodity>SkillVideoGame</Commodity>
-  <Hidden>True</Hidden>
   <LogicSkillBoost>True</LogicSkillBoost>
   <AvailableAgeSpecies>C,T,Y,A,E</AvailableAgeSpecies>
  </SkillList>
@@ -417,7 +410,6 @@
   <MaxSkillLevel>10</MaxSkillLevel>
   <Commodity>SkillHomework</Commodity>
   <Mental>True</Mental>
-  <Hidden>True</Hidden>
   <LogicSkillBoost>True</LogicSkillBoost>
   <Level_1>2600</Level_1>
   <Level_2>2434</Level_2>
@@ -450,7 +442,6 @@
   <Hex>AirGuitar</Hex>
   <MaxSkillLevel>10</MaxSkillLevel>
   <Commodity>SkillAirGuitar</Commodity>
-  <Hidden>True</Hidden>
   <AvailableAgeSpecies>T,Y,A,E</AvailableAgeSpecies>
  </SkillList>
 <SkillList>
@@ -488,7 +479,6 @@
   <CustomClassName>Sims3.Gameplay.Skills.Collecting, Sims3GameplaySystems</CustomClassName>
   <MaxSkillLevel>10</MaxSkillLevel>
   <Commodity>SkillCollecting</Commodity>
-  <Hidden>True</Hidden>
   <LogicSkillBoost>True</LogicSkillBoost>
   <AvailableAgeSpecies>C,T,Y,A,E</AvailableAgeSpecies>
   <DreamsAndPromisesIcon>w_collecting_skill</DreamsAndPromisesIcon>
@@ -536,7 +526,6 @@
   <MaxSkillLevel>10</MaxSkillLevel>
   <Commodity>SkillFoosball</Commodity>
   <Physical>True</Physical>
-  <Hidden>True</Hidden>
   <LogicSkillBoost>True</LogicSkillBoost>
   <AvailableAgeSpecies>T,Y,A,E</AvailableAgeSpecies>
  </SkillList>
@@ -575,7 +564,6 @@
   <MaxSkillLevel>10</MaxSkillLevel>
   <Commodity>SkillSnakeCharming</Commodity>
   <Musical>True</Musical>
-  <Hidden>True</Hidden>
   <AvailableAgeSpecies>T,Y,A,E</AvailableAgeSpecies>
  </SkillList>
 <SkillList>
@@ -616,7 +604,6 @@
   <Commodity>SkillTattooing</Commodity>
   <Creative>True</Creative>
   <Artistic>True</Artistic>
-  <Hidden>True</Hidden>
   <AvailableAgeSpecies>Y,A,E</AvailableAgeSpecies>
  </SkillList>
 <SkillList>
@@ -627,7 +614,6 @@
   <MaxSkillLevel>10</MaxSkillLevel>
   <Commodity>SkillTrampoline</Commodity>
   <Physical>True</Physical>
-  <Hidden>True</Hidden>
   <Level_1>75</Level_1>
   <Level_2>100</Level_2>
   <Level_3>125</Level_3>
@@ -648,7 +634,6 @@
   <MaxSkillLevel>10</MaxSkillLevel>
   <Commodity>SkillGnubb</Commodity>
   <Physical>True</Physical>
-  <Hidden>True</Hidden>
   <Level_1>75</Level_1>
   <Level_2>100</Level_2>
   <Level_3>125</Level_3>
@@ -700,7 +685,6 @@
   <Commodity>SkillStyling</Commodity>
   <Creative>True</Creative>
   <Artistic>True</Artistic>
-  <Hidden>True</Hidden>
   <AvailableAgeSpecies>Y,A,E</AvailableAgeSpecies>
  </SkillList>
 <SkillList>
@@ -733,7 +717,6 @@
   <CustomClassName>Sims3.Gameplay.Skills.Consignment,Sims3GameplaySystems</CustomClassName>
   <MaxSkillLevel>10</MaxSkillLevel>
   <Commodity>SkillConsignment</Commodity>
-  <Hidden>True</Hidden>
   <AvailableAgeSpecies>Y,A,E</AvailableAgeSpecies>
   <IconKey>hud_skills_consignment</IconKey>
  </SkillList>
@@ -769,7 +752,6 @@
   <MaxSkillLevel>3</MaxSkillLevel>
   <Commodity>SkillClubDancing</Commodity>
   <Physical>True</Physical>
-  <Hidden>True</Hidden>
   <Level_1>1000</Level_1>
   <Level_2>1000</Level_2>
   <Level_3>1000</Level_3>
@@ -784,7 +766,6 @@
   <Commodity>SkillShuffleboard</Commodity>
   <Physical>True</Physical>
   <Mental>True</Mental>
-  <Hidden>True</Hidden>
   <Level_1>1250</Level_1>
   <Level_2>3000</Level_2>
   <Level_3>8000</Level_3>
@@ -821,7 +802,6 @@
   <CodeVersion>EP3</CodeVersion>
   <CustomClassName>Sims3.Gameplay.Skills.RockBand,Sims3GameplaySystems</CustomClassName>
   <MaxSkillLevel>1</MaxSkillLevel>
-  <Hidden>True</Hidden>
   <Level_1>1</Level_1>
   <AvailableAgeSpecies>Y,A,E</AvailableAgeSpecies>
   <DreamsAndPromisesIcon>hud_band_skill_s</DreamsAndPromisesIcon>
@@ -884,7 +864,6 @@
   <CustomClassName>Sims3.Gameplay.Skills.DartSkill, Sims3GameplaySystems</CustomClassName>
   <MaxSkillLevel>10</MaxSkillLevel>
   <Commodity>SkillDarts</Commodity>
-  <Hidden>True</Hidden>
   <Level_1>100</Level_1>
   <Level_2>150</Level_2>
   <Level_3>200</Level_3>
@@ -905,7 +884,6 @@
   <CustomClassName>Sims3.Gameplay.Skills.BubblesSkill, Sims3GameplaySystems</CustomClassName>
   <MaxSkillLevel>10</MaxSkillLevel>
   <Commodity>SkillBubbles</Commodity>
-  <Hidden>True</Hidden>
   <Level_1>75</Level_1>
   <Level_2>100</Level_2>
   <Level_3>125</Level_3>
@@ -926,7 +904,6 @@
   <CustomClassName>Sims3.Gameplay.Skills.ArcadeMachineSkill, Sims3GameplaySystems</CustomClassName>
   <MaxSkillLevel>10</MaxSkillLevel>
   <Commodity>SkillArcadeMachine</Commodity>
-  <Hidden>True</Hidden>
   <AvailableAgeSpecies>C,T,Y,A,E</AvailableAgeSpecies>
  </SkillList>
 <SkillList>
@@ -938,7 +915,6 @@
   <Commodity>SkillChildGardening</Commodity>
   <Physical>True</Physical>
   <Mental>True</Mental>
-  <Hidden>True</Hidden>
   <Level_1>100</Level_1>
   <Level_2>100</Level_2>
   <Level_3>100</Level_3>
@@ -952,7 +928,6 @@
   <MaxSkillLevel>3</MaxSkillLevel>
   <Commodity>SkillChildAthletic</Commodity>
   <Physical>True</Physical>
-  <Hidden>True</Hidden>
   <Level_1>100</Level_1>
   <Level_2>100</Level_2>
   <Level_3>100</Level_3>
@@ -967,7 +942,6 @@
   <Commodity>SkillChildGuitar</Commodity>
   <Musical>True</Musical>
   <Creative>True</Creative>
-  <Hidden>True</Hidden>
   <Level_1>100</Level_1>
   <Level_2>100</Level_2>
   <Level_3>100</Level_3>
@@ -982,7 +956,6 @@
   <Commodity>SkillChildPiano</Commodity>
   <Musical>True</Musical>
   <Creative>True</Creative>
-  <Hidden>True</Hidden>
   <Level_1>100</Level_1>
   <Level_2>100</Level_2>
   <Level_3>100</Level_3>
@@ -997,7 +970,6 @@
   <Commodity>SkillChildBassGuitar</Commodity>
   <Musical>True</Musical>
   <Creative>True</Creative>
-  <Hidden>True</Hidden>
   <Level_1>100</Level_1>
   <Level_2>100</Level_2>
   <Level_3>100</Level_3>
@@ -1012,7 +984,6 @@
   <Commodity>SkillChildDrums</Commodity>
   <Musical>True</Musical>
   <Creative>True</Creative>
-  <Hidden>True</Hidden>
   <Level_1>100</Level_1>
   <Level_2>100</Level_2>
   <Level_3>100</Level_3>
@@ -1029,7 +1000,6 @@
   <Mental>True</Mental>
   <Creative>True</Creative>
   <Artistic>True</Artistic>
-  <Hidden>True</Hidden>
   <Level_1>100</Level_1>
   <Level_2>120</Level_2>
   <Level_3>120</Level_3>
@@ -1061,7 +1031,6 @@
   <CustomClassName>Sims3.Gameplay.Skills.BalletSkill, Sims3GameplaySystems</CustomClassName>
   <MaxSkillLevel>3</MaxSkillLevel>
   <Commodity>SkillBallet</Commodity>
-  <Hidden>True</Hidden>
   <Level_2_Text>BalletLevelTwo</Level_2_Text>
   <Level_3_Text>BalletLevelThree</Level_3_Text>
   <Level_1>100</Level_1>
@@ -1077,7 +1046,6 @@
   <CustomClassName>Sims3.Gameplay.Skills.ScoutingSkill, Sims3GameplaySystems</CustomClassName>
   <MaxSkillLevel>3</MaxSkillLevel>
   <Commodity>SkillScouting</Commodity>
-  <Hidden>True</Hidden>
   <Level_2_Text>ScoutingLevelTwo</Level_2_Text>
   <Level_3_Text>ScoutingLevelThree</Level_3_Text>
   <Level_1>100</Level_1>
@@ -1092,7 +1060,6 @@
   <CodeVersion>EP4</CodeVersion>
   <MaxSkillLevel>10</MaxSkillLevel>
   <Commodity>SkillHopscotch</Commodity>
-  <Hidden>True</Hidden>
   <Level_1>100</Level_1>
   <Level_2>150</Level_2>
   <Level_3>200</Level_3>
@@ -1196,7 +1163,6 @@
   <CustomClassName>Sims3.Gameplay.Skills.WildlifeFriendSkill, Sims3GameplaySystems</CustomClassName>
   <MaxSkillLevel>6</MaxSkillLevel>
   <Commodity>SkillWildlifeFriend</Commodity>
-  <Hidden>True</Hidden>
   <Level_1>100</Level_1>
   <Level_2>150</Level_2>
   <Level_3>200</Level_3>
@@ -1214,7 +1180,6 @@
   <MaxSkillLevel>5</MaxSkillLevel>
   <Commodity>SkillTrick</Commodity>
   <Physical>True</Physical>
-  <Hidden>True</Hidden>
   <Level_1>160</Level_1>
   <Level_2>330</Level_2>
   <Level_3>330</Level_3>
@@ -1283,7 +1248,6 @@
   <Commodity>SkillGolfing</Commodity>
   <Physical>True</Physical>
   <Mental>True</Mental>
-  <Hidden>True</Hidden>
   <AvailableAgeSpecies>T,Y,A,E</AvailableAgeSpecies>
  </SkillList>
 <SkillList>
@@ -1295,7 +1259,6 @@
   <MaxSkillLevel>10</MaxSkillLevel>
   <Commodity>SkillGambling</Commodity>
   <Mental>True</Mental>
-  <Hidden>True</Hidden>
   <LogicSkillBoost>True</LogicSkillBoost>
   <Level_1>100</Level_1>
   <Level_2>150</Level_2>
@@ -1319,7 +1282,6 @@
   <Commodity>SkillPerformanceArtist</Commodity>
   <Physical>True</Physical>
   <Artistic>True</Artistic>
-  <Hidden>True</Hidden>
   <Level_1>400</Level_1>
   <Level_2>500</Level_2>
   <Level_3>600</Level_3>
@@ -1338,7 +1300,6 @@
   <CodeVersion>EP6</CodeVersion>
   <MaxSkillLevel>3</MaxSkillLevel>
   <Commodity>SkillKaraoke</Commodity>
-  <Hidden>True</Hidden>
   <Level_1>100</Level_1>
   <Level_2>150</Level_2>
   <Level_3>200</Level_3>
@@ -1351,7 +1312,6 @@
   <CustomClassName>Sims3.Gameplay.Skills.PoolSkill,Sims3GameplaySystems</CustomClassName>
   <MaxSkillLevel>10</MaxSkillLevel>
   <Commodity>SkillPool</Commodity>
-  <Hidden>True</Hidden>
   <Level_1>100</Level_1>
   <Level_2>150</Level_2>
   <Level_3>200</Level_3>
@@ -1374,7 +1334,6 @@
   <Commodity>SkillMagic</Commodity>
   <Physical>True</Physical>
   <Artistic>True</Artistic>
-  <Hidden>True</Hidden>
   <Level_1>400</Level_1>
   <Level_2>500</Level_2>
   <Level_3>600</Level_3>
@@ -1397,7 +1356,6 @@
   <Musical>True</Musical>
   <Creative>True</Creative>
   <Artistic>True</Artistic>
-  <Hidden>True</Hidden>
   <Level_1>400</Level_1>
   <Level_2>500</Level_2>
   <Level_3>600</Level_3>
@@ -1420,7 +1378,6 @@
   <Musical>True</Musical>
   <Creative>True</Creative>
   <Artistic>True</Artistic>
-  <Hidden>True</Hidden>
   <Level_1>1000</Level_1>
   <Level_2>1500</Level_2>
   <Level_3>2000</Level_3>
@@ -1456,7 +1413,6 @@
   <MaxSkillLevel>10</MaxSkillLevel>
   <Commodity>SkillLycanthropy</Commodity>
   <Physical>True</Physical>
-  <Hidden>True</Hidden>
   <HiddenWithSkillProgress>True</HiddenWithSkillProgress>
   <AlwaysDisplayTNS>True</AlwaysDisplayTNS>
   <Level_3_Text>Lycanthropy_Level_3</Level_3_Text>
@@ -1475,7 +1431,6 @@
   <MaxSkillLevel>10</MaxSkillLevel>
   <Commodity>SkillBroomRiding</Commodity>
   <Physical>True</Physical>
-  <Hidden>True</Hidden>
   <Level_1>100</Level_1>
   <Level_2>200</Level_2>
   <Level_3>300</Level_3>
@@ -1497,7 +1452,6 @@
   <MaxSkillLevel>10</MaxSkillLevel>
   <Commodity>SkillSpellcasting</Commodity>
   <Mental>True</Mental>
-  <Hidden>True</Hidden>
   <HiddenWithSkillProgress>True</HiddenWithSkillProgress>
   <AlwaysDisplayTNS>True</AlwaysDisplayTNS>
   <Level_2_Text>SpellcastingLevel2</Level_2_Text>
@@ -1523,7 +1477,6 @@
   <Musical>True</Musical>
   <Creative>True</Creative>
   <Artistic>True</Artistic>
-  <Hidden>True</Hidden>
   <AlwaysDisplayTNS>True</AlwaysDisplayTNS>
   <Level_2_Text>FairyMagicLevel2</Level_2_Text>
   <Level_3_Text>FairyMagicLevel3</Level_3_Text>
@@ -1545,7 +1498,6 @@
   <MaxSkillLevel>6</MaxSkillLevel>
   <Commodity>SkillSkating</Commodity>
   <Physical>True</Physical>
-  <Hidden>True</Hidden>
   <HiddenWithSkillProgress>True</HiddenWithSkillProgress>
   <Level_2_Text>SkatingLevel2</Level_2_Text>
   <Level_3_Text>SkatingLevel3</Level_3_Text>
@@ -1568,7 +1520,6 @@
   <MaxSkillLevel>2</MaxSkillLevel>
   <Commodity>SkillSnowboarding</Commodity>
   <Physical>True</Physical>
-  <Hidden>True</Hidden>
   <HiddenWithSkillProgress>True</HiddenWithSkillProgress>
   <Level_2_Text>SnowboardingLevel2</Level_2_Text>
   <Level_3_Text>SnowboardingLevel3</Level_3_Text>
@@ -1584,7 +1535,6 @@
   <MaxSkillLevel>10</MaxSkillLevel>
   <Commodity>SkillHorseshoes</Commodity>
   <Physical>True</Physical>
-  <Hidden>True</Hidden>
   <Level_1>962</Level_1>
   <Level_2>722</Level_2>
   <Level_3>1283</Level_3>
@@ -1605,7 +1555,6 @@
   <MaxSkillLevel>3</MaxSkillLevel>
   <Commodity>SkillBallFighting</Commodity>
   <Physical>True</Physical>
-  <Hidden>True</Hidden>
   <HiddenWithSkillProgress>True</HiddenWithSkillProgress>
   <Level_1>1250</Level_1>
   <Level_2>3000</Level_2>
@@ -1620,7 +1569,6 @@
   <MaxSkillLevel>5</MaxSkillLevel>
   <Commodity>SkillPingPong</Commodity>
   <Physical>True</Physical>
-  <Hidden>True</Hidden>
   <HiddenWithSkillProgress>True</HiddenWithSkillProgress>
   <LogicSkillBoost>True</LogicSkillBoost>
   <Level_2_Text>PingPongLevel2</Level_2_Text>
@@ -1645,7 +1593,6 @@
   <MaxSkillLevel>5</MaxSkillLevel>
   <Commodity>SkillBowling</Commodity>
   <Physical>True</Physical>
-  <Hidden>True</Hidden>
   <Level_1>400</Level_1>
   <Level_2>800</Level_2>
   <Level_3>1200</Level_3>
@@ -1732,7 +1679,6 @@
   <MaxSkillLevel>10</MaxSkillLevel>
   <Commodity>SkillInfluenceNerd</Commodity>
   <Mental>True</Mental>
-  <Hidden>True</Hidden>
   <CanDecay>True</CanDecay>
   <AlwaysDisplayTNS>True</AlwaysDisplayTNS>
   <Level_2_Text>InfluenceNerd2</Level_2_Text>
@@ -1767,7 +1713,6 @@
   <MaxSkillLevel>10</MaxSkillLevel>
   <Commodity>SkillInfluenceRebel</Commodity>
   <Mental>True</Mental>
-  <Hidden>True</Hidden>
   <CanDecay>True</CanDecay>
   <AlwaysDisplayTNS>True</AlwaysDisplayTNS>
   <Level_2_Text>InfluenceRebel2</Level_2_Text>
@@ -1802,7 +1747,6 @@
   <MaxSkillLevel>10</MaxSkillLevel>
   <Commodity>SkillInfluenceSocialite</Commodity>
   <Mental>True</Mental>
-  <Hidden>True</Hidden>
   <CanDecay>True</CanDecay>
   <AlwaysDisplayTNS>True</AlwaysDisplayTNS>
   <Level_2_Text>InfluenceSocialite2</Level_2_Text>
@@ -1876,7 +1820,6 @@
   <CodeVersion>EP10</CodeVersion>
   <MaxSkillLevel>2</MaxSkillLevel>
   <Commodity>SkillFirewalking</Commodity>
-  <Hidden>True</Hidden>
   <Level_1>300</Level_1>
   <Level_2>500</Level_2>
   <AvailableAgeSpecies>T,Y,A,E</AvailableAgeSpecies>
@@ -1888,7 +1831,6 @@
   <MaxSkillLevel>10</MaxSkillLevel>
   <Commodity>SkillWaterskiing</Commodity>
   <Physical>True</Physical>
-  <Hidden>True</Hidden>
   <HiddenWithSkillProgress>True</HiddenWithSkillProgress>
   <Level_1>75</Level_1>
   <Level_2>100</Level_2>
@@ -1909,7 +1851,6 @@
   <MaxSkillLevel>10</MaxSkillLevel>
   <Commodity>SkillWindsurfing</Commodity>
   <Physical>True</Physical>
-  <Hidden>True</Hidden>
   <HiddenWithSkillProgress>True</HiddenWithSkillProgress>
   <Level_1>75</Level_1>
   <Level_2>100</Level_2>
@@ -2014,7 +1955,6 @@
   <MaxSkillLevel>3</MaxSkillLevel>
   <Commodity>SkillBugEating</Commodity>
   <Physical>True</Physical>
-  <Hidden>True</Hidden>
   <Level_1>300</Level_1>
   <Level_2>500</Level_2>
   <Level_3>700</Level_3>
